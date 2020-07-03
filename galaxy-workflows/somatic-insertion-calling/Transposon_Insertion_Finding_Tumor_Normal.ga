@@ -1,0 +1,2644 @@
+{
+  "uuid": "14afe2e7-aa71-462a-af63-853f9dad73f7",
+  "tags": [],
+  "format-version": "0.1",
+  "name": "Transposon Insertion Finding Tumor/Normal - All in One version 0.5.16",
+  "version": 4,
+  "steps": {
+    "0": {
+      "tool_id": null,
+      "tool_version": null,
+      "outputs": [],
+      "workflow_outputs": [
+        {
+          "output_name": "output",
+          "uuid": "42ffbf11-2422-49a4-9adb-6bcbe2ac582f",
+          "label": null
+        }
+      ],
+      "input_connections": {},
+      "tool_state": "{\"collection_type\": \"list:paired\"}",
+      "id": 0,
+      "uuid": "66ef18e2-e265-438c-8f11-750e3b7bba02",
+      "errors": null,
+      "name": "Input dataset collection",
+      "label": null,
+      "inputs": [],
+      "position": {
+        "top": 719.00390625,
+        "left": 293.4765625
+      },
+      "annotation": "",
+      "content_id": null,
+      "type": "data_collection_input"
+    },
+    "1": {
+      "tool_id": null,
+      "tool_version": null,
+      "outputs": [],
+      "workflow_outputs": [
+        {
+          "output_name": "output",
+          "uuid": "75b424e9-9ce2-4e53-b5b1-12416a416967",
+          "label": null
+        }
+      ],
+      "input_connections": {},
+      "tool_state": "{\"optional\": false, \"parameter_type\": \"text\"}",
+      "id": 1,
+      "uuid": "5bada4d7-1950-4701-8fd5-f2a6ffe766cd",
+      "errors": null,
+      "name": "Input parameter",
+      "label": "Part of dataset name that identifies tumors or guts ",
+      "inputs": [],
+      "position": {
+        "top": 835.99609375,
+        "left": 276.484375
+      },
+      "annotation": "",
+      "content_id": null,
+      "type": "parameter_input"
+    },
+    "2": {
+      "tool_id": null,
+      "tool_version": null,
+      "outputs": [],
+      "workflow_outputs": [
+        {
+          "output_name": "output",
+          "uuid": "1b35029c-21d7-4fbc-b36e-72835f5a4524",
+          "label": null
+        }
+      ],
+      "input_connections": {},
+      "tool_state": "{}",
+      "id": 2,
+      "uuid": "4aa87537-7413-457b-aab4-1d87a0210bf1",
+      "errors": null,
+      "name": "Input dataset",
+      "label": "Canonical Transposable Element fasta",
+      "inputs": [],
+      "position": {
+        "top": 971.9921875,
+        "left": 284.4921875
+      },
+      "annotation": "",
+      "content_id": null,
+      "type": "data_input"
+    },
+    "3": {
+      "tool_id": "d216b0eb84f63cf4",
+      "inputs": [],
+      "outputs": [],
+      "subworkflow": {
+        "uuid": "c00cc6b2-9a43-4c22-81b3-4588bf3363f9",
+        "tags": "",
+        "format-version": "0.1",
+        "name": "2. trimmed reads to tagged alignments and clusters 0.5.16",
+        "steps": {
+          "0": {
+            "tool_id": null,
+            "tool_version": null,
+            "outputs": [],
+            "workflow_outputs": [
+              {
+                "output_name": "output",
+                "uuid": "968622ca-4639-4a37-ab62-949ff0b21b7b",
+                "label": null
+              }
+            ],
+            "input_connections": {},
+            "tool_state": "{\"collection_type\": \"list:paired\"}",
+            "id": 0,
+            "uuid": "fd7a7154-6dbb-4309-85e0-33bc5fd2ddc6",
+            "errors": null,
+            "name": "Input dataset collection",
+            "label": "Trimmed Fastq paired collection input",
+            "inputs": [],
+            "position": {
+              "top": 344.98046875,
+              "left": 426.953125
+            },
+            "annotation": "",
+            "content_id": null,
+            "type": "data_collection_input"
+          },
+          "1": {
+            "tool_id": null,
+            "tool_version": null,
+            "outputs": [],
+            "workflow_outputs": [
+              {
+                "output_name": "output",
+                "uuid": "00de0dfd-2b33-499e-8c64-23c50a739c80",
+                "label": null
+              }
+            ],
+            "input_connections": {},
+            "tool_state": "{\"optional\": false, \"parameter_type\": \"text\"}",
+            "id": 1,
+            "uuid": "09f81562-11c9-4026-8733-c096a102b92c",
+            "errors": null,
+            "name": "Input parameter",
+            "label": "Dataset name that identifies tumors",
+            "inputs": [],
+            "position": {
+              "top": 881.46484375,
+              "left": 186.484375
+            },
+            "annotation": "",
+            "content_id": null,
+            "type": "parameter_input"
+          },
+          "2": {
+            "tool_id": null,
+            "tool_version": null,
+            "outputs": [],
+            "workflow_outputs": [
+              {
+                "output_name": "output",
+                "uuid": "c63ca72a-1790-4270-bf6f-de7152c03046",
+                "label": null
+              }
+            ],
+            "input_connections": {},
+            "tool_state": "{}",
+            "id": 2,
+            "uuid": "bcfdc2a7-5369-4b6b-bbbd-bd66c48ed05c",
+            "errors": null,
+            "name": "Input dataset",
+            "label": "Canonical Transposable Element reference",
+            "inputs": [],
+            "position": {
+              "top": 187.98828125,
+              "left": 1545.4296875
+            },
+            "annotation": "",
+            "content_id": null,
+            "type": "data_input"
+          },
+          "3": {
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/devteam/bowtie2/bowtie2/2.3.4.2",
+            "tool_version": "2.3.4.2",
+            "outputs": [
+              {
+                "type": "bam",
+                "name": "output"
+              }
+            ],
+            "workflow_outputs": [],
+            "input_connections": {
+              "library|input_1": {
+                "output_name": "output",
+                "id": 0
+              }
+            },
+            "tool_state": "{\"sam_options\": \"{\\\"__current_case__\\\": 0, \\\"no_unal\\\": \\\"true\\\", \\\"omit_sec_seq\\\": \\\"false\\\", \\\"reorder\\\": \\\"false\\\", \\\"sam_no_qname_trunc\\\": \\\"false\\\", \\\"sam_opt\\\": \\\"false\\\", \\\"sam_options_selector\\\": \\\"yes\\\", \\\"soft_clipped_unmapped_tlen\\\": \\\"false\\\", \\\"xeq\\\": \\\"false\\\"}\", \"__page__\": null, \"__rerun_remap_job_id__\": null, \"library\": \"{\\\"__current_case__\\\": 2, \\\"aligned_file\\\": \\\"false\\\", \\\"input_1\\\": {\\\"__class__\\\": \\\"ConnectedValue\\\"}, \\\"paired_options\\\": {\\\"__current_case__\\\": 1, \\\"paired_options_selector\\\": \\\"no\\\"}, \\\"type\\\": \\\"paired_collection\\\", \\\"unaligned_file\\\": \\\"false\\\"}\", \"reference_genome\": \"{\\\"__current_case__\\\": 0, \\\"index\\\": \\\"all_fbti\\\", \\\"source\\\": \\\"indexed\\\"}\", \"rg\": \"{\\\"__current_case__\\\": 3, \\\"rg_selector\\\": \\\"do_not_set\\\"}\", \"save_mapping_stats\": \"\\\"false\\\"\", \"analysis_type\": \"{\\\"__current_case__\\\": 0, \\\"analysis_type_selector\\\": \\\"simple\\\", \\\"presets\\\": \\\"--very-sensitive-local\\\"}\"}",
+            "id": 3,
+            "tool_shed_repository": {
+              "owner": "devteam",
+              "changeset_revision": "17062a0decb7",
+              "name": "bowtie2",
+              "tool_shed": "toolshed.g2.bx.psu.edu"
+            },
+            "uuid": "39fa8ccb-0aa5-4fda-9627-bb020989a9a9",
+            "errors": null,
+            "name": "Bowtie2",
+            "post_job_actions": {
+              "DeleteIntermediatesActionoutput_unaligned_reads_l": {
+                "output_name": "output_unaligned_reads_l",
+                "action_type": "DeleteIntermediatesAction",
+                "action_arguments": {}
+              },
+              "HideDatasetActionoutput": {
+                "output_name": "output",
+                "action_type": "HideDatasetAction",
+                "action_arguments": {}
+              },
+              "RenameDatasetActionoutput": {
+                "output_name": "output",
+                "action_type": "RenameDatasetAction",
+                "action_arguments": {
+                  "newname": "FBti alignments"
+                }
+              },
+              "TagDatasetActionoutput": {
+                "output_name": "output",
+                "action_type": "TagDatasetAction",
+                "action_arguments": {
+                  "tags": "fbti alignment"
+                }
+              }
+            },
+            "label": "Transposable Element Alignment",
+            "inputs": [],
+            "position": {
+              "top": 253.96484375,
+              "left": 746.875
+            },
+            "annotation": "",
+            "content_id": "toolshed.g2.bx.psu.edu/repos/devteam/bowtie2/bowtie2/2.3.4.2",
+            "type": "tool"
+          },
+          "4": {
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/devteam/bwa/bwa_mem/0.7.17.1",
+            "tool_version": "0.7.17.1",
+            "outputs": [
+              {
+                "type": "bam",
+                "name": "bam_output"
+              }
+            ],
+            "workflow_outputs": [],
+            "input_connections": {
+              "fastq_input|fastq_input1": {
+                "output_name": "output",
+                "id": 0
+              }
+            },
+            "tool_state": "{\"__page__\": null, \"__rerun_remap_job_id__\": null, \"rg\": \"{\\\"__current_case__\\\": 3, \\\"rg_selector\\\": \\\"do_not_set\\\"}\", \"fastq_input\": \"{\\\"__current_case__\\\": 2, \\\"fastq_input1\\\": {\\\"__class__\\\": \\\"ConnectedValue\\\"}, \\\"fastq_input_selector\\\": \\\"paired_collection\\\", \\\"iset_stats\\\": \\\"\\\"}\", \"analysis_type\": \"{\\\"__current_case__\\\": 4, \\\"algorithmic_options\\\": {\\\"__current_case__\\\": 1, \\\"algorithmic_options_selector\\\": \\\"do_not_set\\\"}, \\\"analysis_type_selector\\\": \\\"full\\\", \\\"io_options\\\": {\\\"C\\\": \\\"false\\\", \\\"M\\\": \\\"false\\\", \\\"T\\\": \\\"30\\\", \\\"V\\\": \\\"false\\\", \\\"Y\\\": \\\"true\\\", \\\"__current_case__\\\": 0, \\\"a\\\": \\\"false\\\", \\\"five\\\": \\\"false\\\", \\\"h\\\": \\\"5\\\", \\\"io_options_selector\\\": \\\"set\\\", \\\"q\\\": \\\"true\\\"}, \\\"scoring_options\\\": {\\\"__current_case__\\\": 1, \\\"scoring_options_selector\\\": \\\"do_not_set\\\"}}\", \"reference_source\": \"{\\\"__current_case__\\\": 0, \\\"ref_file\\\": \\\"dm6\\\", \\\"reference_source_selector\\\": \\\"cached\\\"}\"}",
+            "id": 4,
+            "tool_shed_repository": {
+              "owner": "devteam",
+              "changeset_revision": "8d2a528a9513",
+              "name": "bwa",
+              "tool_shed": "toolshed.g2.bx.psu.edu"
+            },
+            "uuid": "a6c9c62f-89b5-4aee-a325-167d549335e5",
+            "errors": null,
+            "name": "Map with BWA-MEM",
+            "post_job_actions": {
+              "TagDatasetActionbam_output": {
+                "output_name": "bam_output",
+                "action_type": "TagDatasetAction",
+                "action_arguments": {
+                  "tags": "dm6 alignment"
+                }
+              },
+              "DeleteIntermediatesActionbam_output": {
+                "output_name": "bam_output",
+                "action_type": "DeleteIntermediatesAction",
+                "action_arguments": {}
+              },
+              "HideDatasetActionbam_output": {
+                "output_name": "bam_output",
+                "action_type": "HideDatasetAction",
+                "action_arguments": {}
+              },
+              "RenameDatasetActionbam_output": {
+                "output_name": "bam_output",
+                "action_type": "RenameDatasetAction",
+                "action_arguments": {
+                  "newname": "Genome alignments"
+                }
+              }
+            },
+            "label": "Genome Alignment",
+            "inputs": [],
+            "position": {
+              "top": 737.98828125,
+              "left": 852.94921875
+            },
+            "annotation": "",
+            "content_id": "toolshed.g2.bx.psu.edu/repos/devteam/bwa/bwa_mem/0.7.17.1",
+            "type": "tool"
+          },
+          "5": {
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/devteam/bwa/bwa_mem/0.7.17.1",
+            "tool_version": "0.7.17.1",
+            "outputs": [
+              {
+                "type": "bam",
+                "name": "bam_output"
+              }
+            ],
+            "workflow_outputs": [
+              {
+                "output_name": "bam_output",
+                "uuid": "5c8427a8-1f6c-4843-9585-e963acc2417e",
+                "label": "canonical transposons"
+              }
+            ],
+            "input_connections": {
+              "fastq_input|fastq_input1": {
+                "output_name": "output",
+                "id": 0
+              }
+            },
+            "tool_state": "{\"__page__\": null, \"__rerun_remap_job_id__\": null, \"rg\": \"{\\\"__current_case__\\\": 3, \\\"rg_selector\\\": \\\"do_not_set\\\"}\", \"fastq_input\": \"{\\\"__current_case__\\\": 2, \\\"fastq_input1\\\": {\\\"__class__\\\": \\\"ConnectedValue\\\"}, \\\"fastq_input_selector\\\": \\\"paired_collection\\\", \\\"iset_stats\\\": \\\"\\\"}\", \"analysis_type\": \"{\\\"__current_case__\\\": 0, \\\"analysis_type_selector\\\": \\\"illumina\\\"}\", \"reference_source\": \"{\\\"__current_case__\\\": 0, \\\"ref_file\\\": \\\"cbergman_te_11_2017_dmel\\\", \\\"reference_source_selector\\\": \\\"cached\\\"}\"}",
+            "id": 5,
+            "tool_shed_repository": {
+              "owner": "devteam",
+              "changeset_revision": "8d2a528a9513",
+              "name": "bwa",
+              "tool_shed": "toolshed.g2.bx.psu.edu"
+            },
+            "uuid": "7d8eb5ab-2689-4a12-b976-35cb01d5b718",
+            "errors": null,
+            "name": "Map with BWA-MEM",
+            "post_job_actions": {
+              "RenameDatasetActionbam_output": {
+                "output_name": "bam_output",
+                "action_type": "RenameDatasetAction",
+                "action_arguments": {
+                  "newname": "dmel canonical transposons"
+                }
+              }
+            },
+            "label": "Canonical Transposons",
+            "inputs": [],
+            "position": {
+              "top": 935.95703125,
+              "left": 858.9453125
+            },
+            "annotation": "",
+            "content_id": "toolshed.g2.bx.psu.edu/repos/devteam/bwa/bwa_mem/0.7.17.1",
+            "type": "tool"
+          },
+          "6": {
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/mvdbeek/bam_readtagger/bam_readtagger/0.5.16",
+            "tool_version": "0.5.16",
+            "outputs": [
+              {
+                "type": "bam",
+                "name": "tagged_file"
+              },
+              {
+                "type": "bam",
+                "name": "verified_file"
+              },
+              {
+                "type": "bam",
+                "name": "discarded_file"
+              }
+            ],
+            "workflow_outputs": [
+              {
+                "output_name": "tagged_file",
+                "uuid": "6bb6c83e-4fd6-49f7-9b4e-ef91ffd9f936",
+                "label": "readtagger tagged bam"
+              }
+            ],
+            "input_connections": {
+              "tag_file": {
+                "output_name": "bam_output",
+                "id": 4
+              },
+              "reference_fasta": {
+                "output_name": "output",
+                "id": 2
+              },
+              "alignment_series_0|annotate_with": {
+                "output_name": "output",
+                "id": 3
+              }
+            },
+            "tool_state": "{\"__page__\": null, \"verified\": \"\\\"true\\\"\", \"__rerun_remap_job_id__\": null, \"allow_dovetailing\": \"\\\"true\\\"\", \"discard_suboptimal\": \"\\\"true\\\"\", \"discarded\": \"\\\"true\\\"\", \"tag_file\": \"{\\\"__class__\\\": \\\"ConnectedValue\\\"}\", \"reference_fasta\": \"{\\\"__class__\\\": \\\"ConnectedValue\\\"}\", \"discard_proper_pairs\": \"\\\"false\\\"\", \"alignment_series\": \"[{\\\"__index__\\\": 0, \\\"annotate_with\\\": {\\\"__class__\\\": \\\"ConnectedValue\\\"}, \\\"m_tag\\\": \\\"B\\\", \\\"r_tag\\\": \\\"A\\\"}]\"}",
+            "id": 6,
+            "tool_shed_repository": {
+              "owner": "mvdbeek",
+              "changeset_revision": "97411db5f752",
+              "name": "bam_readtagger",
+              "tool_shed": "toolshed.g2.bx.psu.edu"
+            },
+            "uuid": "d09108e6-3947-4010-8e01-bb85c9d53eb3",
+            "errors": null,
+            "name": "Tag alignment files",
+            "post_job_actions": {
+              "TagDatasetActiontagged_file": {
+                "output_name": "tagged_file",
+                "action_type": "TagDatasetAction",
+                "action_arguments": {
+                  "tags": "tagged total"
+                }
+              },
+              "HideDatasetActionverified_file": {
+                "output_name": "verified_file",
+                "action_type": "HideDatasetAction",
+                "action_arguments": {}
+              },
+              "TagDatasetActionverified_file": {
+                "output_name": "verified_file",
+                "action_type": "TagDatasetAction",
+                "action_arguments": {
+                  "tags": "tagged verified"
+                }
+              },
+              "HideDatasetActiondiscarded_file": {
+                "output_name": "discarded_file",
+                "action_type": "HideDatasetAction",
+                "action_arguments": {}
+              }
+            },
+            "label": null,
+            "inputs": [],
+            "position": {
+              "top": 395.99609375,
+              "left": 1239.9609375
+            },
+            "annotation": "",
+            "content_id": "toolshed.g2.bx.psu.edu/repos/mvdbeek/bam_readtagger/bam_readtagger/0.5.16",
+            "type": "tool"
+          },
+          "7": {
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/collection_element_identifiers/collection_element_identifiers/0.0.1",
+            "tool_version": "0.0.1",
+            "outputs": [
+              {
+                "type": "txt",
+                "name": "output"
+              }
+            ],
+            "workflow_outputs": [
+              {
+                "output_name": "output",
+                "uuid": "8c4bda1a-d39e-48b9-bd21-ffa0d2d9053f",
+                "label": null
+              }
+            ],
+            "input_connections": {
+              "input_collection": {
+                "output_name": "bam_output",
+                "id": 5
+              }
+            },
+            "tool_state": "{\"__page__\": null, \"__rerun_remap_job_id__\": null, \"input_collection\": \"{\\\"__class__\\\": \\\"RuntimeValue\\\"}\"}",
+            "id": 7,
+            "tool_shed_repository": {
+              "owner": "iuc",
+              "changeset_revision": "220ee3518f19",
+              "name": "collection_element_identifiers",
+              "tool_shed": "toolshed.g2.bx.psu.edu"
+            },
+            "uuid": "21866880-0643-4d8b-90ba-78367b41d985",
+            "errors": null,
+            "name": "Extract element identifiers",
+            "post_job_actions": {},
+            "label": null,
+            "inputs": [
+              {
+                "name": "input_collection",
+                "description": "runtime parameter for tool Extract element identifiers"
+              }
+            ],
+            "position": {
+              "top": 673.4375,
+              "left": 340.46875
+            },
+            "annotation": "",
+            "content_id": "toolshed.g2.bx.psu.edu/repos/iuc/collection_element_identifiers/collection_element_identifiers/0.0.1",
+            "type": "tool"
+          },
+          "8": {
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/devteam/samtools_idxstats/samtools_idxstats/2.0.1",
+            "tool_version": "2.0.1",
+            "outputs": [
+              {
+                "type": "tabular",
+                "name": "output"
+              }
+            ],
+            "workflow_outputs": [
+              {
+                "output_name": "output",
+                "uuid": "b315f367-4543-4223-9f7d-9ce0e992aa36",
+                "label": "canonical transposon counts"
+              }
+            ],
+            "input_connections": {
+              "input": {
+                "output_name": "bam_output",
+                "id": 5
+              }
+            },
+            "tool_state": "{\"input\": \"{\\\"__class__\\\": \\\"ConnectedValue\\\"}\", \"__rerun_remap_job_id__\": null, \"__page__\": null}",
+            "id": 8,
+            "tool_shed_repository": {
+              "owner": "devteam",
+              "changeset_revision": "88b8c2916784",
+              "name": "samtools_idxstats",
+              "tool_shed": "toolshed.g2.bx.psu.edu"
+            },
+            "uuid": "03bb2fa6-bcb6-4fa3-a15a-a62a19c55f2e",
+            "errors": null,
+            "name": "IdxStats",
+            "post_job_actions": {},
+            "label": null,
+            "inputs": [],
+            "position": {
+              "top": 867.98828125,
+              "left": 1187.9296875
+            },
+            "annotation": "",
+            "content_id": "toolshed.g2.bx.psu.edu/repos/devteam/samtools_idxstats/samtools_idxstats/2.0.1",
+            "type": "tool"
+          },
+          "9": {
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/mvdbeek/bam_readtagger/findcluster/0.5.16",
+            "tool_version": "0.5.16",
+            "outputs": [
+              {
+                "type": "bam",
+                "name": "output_bam"
+              },
+              {
+                "type": "fasta",
+                "name": "output_fasta"
+              },
+              {
+                "type": "gff3",
+                "name": "output_gff"
+              }
+            ],
+            "workflow_outputs": [
+              {
+                "output_name": "output_bam",
+                "uuid": "d6e12582-ac48-4cea-84a0-a3cb61bec685",
+                "label": "findcluster BAM"
+              },
+              {
+                "output_name": "output_gff",
+                "uuid": "09b19f07-7f45-4ef8-89e9-af1edcca3ecb",
+                "label": "findcluster GFF"
+              }
+            ],
+            "input_connections": {
+              "input": {
+                "output_name": "tagged_file",
+                "id": 6
+              }
+            },
+            "tool_state": "{\"__page__\": null, \"transposon_source\": \"{\\\"__current_case__\\\": 0, \\\"ref_file\\\": \\\"cbergman_te_11_2017_dmel\\\", \\\"reference_source_selector\\\": \\\"cached\\\"}\", \"make_vcf\": \"\\\"false\\\"\", \"make_bam\": \"\\\"true\\\"\", \"genome_source\": \"{\\\"__current_case__\\\": 0, \\\"ref_file\\\": \\\"dm6_no_decoy\\\", \\\"reference_source_selector\\\": \\\"cached\\\"}\", \"__rerun_remap_job_id__\": null, \"make_fasta\": \"\\\"true\\\"\", \"input\": \"{\\\"__class__\\\": \\\"ConnectedValue\\\"}\", \"make_gff\": \"\\\"true\\\"\"}",
+            "id": 9,
+            "tool_shed_repository": {
+              "owner": "mvdbeek",
+              "changeset_revision": "97411db5f752",
+              "name": "bam_readtagger",
+              "tool_shed": "toolshed.g2.bx.psu.edu"
+            },
+            "uuid": "b8a9a8ec-5279-4645-b7b9-85b95bf5ed7d",
+            "errors": null,
+            "name": "Find clusters of reads",
+            "post_job_actions": {
+              "HideDatasetActionoutput_fasta": {
+                "output_name": "output_fasta",
+                "action_type": "HideDatasetAction",
+                "action_arguments": {}
+              }
+            },
+            "label": null,
+            "inputs": [],
+            "position": {
+              "top": 430.4296875,
+              "left": 1577.94921875
+            },
+            "annotation": "",
+            "content_id": "toolshed.g2.bx.psu.edu/repos/mvdbeek/bam_readtagger/findcluster/0.5.16",
+            "type": "tool"
+          },
+          "10": {
+            "tool_id": "Grep1",
+            "tool_version": "1.0.1",
+            "outputs": [
+              {
+                "type": "input",
+                "name": "out_file1"
+              }
+            ],
+            "workflow_outputs": [
+              {
+                "output_name": "out_file1",
+                "uuid": "b776ecc6-616c-411c-88f2-3202b000c91c",
+                "label": "List of tumor identifiers"
+              }
+            ],
+            "input_connections": {
+              "pattern": {
+                "output_name": "output",
+                "id": 1
+              },
+              "input": {
+                "output_name": "output",
+                "id": 7
+              }
+            },
+            "tool_state": "{\"__page__\": null, \"input\": \"{\\\"__class__\\\": \\\"ConnectedValue\\\"}\", \"invert\": \"\\\"false\\\"\", \"__rerun_remap_job_id__\": null, \"pattern\": \"{\\\"__class__\\\": \\\"ConnectedValue\\\"}\"}",
+            "id": 10,
+            "uuid": "f1897e87-96c9-4556-8819-eaa54056ef5d",
+            "errors": null,
+            "name": "Select",
+            "post_job_actions": {
+              "RenameDatasetActionout_file1": {
+                "output_name": "out_file1",
+                "action_type": "RenameDatasetAction",
+                "action_arguments": {
+                  "newname": "List of tumor identifiers"
+                }
+              }
+            },
+            "label": null,
+            "inputs": [],
+            "position": {
+              "top": 887.4609375,
+              "left": 516.484375
+            },
+            "annotation": "",
+            "content_id": "Grep1",
+            "type": "tool"
+          },
+          "11": {
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/multiqc/multiqc/1.7",
+            "tool_version": "1.7",
+            "outputs": [
+              {
+                "type": "input",
+                "name": "stats"
+              },
+              {
+                "type": "html",
+                "name": "html_report"
+              }
+            ],
+            "workflow_outputs": [],
+            "input_connections": {
+              "results_0|software_cond|output_0|type|input": {
+                "output_name": "output",
+                "id": 8
+              }
+            },
+            "tool_state": "{\"comment\": \"\\\"\\\"\", \"__page__\": null, \"title\": \"\\\"Canonical TE stats\\\"\", \"__rerun_remap_job_id__\": null, \"results\": \"[{\\\"__index__\\\": 0, \\\"software_cond\\\": {\\\"__current_case__\\\": 22, \\\"output\\\": [{\\\"__index__\\\": 0, \\\"type\\\": {\\\"__current_case__\\\": 2, \\\"input\\\": {\\\"__class__\\\": \\\"ConnectedValue\\\"}, \\\"type\\\": \\\"idxstats\\\"}}], \\\"software\\\": \\\"samtools\\\"}}]\", \"saveLog\": \"\\\"false\\\"\"}",
+            "id": 11,
+            "tool_shed_repository": {
+              "owner": "iuc",
+              "changeset_revision": "161f4383df15",
+              "name": "multiqc",
+              "tool_shed": "toolshed.g2.bx.psu.edu"
+            },
+            "uuid": "7341fccd-789c-478a-b0d4-c06b3653315b",
+            "errors": null,
+            "name": "MultiQC",
+            "post_job_actions": {
+              "HideDatasetActionhtml_report": {
+                "output_name": "html_report",
+                "action_type": "HideDatasetAction",
+                "action_arguments": {}
+              },
+              "HideDatasetActionstats": {
+                "output_name": "stats",
+                "action_type": "HideDatasetAction",
+                "action_arguments": {}
+              }
+            },
+            "label": null,
+            "inputs": [],
+            "position": {
+              "top": 741.3671875,
+              "left": 1544.375
+            },
+            "annotation": "",
+            "content_id": "toolshed.g2.bx.psu.edu/repos/iuc/multiqc/multiqc/1.7",
+            "type": "tool"
+          },
+          "12": {
+            "tool_id": "__FILTER_FROM_FILE__",
+            "tool_version": "1.0.0",
+            "outputs": [
+              {
+                "type": "input",
+                "name": "output_filtered"
+              },
+              {
+                "type": "input",
+                "name": "output_discarded"
+              }
+            ],
+            "workflow_outputs": [],
+            "input_connections": {
+              "how|filter_source": {
+                "output_name": "out_file1",
+                "id": 10
+              },
+              "input": {
+                "output_name": "bam_output",
+                "id": 5
+              }
+            },
+            "tool_state": "{\"__page__\": null, \"how\": \"{\\\"__current_case__\\\": 0, \\\"filter_source\\\": {\\\"__class__\\\": \\\"ConnectedValue\\\"}, \\\"how_filter\\\": \\\"remove_if_absent\\\"}\", \"__rerun_remap_job_id__\": null, \"input\": \"{\\\"__class__\\\": \\\"ConnectedValue\\\"}\"}",
+            "id": 12,
+            "uuid": "80f8a0fe-2710-4a8f-8ed5-80aae5c3d260",
+            "errors": null,
+            "name": "Filter List",
+            "post_job_actions": {
+              "HideDatasetActionoutput_discarded": {
+                "output_name": "output_discarded",
+                "action_type": "HideDatasetAction",
+                "action_arguments": {}
+              },
+              "HideDatasetActionoutput_filtered": {
+                "output_name": "output_filtered",
+                "action_type": "HideDatasetAction",
+                "action_arguments": {}
+              }
+            },
+            "label": null,
+            "inputs": [],
+            "position": {
+              "top": 1120.37109375,
+              "left": 1012.3828125
+            },
+            "annotation": "",
+            "content_id": "__FILTER_FROM_FILE__",
+            "type": "tool"
+          },
+          "13": {
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/mvdbeek/bam_readtagger/plot_coverage/0.4.18",
+            "tool_version": "0.4.18",
+            "outputs": [
+              {
+                "type": "pdf",
+                "name": "output"
+              }
+            ],
+            "workflow_outputs": [
+              {
+                "output_name": "output",
+                "uuid": "04a72f21-2dfc-4cd4-8191-5ac6522eae09",
+                "label": "Canonical Transposon Coverage plots"
+              }
+            ],
+            "input_connections": {
+              "input2": {
+                "output_name": "output_discarded",
+                "id": 12
+              },
+              "input1": {
+                "output_name": "output_filtered",
+                "id": 12
+              }
+            },
+            "tool_state": "{\"input2\": \"{\\\"__class__\\\": \\\"ConnectedValue\\\"}\", \"regions\": \"\\\"\\\"\", \"__rerun_remap_job_id__\": null, \"input1\": \"{\\\"__class__\\\": \\\"ConnectedValue\\\"}\", \"__page__\": null}",
+            "id": 13,
+            "tool_shed_repository": {
+              "owner": "mvdbeek",
+              "changeset_revision": "6c6a6a828c4f",
+              "name": "bam_readtagger",
+              "tool_shed": "toolshed.g2.bx.psu.edu"
+            },
+            "uuid": "f7547c4f-ffad-4cb9-8e2f-57ea42610b72",
+            "errors": null,
+            "name": "Plot coverage",
+            "post_job_actions": {
+              "RenameDatasetActionoutput": {
+                "output_name": "output",
+                "action_type": "RenameDatasetAction",
+                "action_arguments": {
+                  "newname": "Canonical Transposon Coverage plots"
+                }
+              }
+            },
+            "label": null,
+            "inputs": [],
+            "position": {
+              "top": 1032.3828125,
+              "left": 1298.3984375
+            },
+            "annotation": "",
+            "content_id": "toolshed.g2.bx.psu.edu/repos/mvdbeek/bam_readtagger/plot_coverage/0.4.18",
+            "type": "tool"
+          }
+        },
+        "annotation": "",
+        "a_galaxy_workflow": "true"
+      },
+      "workflow_outputs": [
+        {
+          "output_name": "canonical transposons",
+          "uuid": "dfbbbb6b-2737-4d72-b092-07411fbb5208",
+          "label": null
+        },
+        {
+          "output_name": "canonical transposon counts",
+          "uuid": "990d362c-bc4b-4ff8-ab91-c77198cb711c",
+          "label": null
+        },
+        {
+          "output_name": "findcluster BAM",
+          "uuid": "fd340783-304c-4792-bbf6-7e37994bc745",
+          "label": null
+        },
+        {
+          "output_name": "readtagger tagged bam",
+          "uuid": "a251bd63-b488-4829-9b85-a497365a224f",
+          "label": null
+        },
+        {
+          "output_name": "Canonical Transposon Coverage plots",
+          "uuid": "ca5f28ba-f0c9-42bb-8a4e-a900de60c9ee",
+          "label": null
+        },
+        {
+          "output_name": "List of tumor identifiers",
+          "uuid": "97a83577-33d6-4e5b-8077-0d645e8f8df6",
+          "label": null
+        },
+        {
+          "output_name": "7:output",
+          "uuid": "69da8681-7884-4a3f-9acf-3dba0ab5b73d",
+          "label": null
+        },
+        {
+          "output_name": "findcluster GFF",
+          "uuid": "51d57455-ca68-418d-a270-91a0e8ba6606",
+          "label": null
+        }
+      ],
+      "input_connections": {
+        "Canonical Transposable Element reference": {
+          "input_subworkflow_step_id": 2,
+          "output_name": "output",
+          "id": 2
+        },
+        "Trimmed Fastq paired collection input": {
+          "input_subworkflow_step_id": 0,
+          "output_name": "output",
+          "id": 0
+        },
+        "Dataset name that identifies tumors": {
+          "input_subworkflow_step_id": 1,
+          "output_name": "output",
+          "id": 1
+        }
+      },
+      "id": 3,
+      "uuid": "ebe80c12-98bf-4326-982d-e6bc2163bddd",
+      "name": "2. trimmed reads to tagged alignments and clusters 0.5.16",
+      "label": null,
+      "position": {
+        "top": 200,
+        "left": 637.48046875
+      },
+      "annotation": "",
+      "type": "subworkflow"
+    },
+    "4": {
+      "tool_id": "d76cd3ffbd3d6b3a",
+      "inputs": [],
+      "outputs": [],
+      "subworkflow": {
+        "uuid": "009f7212-34e8-4d30-9995-ccbbc48238e2",
+        "tags": "",
+        "format-version": "0.1",
+        "name": "3. Filter putative somatic insertions from readtagger/findcluster 0.4.19",
+        "steps": {
+          "0": {
+            "tool_id": null,
+            "tool_version": null,
+            "outputs": [],
+            "workflow_outputs": [
+              {
+                "output_name": "output",
+                "uuid": "cc184119-c709-4ded-af1f-d08a26bc552d",
+                "label": null
+              }
+            ],
+            "input_connections": {},
+            "tool_state": "{}",
+            "id": 0,
+            "uuid": "11643a96-da57-4f43-af29-a2dff2dfdb99",
+            "errors": null,
+            "name": "Input dataset",
+            "label": "Tumor/gut identifier",
+            "inputs": [],
+            "position": {
+              "top": 406.5625,
+              "left": 191.15234375
+            },
+            "annotation": "",
+            "content_id": null,
+            "type": "data_input"
+          },
+          "1": {
+            "tool_id": null,
+            "tool_version": null,
+            "outputs": [],
+            "workflow_outputs": [
+              {
+                "output_name": "output",
+                "uuid": "01b4d5b8-05fc-46d5-bbae-8061af137d27",
+                "label": null
+              }
+            ],
+            "input_connections": {},
+            "tool_state": "{\"collection_type\": \"list\"}",
+            "id": 1,
+            "uuid": "7efd8b38-c5dc-420d-8624-c98d583f8a11",
+            "errors": null,
+            "name": "Input dataset collection",
+            "label": "Findcluster GFF",
+            "inputs": [],
+            "position": {
+              "top": 546.5625,
+              "left": 207.1875
+            },
+            "annotation": "",
+            "content_id": null,
+            "type": "data_collection_input"
+          },
+          "2": {
+            "tool_id": null,
+            "tool_version": null,
+            "outputs": [],
+            "workflow_outputs": [
+              {
+                "output_name": "output",
+                "uuid": "b1bb59a2-4d58-4e74-adbd-f91c4f5935fd",
+                "label": null
+              }
+            ],
+            "input_connections": {},
+            "tool_state": "{\"collection_type\": \"list\"}",
+            "id": 2,
+            "uuid": "e5a0dbec-8e37-48d9-b595-4944c2c9b6f3",
+            "errors": null,
+            "name": "Input dataset collection",
+            "label": "Tagged alignments",
+            "inputs": [],
+            "position": {
+              "top": 616.97265625,
+              "left": 207.1875
+            },
+            "annotation": "",
+            "content_id": null,
+            "type": "data_collection_input"
+          },
+          "3": {
+            "tool_id": null,
+            "tool_version": null,
+            "outputs": [],
+            "workflow_outputs": [
+              {
+                "output_name": "output",
+                "uuid": "3607a298-bce6-45af-92dd-f9245dbedeab",
+                "label": null
+              }
+            ],
+            "input_connections": {},
+            "tool_state": "{\"collection_type\": \"list\"}",
+            "id": 3,
+            "uuid": "3e22fd29-7494-4e6e-9588-7bd862ad8b31",
+            "errors": null,
+            "name": "Input dataset collection",
+            "label": "Findcluster BAM",
+            "inputs": [],
+            "position": {
+              "top": 757.75390625,
+              "left": 207.1875
+            },
+            "annotation": "",
+            "content_id": null,
+            "type": "data_collection_input"
+          },
+          "4": {
+            "tool_id": "Grep1",
+            "tool_version": null,
+            "outputs": [
+              {
+                "type": "input",
+                "name": "out_file1"
+              }
+            ],
+            "workflow_outputs": [],
+            "input_connections": {
+              "input": {
+                "output_name": "output",
+                "id": 1
+              }
+            },
+            "tool_state": "{\"__page__\": null, \"input\": \"{\\\"__class__\\\": \\\"ConnectedValue\\\"}\", \"invert\": \"\\\"false\\\"\", \"__rerun_remap_job_id__\": null, \"pattern\": \"\\\"^2L\\\\\\\\t|^2R\\\\\\\\t|^3L\\\\\\\\t|^3R\\\\\\\\t|^4\\\\\\\\t|^X\\\\\\\\t|^Y\\\\\\\\t\\\"\"}",
+            "id": 4,
+            "uuid": "8cba6bed-3f18-4b0a-a019-8817da88e64c",
+            "errors": null,
+            "name": "Select",
+            "post_job_actions": {
+              "HideDatasetActionout_file1": {
+                "output_name": "out_file1",
+                "action_type": "HideDatasetAction",
+                "action_arguments": {}
+              }
+            },
+            "label": "Drop chroms tumor",
+            "inputs": [],
+            "position": {
+              "top": 546.5625,
+              "left": 439.1796875
+            },
+            "annotation": "",
+            "content_id": "Grep1",
+            "type": "tool"
+          },
+          "5": {
+            "tool_id": "05bf548021f41f6c",
+            "inputs": [],
+            "outputs": [],
+            "subworkflow": {
+              "uuid": "60b3029f-b629-4800-aec3-adc66edb7e19",
+              "tags": "",
+              "format-version": "0.1",
+              "name": "filter tumor/normal",
+              "steps": {
+                "0": {
+                  "tool_id": null,
+                  "tool_version": null,
+                  "outputs": [],
+                  "workflow_outputs": [
+                    {
+                      "output_name": "output",
+                      "uuid": "2d8a8cb3-9aa0-48a2-8a2c-5e505abce10c",
+                      "label": null
+                    }
+                  ],
+                  "input_connections": {},
+                  "tool_state": "{\"collection_type\": \"list\"}",
+                  "id": 0,
+                  "uuid": "3645eca1-7b28-4e72-a276-e2dd481c6d33",
+                  "errors": null,
+                  "name": "Input dataset collection",
+                  "label": null,
+                  "inputs": [],
+                  "position": {
+                    "top": 253.4765625,
+                    "left": 140.46875
+                  },
+                  "annotation": "",
+                  "content_id": null,
+                  "type": "data_collection_input"
+                },
+                "1": {
+                  "tool_id": null,
+                  "tool_version": null,
+                  "outputs": [],
+                  "workflow_outputs": [
+                    {
+                      "output_name": "output",
+                      "uuid": "7e14a7e5-ca56-49c0-9163-5c6d314edcb0",
+                      "label": null
+                    }
+                  ],
+                  "input_connections": {},
+                  "tool_state": "{}",
+                  "id": 1,
+                  "uuid": "057c7197-4388-4f41-99c2-609765158fef",
+                  "errors": null,
+                  "name": "Input dataset",
+                  "label": "filter datasets",
+                  "inputs": [],
+                  "position": {
+                    "top": 352.48046875,
+                    "left": 190.48828125
+                  },
+                  "annotation": "",
+                  "content_id": null,
+                  "type": "data_input"
+                },
+                "2": {
+                  "tool_id": "__FILTER_FROM_FILE__",
+                  "tool_version": null,
+                  "outputs": [
+                    {
+                      "type": "input",
+                      "name": "output_filtered"
+                    },
+                    {
+                      "type": "input",
+                      "name": "output_discarded"
+                    }
+                  ],
+                  "workflow_outputs": [
+                    {
+                      "output_name": "output_discarded",
+                      "uuid": "9a8b4242-064a-491b-af22-b35573104080",
+                      "label": "Normal"
+                    },
+                    {
+                      "output_name": "output_filtered",
+                      "uuid": "9efb27dc-280b-4d57-bf88-1bd44eef7540",
+                      "label": "Tumor"
+                    }
+                  ],
+                  "input_connections": {
+                    "how|filter_source": {
+                      "output_name": "output",
+                      "id": 1
+                    },
+                    "input": {
+                      "output_name": "output",
+                      "id": 0
+                    }
+                  },
+                  "tool_state": "{\"__page__\": null, \"how\": \"{\\\"__current_case__\\\": 0, \\\"filter_source\\\": {\\\"__class__\\\": \\\"ConnectedValue\\\"}, \\\"how_filter\\\": \\\"remove_if_absent\\\"}\", \"__rerun_remap_job_id__\": null, \"input\": \"{\\\"__class__\\\": \\\"ConnectedValue\\\"}\"}",
+                  "id": 2,
+                  "uuid": "183b5aa9-9117-485c-9573-960650b116a6",
+                  "errors": null,
+                  "name": "Filter List",
+                  "post_job_actions": {},
+                  "label": "Split tumor normal",
+                  "inputs": [],
+                  "position": {
+                    "top": 250.46875,
+                    "left": 918.0078125
+                  },
+                  "annotation": "",
+                  "content_id": "__FILTER_FROM_FILE__",
+                  "type": "tool"
+                }
+              },
+              "annotation": "",
+              "a_galaxy_workflow": "true"
+            },
+            "workflow_outputs": [
+              {
+                "output_name": "Tumor",
+                "uuid": "29c3078c-e7fd-4ab0-b218-722528e55eb8",
+                "label": null
+              },
+              {
+                "output_name": "Normal",
+                "uuid": "d6ce539d-7e59-4bab-a98f-0ed82f8589f0",
+                "label": null
+              }
+            ],
+            "input_connections": {
+              "filter datasets": {
+                "input_subworkflow_step_id": 1,
+                "output_name": "output",
+                "id": 0
+              },
+              "0:Input dataset collection": {
+                "input_subworkflow_step_id": 0,
+                "output_name": "output",
+                "id": 2
+              }
+            },
+            "id": 5,
+            "uuid": "a3aed960-d029-49cd-be1c-a217b5d1e27a",
+            "name": "filter tumor/normal",
+            "label": "filter readtagger alignment groups",
+            "position": {
+              "top": 656.97265625,
+              "left": 439.1796875
+            },
+            "annotation": "",
+            "type": "subworkflow"
+          },
+          "6": {
+            "tool_id": "c3e6313f0f678209",
+            "inputs": [],
+            "outputs": [],
+            "subworkflow": {
+              "uuid": "a5995ef8-8c9b-484d-8258-705c60bc296f",
+              "tags": "",
+              "format-version": "0.1",
+              "name": "filter tumor/normal",
+              "steps": {
+                "0": {
+                  "tool_id": null,
+                  "tool_version": null,
+                  "outputs": [],
+                  "workflow_outputs": [
+                    {
+                      "output_name": "output",
+                      "uuid": "e4cf355e-7032-4ce1-889b-df2cadf30bfa",
+                      "label": null
+                    }
+                  ],
+                  "input_connections": {},
+                  "tool_state": "{\"collection_type\": \"list\"}",
+                  "id": 0,
+                  "uuid": "aa794634-5a2a-4ebc-9b06-5f7527de9b73",
+                  "errors": null,
+                  "name": "Input dataset collection",
+                  "label": null,
+                  "inputs": [],
+                  "position": {
+                    "top": 253.4765625,
+                    "left": 140.46875
+                  },
+                  "annotation": "",
+                  "content_id": null,
+                  "type": "data_collection_input"
+                },
+                "1": {
+                  "tool_id": null,
+                  "tool_version": null,
+                  "outputs": [],
+                  "workflow_outputs": [
+                    {
+                      "output_name": "output",
+                      "uuid": "156b0cac-9336-4e0f-937b-7423db98a3d9",
+                      "label": null
+                    }
+                  ],
+                  "input_connections": {},
+                  "tool_state": "{}",
+                  "id": 1,
+                  "uuid": "42c1ab70-9e8b-4588-b030-578f9106c717",
+                  "errors": null,
+                  "name": "Input dataset",
+                  "label": "filter datasets",
+                  "inputs": [],
+                  "position": {
+                    "top": 352.48046875,
+                    "left": 190.48828125
+                  },
+                  "annotation": "",
+                  "content_id": null,
+                  "type": "data_input"
+                },
+                "2": {
+                  "tool_id": "__FILTER_FROM_FILE__",
+                  "tool_version": null,
+                  "outputs": [
+                    {
+                      "type": "input",
+                      "name": "output_filtered"
+                    },
+                    {
+                      "type": "input",
+                      "name": "output_discarded"
+                    }
+                  ],
+                  "workflow_outputs": [
+                    {
+                      "output_name": "output_discarded",
+                      "uuid": "50fe2d21-f70a-4c78-9026-f053c4268c64",
+                      "label": "Normal"
+                    },
+                    {
+                      "output_name": "output_filtered",
+                      "uuid": "b2eeed81-a377-4629-85f3-441b6c13574b",
+                      "label": "Tumor"
+                    }
+                  ],
+                  "input_connections": {
+                    "how|filter_source": {
+                      "output_name": "output",
+                      "id": 1
+                    },
+                    "input": {
+                      "output_name": "output",
+                      "id": 0
+                    }
+                  },
+                  "tool_state": "{\"__page__\": null, \"how\": \"{\\\"__current_case__\\\": 0, \\\"filter_source\\\": {\\\"__class__\\\": \\\"ConnectedValue\\\"}, \\\"how_filter\\\": \\\"remove_if_absent\\\"}\", \"__rerun_remap_job_id__\": null, \"input\": \"{\\\"__class__\\\": \\\"ConnectedValue\\\"}\"}",
+                  "id": 2,
+                  "uuid": "65fba47c-fa2f-4f68-94ed-f3e0c7d2869a",
+                  "errors": null,
+                  "name": "Filter List",
+                  "post_job_actions": {},
+                  "label": "Split tumor normal",
+                  "inputs": [],
+                  "position": {
+                    "top": 250.46875,
+                    "left": 918.0078125
+                  },
+                  "annotation": "",
+                  "content_id": "__FILTER_FROM_FILE__",
+                  "type": "tool"
+                }
+              },
+              "annotation": "",
+              "a_galaxy_workflow": "true"
+            },
+            "workflow_outputs": [
+              {
+                "output_name": "Tumor",
+                "uuid": "b4b038e1-3e52-4717-bdfe-502e55a9d5fa",
+                "label": null
+              },
+              {
+                "output_name": "Normal",
+                "uuid": "d66ed6cf-a27a-47f2-bac9-dc56e5cb10d2",
+                "label": null
+              }
+            ],
+            "input_connections": {
+              "filter datasets": {
+                "input_subworkflow_step_id": 1,
+                "output_name": "output",
+                "id": 0
+              },
+              "0:Input dataset collection": {
+                "input_subworkflow_step_id": 0,
+                "output_name": "output",
+                "id": 3
+              }
+            },
+            "id": 6,
+            "uuid": "4c496dbc-f13d-41f5-96ec-7b7e3529e841",
+            "name": "filter tumor/normal",
+            "label": "filter readtagger findcluster groups",
+            "position": {
+              "top": 873.76953125,
+              "left": 439.1796875
+            },
+            "annotation": "",
+            "type": "subworkflow"
+          },
+          "7": {
+            "tool_id": "a27b5c37ceef7a82",
+            "inputs": [],
+            "outputs": [],
+            "subworkflow": {
+              "uuid": "dff1c0bd-5f3c-4946-9ef1-f0c10ead5634",
+              "tags": "",
+              "format-version": "0.1",
+              "name": "filter tumor/normal",
+              "steps": {
+                "0": {
+                  "tool_id": null,
+                  "tool_version": null,
+                  "outputs": [],
+                  "workflow_outputs": [
+                    {
+                      "output_name": "output",
+                      "uuid": "75db8b63-a024-4561-99ed-68adacd0493d",
+                      "label": null
+                    }
+                  ],
+                  "input_connections": {},
+                  "tool_state": "{\"collection_type\": \"list\"}",
+                  "id": 0,
+                  "uuid": "ead0a9ff-1923-4fad-9cba-dfcc6d5c421b",
+                  "errors": null,
+                  "name": "Input dataset collection",
+                  "label": null,
+                  "inputs": [],
+                  "position": {
+                    "top": 253.4765625,
+                    "left": 140.46875
+                  },
+                  "annotation": "",
+                  "content_id": null,
+                  "type": "data_collection_input"
+                },
+                "1": {
+                  "tool_id": null,
+                  "tool_version": null,
+                  "outputs": [],
+                  "workflow_outputs": [
+                    {
+                      "output_name": "output",
+                      "uuid": "14293b7d-5043-4027-b69e-7baa0b318475",
+                      "label": null
+                    }
+                  ],
+                  "input_connections": {},
+                  "tool_state": "{}",
+                  "id": 1,
+                  "uuid": "8fed4902-8431-412e-b713-c8a9dbeb9ec1",
+                  "errors": null,
+                  "name": "Input dataset",
+                  "label": "filter datasets",
+                  "inputs": [],
+                  "position": {
+                    "top": 352.48046875,
+                    "left": 190.48828125
+                  },
+                  "annotation": "",
+                  "content_id": null,
+                  "type": "data_input"
+                },
+                "2": {
+                  "tool_id": "__FILTER_FROM_FILE__",
+                  "tool_version": null,
+                  "outputs": [
+                    {
+                      "type": "input",
+                      "name": "output_filtered"
+                    },
+                    {
+                      "type": "input",
+                      "name": "output_discarded"
+                    }
+                  ],
+                  "workflow_outputs": [
+                    {
+                      "output_name": "output_discarded",
+                      "uuid": "380e8e16-39d6-47c2-8003-1396bc2f6c92",
+                      "label": "Normal"
+                    },
+                    {
+                      "output_name": "output_filtered",
+                      "uuid": "797a65a7-e1b7-475e-9486-835c398c99a8",
+                      "label": "Tumor"
+                    }
+                  ],
+                  "input_connections": {
+                    "how|filter_source": {
+                      "output_name": "output",
+                      "id": 1
+                    },
+                    "input": {
+                      "output_name": "output",
+                      "id": 0
+                    }
+                  },
+                  "tool_state": "{\"__page__\": null, \"how\": \"{\\\"__current_case__\\\": 0, \\\"filter_source\\\": {\\\"__class__\\\": \\\"ConnectedValue\\\"}, \\\"how_filter\\\": \\\"remove_if_absent\\\"}\", \"__rerun_remap_job_id__\": null, \"input\": \"{\\\"__class__\\\": \\\"ConnectedValue\\\"}\"}",
+                  "id": 2,
+                  "uuid": "ffd811a9-683e-4a0a-a73b-bfabead2a370",
+                  "errors": null,
+                  "name": "Filter List",
+                  "post_job_actions": {},
+                  "label": "Split tumor normal",
+                  "inputs": [],
+                  "position": {
+                    "top": 250.46875,
+                    "left": 918.0078125
+                  },
+                  "annotation": "",
+                  "content_id": "__FILTER_FROM_FILE__",
+                  "type": "tool"
+                }
+              },
+              "annotation": "",
+              "a_galaxy_workflow": "true"
+            },
+            "workflow_outputs": [
+              {
+                "output_name": "Tumor",
+                "uuid": "e96ad526-32b7-4e7a-8521-c1ec7c0de927",
+                "label": null
+              },
+              {
+                "output_name": "Normal",
+                "uuid": "a926767b-3f8f-4b15-af23-691921b27835",
+                "label": null
+              }
+            ],
+            "input_connections": {
+              "filter datasets": {
+                "input_subworkflow_step_id": 1,
+                "output_name": "output",
+                "id": 0
+              },
+              "0:Input dataset collection": {
+                "input_subworkflow_step_id": 0,
+                "output_name": "out_file1",
+                "id": 4
+              }
+            },
+            "id": 7,
+            "uuid": "e732fe4d-f94c-4220-9a2e-09820483688d",
+            "name": "filter tumor/normal",
+            "label": "filter findcluster GFF group",
+            "position": {
+              "top": 546.5625,
+              "left": 639.1796875
+            },
+            "annotation": "",
+            "type": "subworkflow"
+          },
+          "8": {
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/collection_element_identifiers/collection_element_identifiers/0.0.1",
+            "tool_version": null,
+            "outputs": [
+              {
+                "type": "txt",
+                "name": "output"
+              }
+            ],
+            "workflow_outputs": [],
+            "input_connections": {
+              "input_collection": {
+                "output_name": "Normal",
+                "id": 5
+              }
+            },
+            "tool_state": "{\"__page__\": null, \"__rerun_remap_job_id__\": null, \"input_collection\": \"{\\\"__class__\\\": \\\"ConnectedValue\\\"}\"}",
+            "id": 8,
+            "tool_shed_repository": {
+              "owner": "iuc",
+              "changeset_revision": "220ee3518f19",
+              "name": "collection_element_identifiers",
+              "tool_shed": "toolshed.g2.bx.psu.edu"
+            },
+            "uuid": "bc304658-55b7-4d96-b1ed-90284dee4c63",
+            "errors": null,
+            "name": "Extract element identifiers",
+            "post_job_actions": {
+              "HideDatasetActionoutput": {
+                "output_name": "output",
+                "action_type": "HideDatasetAction",
+                "action_arguments": {}
+              }
+            },
+            "label": null,
+            "inputs": [],
+            "position": {
+              "top": 763.37890625,
+              "left": 639.1796875
+            },
+            "annotation": "",
+            "content_id": "toolshed.g2.bx.psu.edu/repos/iuc/collection_element_identifiers/collection_element_identifiers/0.0.1",
+            "type": "tool"
+          },
+          "9": {
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/collection_element_identifiers/collection_element_identifiers/0.0.1",
+            "tool_version": null,
+            "outputs": [
+              {
+                "type": "txt",
+                "name": "output"
+              }
+            ],
+            "workflow_outputs": [],
+            "input_connections": {
+              "input_collection": {
+                "output_name": "Tumor",
+                "id": 5
+              }
+            },
+            "tool_state": "{\"__page__\": null, \"__rerun_remap_job_id__\": null, \"input_collection\": \"{\\\"__class__\\\": \\\"ConnectedValue\\\"}\"}",
+            "id": 9,
+            "tool_shed_repository": {
+              "owner": "iuc",
+              "changeset_revision": "220ee3518f19",
+              "name": "collection_element_identifiers",
+              "tool_shed": "toolshed.g2.bx.psu.edu"
+            },
+            "uuid": "4a0346f3-db4f-452e-a4af-1d6cc249355f",
+            "errors": null,
+            "name": "Extract element identifiers",
+            "post_job_actions": {
+              "HideDatasetActionoutput": {
+                "output_name": "output",
+                "action_type": "HideDatasetAction",
+                "action_arguments": {}
+              }
+            },
+            "label": null,
+            "inputs": [],
+            "position": {
+              "top": 857.75390625,
+              "left": 639.1796875
+            },
+            "annotation": "",
+            "content_id": "toolshed.g2.bx.psu.edu/repos/iuc/collection_element_identifiers/collection_element_identifiers/0.0.1",
+            "type": "tool"
+          },
+          "10": {
+            "tool_id": "Filter1",
+            "tool_version": null,
+            "outputs": [
+              {
+                "type": "input",
+                "name": "out_file1"
+              }
+            ],
+            "workflow_outputs": [],
+            "input_connections": {
+              "input": {
+                "output_name": "Tumor",
+                "id": 7
+              }
+            },
+            "tool_state": "{\"input\": \"{\\\"__class__\\\": \\\"ConnectedValue\\\"}\", \"__rerun_remap_job_id__\": null, \"header_lines\": \"\\\"0\\\"\", \"cond\": \"\\\"c2=='findcluster'\\\"\", \"__page__\": null}",
+            "id": 10,
+            "uuid": "eee9151c-9a0c-48e3-85ec-a1cb84ffc8b7",
+            "errors": null,
+            "name": "Filter",
+            "post_job_actions": {
+              "HideDatasetActionout_file1": {
+                "output_name": "out_file1",
+                "action_type": "HideDatasetAction",
+                "action_arguments": {}
+              }
+            },
+            "label": "TE insertions only",
+            "inputs": [],
+            "position": {
+              "top": 303.37890625,
+              "left": 851.9921875
+            },
+            "annotation": "",
+            "content_id": "Filter1",
+            "type": "tool"
+          },
+          "11": {
+            "tool_id": "Paste1",
+            "tool_version": null,
+            "outputs": [
+              {
+                "type": "input",
+                "name": "out_file1"
+              }
+            ],
+            "workflow_outputs": [],
+            "input_connections": {
+              "input2": {
+                "output_name": "output",
+                "id": 9
+              },
+              "input1": {
+                "output_name": "output",
+                "id": 8
+              }
+            },
+            "tool_state": "{\"input2\": \"{\\\"__class__\\\": \\\"ConnectedValue\\\"}\", \"__page__\": null, \"delimiter\": \"\\\"T\\\"\", \"input1\": \"{\\\"__class__\\\": \\\"ConnectedValue\\\"}\", \"__rerun_remap_job_id__\": null}",
+            "id": 11,
+            "uuid": "311bae7a-3f6d-4385-b254-afbd1495ee53",
+            "errors": null,
+            "name": "Paste",
+            "post_job_actions": {
+              "ChangeDatatypeActionout_file1": {
+                "output_name": "out_file1",
+                "action_type": "ChangeDatatypeAction",
+                "action_arguments": {
+                  "newtype": "tabular"
+                }
+              },
+              "HideDatasetActionout_file1": {
+                "output_name": "out_file1",
+                "action_type": "HideDatasetAction",
+                "action_arguments": {}
+              }
+            },
+            "label": null,
+            "inputs": [],
+            "position": {
+              "top": 767.36328125,
+              "left": 883.984375
+            },
+            "annotation": "",
+            "content_id": "Paste1",
+            "type": "tool"
+          },
+          "12": {
+            "tool_id": "Grep1",
+            "tool_version": null,
+            "outputs": [
+              {
+                "type": "input",
+                "name": "out_file1"
+              }
+            ],
+            "workflow_outputs": [],
+            "input_connections": {
+              "input": {
+                "output_name": "out_file1",
+                "id": 10
+              }
+            },
+            "tool_state": "{\"__page__\": null, \"input\": \"{\\\"__class__\\\": \\\"ConnectedValue\\\"}\", \"invert\": \"\\\"true\\\"\", \"__rerun_remap_job_id__\": null, \"pattern\": \"\\\".*mate_count=0.*mate_count=0.*softclip_clusters=;.*\\\"\"}",
+            "id": 12,
+            "uuid": "b0184105-64bd-48eb-85d8-51a1f483591e",
+            "errors": null,
+            "name": "Select",
+            "post_job_actions": {
+              "RenameDatasetActionout_file1": {
+                "output_name": "out_file1",
+                "action_type": "RenameDatasetAction",
+                "action_arguments": {
+                  "newname": "With Matesupport Tumor"
+                }
+              },
+              "HideDatasetActionout_file1": {
+                "output_name": "out_file1",
+                "action_type": "HideDatasetAction",
+                "action_arguments": {}
+              }
+            },
+            "label": "With Matesupport Tumor",
+            "inputs": [],
+            "position": {
+              "top": 546.5625,
+              "left": 1497.578125
+            },
+            "annotation": "",
+            "content_id": "Grep1",
+            "type": "tool"
+          },
+          "13": {
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/mvdbeek/bam_readtagger/confirm_insertions/0.5.16",
+            "tool_version": null,
+            "outputs": [
+              {
+                "type": "gff3",
+                "name": "output"
+              }
+            ],
+            "workflow_outputs": [],
+            "input_connections": {
+              "putative_insertions": {
+                "output_name": "out_file1",
+                "id": 12
+              },
+              "all_insertions": {
+                "output_name": "Tumor",
+                "id": 7
+              },
+              "all_controls": {
+                "output_name": "Normal",
+                "id": 7
+              }
+            },
+            "tool_state": "{\"min_length\": \"\\\"4\\\"\", \"all_controls\": \"{\\\"__class__\\\": \\\"RuntimeValue\\\"}\", \"__page__\": null, \"__rerun_remap_job_id__\": null, \"output_discard\": \"\\\"true\\\"\", \"putative_insertions\": \"{\\\"__class__\\\": \\\"RuntimeValue\\\"}\", \"all_insertions\": \"{\\\"__class__\\\": \\\"RuntimeValue\\\"}\"}",
+            "id": 13,
+            "tool_shed_repository": {
+              "owner": "mvdbeek",
+              "changeset_revision": "97411db5f752",
+              "name": "bam_readtagger",
+              "tool_shed": "toolshed.g2.bx.psu.edu"
+            },
+            "uuid": "6bdc62c4-28b6-4037-b60e-016c62c0d283",
+            "errors": null,
+            "name": "Confirm or discard insertions",
+            "post_job_actions": {
+              "HideDatasetActionoutput": {
+                "output_name": "output",
+                "action_type": "HideDatasetAction",
+                "action_arguments": {}
+              }
+            },
+            "label": "Confirmed insertions",
+            "inputs": [
+              {
+                "name": "putative_insertions",
+                "description": "runtime parameter for tool Confirm or discard insertions"
+              },
+              {
+                "name": "all_insertions",
+                "description": "runtime parameter for tool Confirm or discard insertions"
+              },
+              {
+                "name": "all_controls",
+                "description": "runtime parameter for tool Confirm or discard insertions"
+              }
+            ],
+            "position": {
+              "top": 588.9453125,
+              "left": 1705.546875
+            },
+            "annotation": "",
+            "content_id": "toolshed.g2.bx.psu.edu/repos/mvdbeek/bam_readtagger/confirm_insertions/0.5.16",
+            "type": "tool"
+          },
+          "14": {
+            "tool_id": "Filter1",
+            "tool_version": null,
+            "outputs": [
+              {
+                "type": "input",
+                "name": "out_file1"
+              }
+            ],
+            "workflow_outputs": [],
+            "input_connections": {
+              "input": {
+                "output_name": "output",
+                "id": 13
+              }
+            },
+            "tool_state": "{\"input\": \"{\\\"__class__\\\": \\\"ConnectedValue\\\"}\", \"__rerun_remap_job_id__\": null, \"header_lines\": \"\\\"0\\\"\", \"cond\": \"\\\"c3 != 'TE'\\\"\", \"__page__\": null}",
+            "id": 14,
+            "uuid": "cdbcfd26-8208-4113-a87e-2955d04801bc",
+            "errors": null,
+            "name": "Filter",
+            "post_job_actions": {
+              "RenameDatasetActionout_file1": {
+                "output_name": "out_file1",
+                "action_type": "RenameDatasetAction",
+                "action_arguments": {
+                  "newname": "All insertions with Matesupport (Tumor)"
+                }
+              },
+              "HideDatasetActionout_file1": {
+                "output_name": "out_file1",
+                "action_type": "HideDatasetAction",
+                "action_arguments": {}
+              }
+            },
+            "label": "Drop unknown insertions",
+            "inputs": [],
+            "position": {
+              "top": 470.56640625,
+              "left": 1889.58984375
+            },
+            "annotation": "",
+            "content_id": "Filter1",
+            "type": "tool"
+          },
+          "15": {
+            "tool_id": "Grep1",
+            "tool_version": null,
+            "outputs": [
+              {
+                "type": "input",
+                "name": "out_file1"
+              }
+            ],
+            "workflow_outputs": [],
+            "input_connections": {
+              "input": {
+                "output_name": "out_file1",
+                "id": 14
+              }
+            },
+            "tool_state": "{\"__page__\": null, \"input\": \"{\\\"__class__\\\": \\\"ConnectedValue\\\"}\", \"invert\": \"\\\"false\\\"\", \"__rerun_remap_job_id__\": null, \"pattern\": \"\\\"valid_TSD=False\\\"\"}",
+            "id": 15,
+            "uuid": "75d2fb1c-b55b-4720-88bc-caeb44f1f4e4",
+            "errors": null,
+            "name": "Select",
+            "post_job_actions": {
+              "HideDatasetActionout_file1": {
+                "output_name": "out_file1",
+                "action_type": "HideDatasetAction",
+                "action_arguments": {}
+              }
+            },
+            "label": "no TSD tumor",
+            "inputs": [],
+            "position": {
+              "top": 377.75390625,
+              "left": 2000
+            },
+            "annotation": "",
+            "content_id": "Grep1",
+            "type": "tool"
+          },
+          "16": {
+            "tool_id": "Grep1",
+            "tool_version": null,
+            "outputs": [
+              {
+                "type": "input",
+                "name": "out_file1"
+              }
+            ],
+            "workflow_outputs": [
+              {
+                "output_name": "out_file1",
+                "uuid": "fce3374e-edbb-488b-be06-6275521c0f93",
+                "label": "All TSD insertions with Matesupport (Tumor)"
+              }
+            ],
+            "input_connections": {
+              "input": {
+                "output_name": "out_file1",
+                "id": 14
+              }
+            },
+            "tool_state": "{\"__page__\": null, \"input\": \"{\\\"__class__\\\": \\\"ConnectedValue\\\"}\", \"invert\": \"\\\"false\\\"\", \"__rerun_remap_job_id__\": null, \"pattern\": \"\\\"valid_TSD=True\\\"\"}",
+            "id": 16,
+            "uuid": "959b3b5d-e760-4205-afd6-66f1022b4e41",
+            "errors": null,
+            "name": "Select",
+            "post_job_actions": {
+              "RenameDatasetActionout_file1": {
+                "output_name": "out_file1",
+                "action_type": "RenameDatasetAction",
+                "action_arguments": {
+                  "newname": "All TSD insertions with Matesupport (Tumor)"
+                }
+              }
+            },
+            "label": "valid TSD tumor",
+            "inputs": [],
+            "position": {
+              "top": 644.55078125,
+              "left": 2040.9765625
+            },
+            "annotation": "",
+            "content_id": "Grep1",
+            "type": "tool"
+          },
+          "17": {
+            "tool_id": "Grep1",
+            "tool_version": null,
+            "outputs": [
+              {
+                "type": "input",
+                "name": "out_file1"
+              }
+            ],
+            "workflow_outputs": [
+              {
+                "output_name": "out_file1",
+                "uuid": "50bacbb9-5a82-4047-99c0-d94afa7ab9fa",
+                "label": "no TSD tumor without clip seq in control"
+              }
+            ],
+            "input_connections": {
+              "input": {
+                "output_name": "out_file1",
+                "id": 15
+              }
+            },
+            "tool_state": "{\"__page__\": null, \"input\": \"{\\\"__class__\\\": \\\"ConnectedValue\\\"}\", \"invert\": \"\\\"true\\\"\", \"__rerun_remap_job_id__\": null, \"pattern\": \"\\\"FAIL\\\"\"}",
+            "id": 17,
+            "uuid": "c3279531-6836-49c8-a2ee-f5ee222f28d2",
+            "errors": null,
+            "name": "Select",
+            "post_job_actions": {
+              "RenameDatasetActionout_file1": {
+                "output_name": "out_file1",
+                "action_type": "RenameDatasetAction",
+                "action_arguments": {
+                  "newname": "no TSD tumor without clip seq in control"
+                }
+              }
+            },
+            "label": null,
+            "inputs": [],
+            "position": {
+              "top": 330.05859375,
+              "left": 2187.421875
+            },
+            "annotation": "",
+            "content_id": "Grep1",
+            "type": "tool"
+          },
+          "18": {
+            "tool_id": "Grep1",
+            "tool_version": null,
+            "outputs": [
+              {
+                "type": "input",
+                "name": "out_file1"
+              }
+            ],
+            "workflow_outputs": [
+              {
+                "output_name": "out_file1",
+                "uuid": "d53d98b7-d8fc-474c-9327-150ae82ed66d",
+                "label": "valid TSD tumor without clip seq in control"
+              }
+            ],
+            "input_connections": {
+              "input": {
+                "output_name": "out_file1",
+                "id": 16
+              }
+            },
+            "tool_state": "{\"__page__\": null, \"input\": \"{\\\"__class__\\\": \\\"ConnectedValue\\\"}\", \"invert\": \"\\\"true\\\"\", \"__rerun_remap_job_id__\": null, \"pattern\": \"\\\"FAIL\\\"\"}",
+            "id": 18,
+            "uuid": "327509c9-edca-4333-8a3b-85143ec0fb4b",
+            "errors": null,
+            "name": "Select",
+            "post_job_actions": {
+              "RenameDatasetActionout_file1": {
+                "output_name": "out_file1",
+                "action_type": "RenameDatasetAction",
+                "action_arguments": {
+                  "newname": "valid TSD tumor without clip seq in control"
+                }
+              }
+            },
+            "label": null,
+            "inputs": [],
+            "position": {
+              "top": 524.8046875,
+              "left": 2149.62890625
+            },
+            "annotation": "",
+            "content_id": "Grep1",
+            "type": "tool"
+          },
+          "19": {
+            "tool_id": "Grep1",
+            "tool_version": null,
+            "outputs": [
+              {
+                "type": "input",
+                "name": "out_file1"
+              }
+            ],
+            "workflow_outputs": [
+              {
+                "output_name": "out_file1",
+                "uuid": "ef3c245a-03a2-4483-b954-738e9201b66b",
+                "label": "All non-TSD insertions with 2-sided mate support (Tumor)"
+              }
+            ],
+            "input_connections": {
+              "input": {
+                "output_name": "out_file1",
+                "id": 17
+              }
+            },
+            "tool_state": "{\"__page__\": null, \"input\": \"{\\\"__class__\\\": \\\"ConnectedValue\\\"}\", \"invert\": \"\\\"true\\\"\", \"__rerun_remap_job_id__\": null, \"pattern\": \"\\\".*count=0.*|softclip_clusters=;\\\"\"}",
+            "id": 19,
+            "uuid": "09bd651d-a99b-4347-9a70-cb0f6fb751c8",
+            "errors": null,
+            "name": "Select",
+            "post_job_actions": {
+              "RenameDatasetActionout_file1": {
+                "output_name": "out_file1",
+                "action_type": "RenameDatasetAction",
+                "action_arguments": {
+                  "newname": "All non-TSD insertions with 2-sided mate support"
+                }
+              }
+            },
+            "label": "no TSD, 2-sided mate support tumor",
+            "inputs": [],
+            "position": {
+              "top": 392.94921875,
+              "left": 2331.9921875
+            },
+            "annotation": "",
+            "content_id": "Grep1",
+            "type": "tool"
+          },
+          "20": {
+            "tool_id": "Grep1",
+            "tool_version": null,
+            "outputs": [
+              {
+                "type": "input",
+                "name": "out_file1"
+              }
+            ],
+            "workflow_outputs": [
+              {
+                "output_name": "out_file1",
+                "uuid": "ab219bed-e879-4d77-82a9-5c9a39c1de85",
+                "label": "valid TSD tumor without clip seq or overlap in control"
+              }
+            ],
+            "input_connections": {
+              "input": {
+                "output_name": "out_file1",
+                "id": 18
+              }
+            },
+            "tool_state": "{\"__page__\": null, \"input\": \"{\\\"__class__\\\": \\\"ConnectedValue\\\"}\", \"invert\": \"\\\"false\\\"\", \"__rerun_remap_job_id__\": null, \"pattern\": \"\\\"overlaps=$\\\"\"}",
+            "id": 20,
+            "uuid": "9bdf0f73-adfa-493a-8583-75ce1213601b",
+            "errors": null,
+            "name": "Select",
+            "post_job_actions": {
+              "RenameDatasetActionout_file1": {
+                "output_name": "out_file1",
+                "action_type": "RenameDatasetAction",
+                "action_arguments": {
+                  "newname": "valid TSD tumor without clip seq or overlap in control"
+                }
+              }
+            },
+            "label": null,
+            "inputs": [],
+            "position": {
+              "top": 272.48046875,
+              "left": 2544.453125
+            },
+            "annotation": "",
+            "content_id": "Grep1",
+            "type": "tool"
+          },
+          "21": {
+            "tool_id": "__FILTER_EMPTY_DATASETS__",
+            "tool_version": null,
+            "outputs": [
+              {
+                "type": "input",
+                "name": "output"
+              }
+            ],
+            "workflow_outputs": [],
+            "input_connections": {
+              "input": {
+                "output_name": "out_file1",
+                "id": 20
+              }
+            },
+            "tool_state": "{\"input\": \"{\\\"__class__\\\": \\\"ConnectedValue\\\"}\", \"__rerun_remap_job_id__\": null, \"__page__\": null}",
+            "id": 21,
+            "uuid": "396d2000-5d64-4c85-8cac-05c79f54f0c0",
+            "errors": null,
+            "name": "Filter empty",
+            "post_job_actions": {
+              "HideDatasetActionoutput": {
+                "output_name": "output",
+                "action_type": "HideDatasetAction",
+                "action_arguments": {}
+              }
+            },
+            "label": null,
+            "inputs": [],
+            "position": {
+              "top": 672.1484375,
+              "left": 2347.98828125
+            },
+            "annotation": "",
+            "content_id": "__FILTER_EMPTY_DATASETS__",
+            "type": "tool"
+          },
+          "22": {
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/collection_element_identifiers/collection_element_identifiers/0.0.1",
+            "tool_version": null,
+            "outputs": [
+              {
+                "type": "txt",
+                "name": "output"
+              }
+            ],
+            "workflow_outputs": [],
+            "input_connections": {
+              "input_collection": {
+                "output_name": "output",
+                "id": 21
+              }
+            },
+            "tool_state": "{\"__page__\": null, \"__rerun_remap_job_id__\": null, \"input_collection\": \"{\\\"__class__\\\": \\\"ConnectedValue\\\"}\"}",
+            "id": 22,
+            "tool_shed_repository": {
+              "owner": "iuc",
+              "changeset_revision": "220ee3518f19",
+              "name": "collection_element_identifiers",
+              "tool_shed": "toolshed.g2.bx.psu.edu"
+            },
+            "uuid": "bd038c1c-50cd-463f-b702-9c8a08e3bf4e",
+            "errors": null,
+            "name": "Extract element identifiers",
+            "post_job_actions": {
+              "ChangeDatatypeActionoutput": {
+                "output_name": "output",
+                "action_type": "ChangeDatatypeAction",
+                "action_arguments": {
+                  "newtype": "tabular"
+                }
+              },
+              "HideDatasetActionoutput": {
+                "output_name": "output",
+                "action_type": "HideDatasetAction",
+                "action_arguments": {}
+              }
+            },
+            "label": null,
+            "inputs": [],
+            "position": {
+              "top": 481.7578125,
+              "left": 2565.56640625
+            },
+            "annotation": "",
+            "content_id": "toolshed.g2.bx.psu.edu/repos/iuc/collection_element_identifiers/collection_element_identifiers/0.0.1",
+            "type": "tool"
+          },
+          "23": {
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/bedtools/bedtools_bedtoigv/2.27.1",
+            "tool_version": null,
+            "outputs": [
+              {
+                "type": "txt",
+                "name": "output"
+              }
+            ],
+            "workflow_outputs": [],
+            "input_connections": {
+              "input": {
+                "output_name": "output",
+                "id": 21
+              }
+            },
+            "tool_state": "{\"sort\": \"\\\"\\\"\", \"__page__\": null, \"slop\": \"\\\"0\\\"\", \"name\": \"\\\"true\\\"\", \"img\": \"\\\"png\\\"\", \"clps\": \"\\\"false\\\"\", \"input\": \"{\\\"__class__\\\": \\\"ConnectedValue\\\"}\", \"__rerun_remap_job_id__\": null}",
+            "id": 23,
+            "tool_shed_repository": {
+              "owner": "iuc",
+              "changeset_revision": "87ee588b3d45",
+              "name": "bedtools",
+              "tool_shed": "toolshed.g2.bx.psu.edu"
+            },
+            "uuid": "e2b78916-5a37-4fa5-adff-5cc4e6df4467",
+            "errors": null,
+            "name": "bedtools BED to IGV",
+            "post_job_actions": {
+              "HideDatasetActionoutput": {
+                "output_name": "output",
+                "action_type": "HideDatasetAction",
+                "action_arguments": {}
+              }
+            },
+            "label": "Tumor IGV regions",
+            "inputs": [],
+            "position": {
+              "top": 640.95703125,
+              "left": 2610.37109375
+            },
+            "annotation": "",
+            "content_id": "toolshed.g2.bx.psu.edu/repos/iuc/bedtools/bedtools_bedtoigv/2.27.1",
+            "type": "tool"
+          },
+          "24": {
+            "tool_id": "join1",
+            "tool_version": null,
+            "outputs": [
+              {
+                "type": "tabular",
+                "name": "out_file1"
+              }
+            ],
+            "workflow_outputs": [],
+            "input_connections": {
+              "input2": {
+                "output_name": "output",
+                "id": 22
+              },
+              "input1": {
+                "output_name": "out_file1",
+                "id": 11
+              }
+            },
+            "tool_state": "{\"input2\": \"{\\\"__class__\\\": \\\"ConnectedValue\\\"}\", \"__page__\": null, \"field1\": \"\\\"2\\\"\", \"partial\": \"\\\"\\\"\", \"field2\": \"\\\"1\\\"\", \"__rerun_remap_job_id__\": null, \"fill_empty_columns\": \"{\\\"__current_case__\\\": 0, \\\"fill_empty_columns_switch\\\": \\\"no_fill\\\"}\", \"unmatched\": \"\\\"\\\"\", \"header\": \"\\\"\\\"\", \"input1\": \"{\\\"__class__\\\": \\\"ConnectedValue\\\"}\"}",
+            "id": 24,
+            "uuid": "112f386e-b894-43f2-a029-9ba8273936aa",
+            "errors": null,
+            "name": "Join two Datasets",
+            "post_job_actions": {
+              "HideDatasetActionout_file1": {
+                "output_name": "out_file1",
+                "action_type": "HideDatasetAction",
+                "action_arguments": {}
+              }
+            },
+            "label": null,
+            "inputs": [],
+            "position": {
+              "top": 546.5625,
+              "left": 2872.7734375
+            },
+            "annotation": "",
+            "content_id": "join1",
+            "type": "tool"
+          },
+          "25": {
+            "tool_id": "__FILTER_FROM_FILE__",
+            "tool_version": null,
+            "outputs": [
+              {
+                "type": "input",
+                "name": "output_filtered"
+              },
+              {
+                "type": "input",
+                "name": "output_discarded"
+              }
+            ],
+            "workflow_outputs": [],
+            "input_connections": {
+              "input": {
+                "output_name": "Tumor",
+                "id": 5
+              },
+              "how|filter_source": {
+                "output_name": "output",
+                "id": 22
+              }
+            },
+            "tool_state": "{\"__page__\": null, \"how\": \"{\\\"__current_case__\\\": 0, \\\"filter_source\\\": {\\\"__class__\\\": \\\"ConnectedValue\\\"}, \\\"how_filter\\\": \\\"remove_if_absent\\\"}\", \"__rerun_remap_job_id__\": null, \"input\": \"{\\\"__class__\\\": \\\"ConnectedValue\\\"}\"}",
+            "id": 25,
+            "uuid": "d539c5fb-4c36-4b42-b112-9400278b7334",
+            "errors": null,
+            "name": "Filter List",
+            "post_job_actions": {
+              "HideDatasetActionoutput_discarded": {
+                "output_name": "output_discarded",
+                "action_type": "HideDatasetAction",
+                "action_arguments": {}
+              },
+              "HideDatasetActionoutput_filtered": {
+                "output_name": "output_filtered",
+                "action_type": "HideDatasetAction",
+                "action_arguments": {}
+              }
+            },
+            "label": "Filter empty alignment",
+            "inputs": [],
+            "position": {
+              "top": 664.16015625,
+              "left": 2872.7734375
+            },
+            "annotation": "",
+            "content_id": "__FILTER_FROM_FILE__",
+            "type": "tool"
+          },
+          "26": {
+            "tool_id": "__FILTER_FROM_FILE__",
+            "tool_version": null,
+            "outputs": [
+              {
+                "type": "input",
+                "name": "output_filtered"
+              },
+              {
+                "type": "input",
+                "name": "output_discarded"
+              }
+            ],
+            "workflow_outputs": [],
+            "input_connections": {
+              "input": {
+                "output_name": "Tumor",
+                "id": 6
+              },
+              "how|filter_source": {
+                "output_name": "output",
+                "id": 22
+              }
+            },
+            "tool_state": "{\"__page__\": null, \"how\": \"{\\\"__current_case__\\\": 0, \\\"filter_source\\\": {\\\"__class__\\\": \\\"ConnectedValue\\\"}, \\\"how_filter\\\": \\\"remove_if_absent\\\"}\", \"__rerun_remap_job_id__\": null, \"input\": \"{\\\"__class__\\\": \\\"ConnectedValue\\\"}\"}",
+            "id": 26,
+            "uuid": "30927c09-5386-46be-a77b-d9838577bc8a",
+            "errors": null,
+            "name": "Filter List",
+            "post_job_actions": {
+              "HideDatasetActionoutput_discarded": {
+                "output_name": "output_discarded",
+                "action_type": "HideDatasetAction",
+                "action_arguments": {}
+              },
+              "HideDatasetActionoutput_filtered": {
+                "output_name": "output_filtered",
+                "action_type": "HideDatasetAction",
+                "action_arguments": {}
+              }
+            },
+            "label": "Filter empty cluster",
+            "inputs": [],
+            "position": {
+              "top": 820.15625,
+              "left": 2872.7734375
+            },
+            "annotation": "",
+            "content_id": "__FILTER_FROM_FILE__",
+            "type": "tool"
+          },
+          "27": {
+            "tool_id": "Cut1",
+            "tool_version": null,
+            "outputs": [
+              {
+                "type": "tabular",
+                "name": "out_file1"
+              }
+            ],
+            "workflow_outputs": [],
+            "input_connections": {
+              "input": {
+                "output_name": "out_file1",
+                "id": 24
+              }
+            },
+            "tool_state": "{\"columnList\": \"\\\"c1\\\"\", \"input\": \"{\\\"__class__\\\": \\\"ConnectedValue\\\"}\", \"delimiter\": \"\\\"T\\\"\", \"__rerun_remap_job_id__\": null, \"__page__\": null}",
+            "id": 27,
+            "uuid": "1c959a00-6795-430e-8b58-debd5de5a568",
+            "errors": null,
+            "name": "Cut",
+            "post_job_actions": {
+              "HideDatasetActionout_file1": {
+                "output_name": "out_file1",
+                "action_type": "HideDatasetAction",
+                "action_arguments": {}
+              }
+            },
+            "label": null,
+            "inputs": [],
+            "position": {
+              "top": 546.5625,
+              "left": 3104.765625
+            },
+            "annotation": "",
+            "content_id": "Cut1",
+            "type": "tool"
+          },
+          "28": {
+            "tool_id": "__FILTER_FROM_FILE__",
+            "tool_version": null,
+            "outputs": [
+              {
+                "type": "input",
+                "name": "output_filtered"
+              },
+              {
+                "type": "input",
+                "name": "output_discarded"
+              }
+            ],
+            "workflow_outputs": [],
+            "input_connections": {
+              "input": {
+                "output_name": "Normal",
+                "id": 5
+              },
+              "how|filter_source": {
+                "output_name": "out_file1",
+                "id": 27
+              }
+            },
+            "tool_state": "{\"__page__\": null, \"how\": \"{\\\"__current_case__\\\": 0, \\\"filter_source\\\": {\\\"__class__\\\": \\\"ConnectedValue\\\"}, \\\"how_filter\\\": \\\"remove_if_absent\\\"}\", \"__rerun_remap_job_id__\": null, \"input\": \"{\\\"__class__\\\": \\\"ConnectedValue\\\"}\"}",
+            "id": 28,
+            "uuid": "a98f1a1d-bc2a-4cc7-b38b-0e313c20bb13",
+            "errors": null,
+            "name": "Filter List",
+            "post_job_actions": {
+              "HideDatasetActionoutput_discarded": {
+                "output_name": "output_discarded",
+                "action_type": "HideDatasetAction",
+                "action_arguments": {}
+              },
+              "HideDatasetActionoutput_filtered": {
+                "output_name": "output_filtered",
+                "action_type": "HideDatasetAction",
+                "action_arguments": {}
+              }
+            },
+            "label": "Filter control alignments",
+            "inputs": [],
+            "position": {
+              "top": 440.15625,
+              "left": 3304.765625
+            },
+            "annotation": "",
+            "content_id": "__FILTER_FROM_FILE__",
+            "type": "tool"
+          },
+          "29": {
+            "tool_id": "testtoolshed.g2.bx.psu.edu/repos/mvdbeek/igv_take_screenshots/igv_make_screenshots/0.1.2",
+            "tool_version": null,
+            "outputs": [
+              {
+                "type": "input",
+                "name": "screenshots_out"
+              },
+              {
+                "type": "xml",
+                "name": "igv_session_out"
+              }
+            ],
+            "workflow_outputs": [
+              {
+                "output_name": "screenshots_out",
+                "uuid": "03c5a5e5-9f03-4195-9ce2-a7c597602102",
+                "label": "screenshots"
+              }
+            ],
+            "input_connections": {
+              "inputfiles_2|input": {
+                "output_name": "output_filtered",
+                "id": 28
+              },
+              "inputfiles_3|input": {
+                "output_name": "output_filtered",
+                "id": 26
+              },
+              "script_file": {
+                "output_name": "output",
+                "id": 23
+              },
+              "inputfiles_0|input": {
+                "output_name": "output",
+                "id": 21
+              },
+              "inputfiles_1|input": {
+                "output_name": "output_filtered",
+                "id": 25
+              }
+            },
+            "tool_state": "{\"__page__\": null, \"genome_source\": \"{\\\"__current_case__\\\": 0, \\\"genome\\\": \\\"dm6\\\", \\\"input_type_selector\\\": \\\"cached\\\"}\", \"show_softclippped\": \"\\\"true\\\"\", \"height\": \"\\\"1080\\\"\", \"width\": \"\\\"1920\\\"\", \"__rerun_remap_job_id__\": null, \"inputfiles\": \"[{\\\"__index__\\\": 0, \\\"color_by_tag\\\": \\\"CD\\\", \\\"input\\\": {\\\"__class__\\\": \\\"ConnectedValue\\\"}, \\\"label\\\": \\\"Insertion site\\\", \\\"section_height\\\": \\\"100\\\"}, {\\\"__index__\\\": 1, \\\"color_by_tag\\\": \\\"BD\\\", \\\"input\\\": {\\\"__class__\\\": \\\"ConnectedValue\\\"}, \\\"label\\\": \\\"Insertion Region\\\", \\\"section_height\\\": \\\"300\\\"}, {\\\"__index__\\\": 2, \\\"color_by_tag\\\": \\\"BD\\\", \\\"input\\\": {\\\"__class__\\\": \\\"ConnectedValue\\\"}, \\\"label\\\": \\\"Control region\\\", \\\"section_height\\\": \\\"300\\\"}, {\\\"__index__\\\": 3, \\\"color_by_tag\\\": \\\"CD\\\", \\\"input\\\": {\\\"__class__\\\": \\\"ConnectedValue\\\"}, \\\"label\\\": \\\"Insertion evidence\\\", \\\"section_height\\\": \\\"300\\\"}]\", \"script_file\": \"{\\\"__class__\\\": \\\"ConnectedValue\\\"}\", \"skip_screenshots\": \"\\\"false\\\"\"}",
+            "id": 29,
+            "tool_shed_repository": {
+              "owner": "mvdbeek",
+              "changeset_revision": "3f980046df62",
+              "name": "igv_take_screenshots",
+              "tool_shed": "testtoolshed.g2.bx.psu.edu"
+            },
+            "uuid": "ed491c84-7318-4e81-b0c6-e191fcba53cd",
+            "errors": null,
+            "name": "IGV_screenshots",
+            "post_job_actions": {
+              "HideDatasetActionigv_session_out": {
+                "output_name": "igv_session_out",
+                "action_type": "HideDatasetAction",
+                "action_arguments": {}
+              },
+              "RenameDatasetActionscreenshots_out": {
+                "output_name": "screenshots_out",
+                "action_type": "RenameDatasetAction",
+                "action_arguments": {
+                  "newname": "Screenshots"
+                }
+              }
+            },
+            "label": "screenshots tumor",
+            "inputs": [],
+            "position": {
+              "top": 546.5625,
+              "left": 3532.7734375
+            },
+            "annotation": "",
+            "content_id": "testtoolshed.g2.bx.psu.edu/repos/mvdbeek/igv_take_screenshots/igv_make_screenshots/0.1.2",
+            "type": "tool"
+          }
+        },
+        "annotation": "",
+        "a_galaxy_workflow": "true"
+      },
+      "workflow_outputs": [
+        {
+          "output_name": "5:Normal",
+          "uuid": "1dc48da7-7008-4ff4-ae1d-d101a27b5d22",
+          "label": null
+        },
+        {
+          "output_name": "no TSD tumor without clip seq in control",
+          "uuid": "ac026451-a288-4a8c-b7a4-de7cedbd67ca",
+          "label": null
+        },
+        {
+          "output_name": "valid TSD tumor without clip seq or overlap in control",
+          "uuid": "09c0597b-d0b9-40f2-b588-649c0ca68201",
+          "label": null
+        },
+        {
+          "output_name": "7:Normal",
+          "uuid": "ab7abed0-69b5-414a-b404-b76f851d5d15",
+          "label": null
+        },
+        {
+          "output_name": "5:Tumor",
+          "uuid": "b91ebc5c-5351-4034-ae10-bbb55520bf82",
+          "label": null
+        },
+        {
+          "output_name": "6:Normal",
+          "uuid": "d7a48467-538e-40f2-986d-9906394a8b5d",
+          "label": null
+        },
+        {
+          "output_name": "All non-TSD insertions with 2-sided mate support (Tumor)",
+          "uuid": "0fe008ca-1613-4af3-925a-5f5061a212a3",
+          "label": null
+        },
+        {
+          "output_name": "7:Tumor",
+          "uuid": "1330c9a2-3986-46bf-804f-ba7dbb874177",
+          "label": null
+        },
+        {
+          "output_name": "6:Tumor",
+          "uuid": "4271f407-1096-4e57-adce-d0e6aa7f9e22",
+          "label": null
+        },
+        {
+          "output_name": "All TSD insertions with Matesupport (Tumor)",
+          "uuid": "42d421fb-db76-4e42-875f-4f00cb168241",
+          "label": null
+        },
+        {
+          "output_name": "screenshots",
+          "uuid": "6331f966-c50f-460b-abb8-2bc6d531717d",
+          "label": null
+        },
+        {
+          "output_name": "valid TSD tumor without clip seq in control",
+          "uuid": "822a1c04-da42-401e-8148-7b48fa78f1a2",
+          "label": null
+        }
+      ],
+      "input_connections": {
+        "Tumor/gut identifier": {
+          "input_subworkflow_step_id": 0,
+          "output_name": "List of tumor identifiers",
+          "id": 3
+        },
+        "Findcluster BAM": {
+          "input_subworkflow_step_id": 3,
+          "output_name": "findcluster BAM",
+          "id": 3
+        },
+        "Tagged alignments": {
+          "input_subworkflow_step_id": 2,
+          "output_name": "readtagger tagged bam",
+          "id": 3
+        },
+        "Findcluster GFF": {
+          "input_subworkflow_step_id": 1,
+          "output_name": "findcluster GFF",
+          "id": 3
+        }
+      },
+      "id": 4,
+      "uuid": "a290b699-22ab-44c2-bd4b-d009a7e8f0c5",
+      "name": "3. Filter putative somatic insertions from readtagger/findcluster 0.4.19",
+      "label": null,
+      "position": {
+        "top": 633.96484375,
+        "left": 1019.43359375
+      },
+      "annotation": "",
+      "type": "subworkflow"
+    }
+  },
+  "annotation": "",
+  "a_galaxy_workflow": "true"
+}

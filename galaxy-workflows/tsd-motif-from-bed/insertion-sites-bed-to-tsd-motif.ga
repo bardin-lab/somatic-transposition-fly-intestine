@@ -1,0 +1,313 @@
+{
+  "uuid": "8f8a0e8d-4d52-4577-8e54-a9b817abc23d",
+  "tags": [
+    "MEME"
+  ],
+  "format-version": "0.1",
+  "name": "Get TSD fasta, create Motifs (from BED)",
+  "version": 3,
+  "steps": {
+    "0": {
+      "tool_id": null,
+      "tool_version": null,
+      "outputs": [],
+      "workflow_outputs": [],
+      "input_connections": {},
+      "tool_state": "{\"name\": \"dm6.fa\"}",
+      "id": 0,
+      "uuid": "0229f3e6-b79a-4253-ab4c-7c886e658e8e",
+      "errors": null,
+      "name": "Input dataset",
+      "label": "dm6.fa",
+      "inputs": [
+        {
+          "name": "dm6.fa",
+          "description": ""
+        }
+      ],
+      "position": {
+        "top": 373,
+        "left": 248.984375
+      },
+      "annotation": "",
+      "content_id": null,
+      "type": "data_input"
+    },
+    "1": {
+      "tool_id": null,
+      "tool_version": null,
+      "outputs": [],
+      "workflow_outputs": [],
+      "input_connections": {},
+      "tool_state": "{\"collection_type\": \"list\"}",
+      "id": 1,
+      "uuid": "f6eb219c-d452-430e-96ff-4ae698d53980",
+      "errors": null,
+      "name": "Input dataset collection",
+      "label": "readtagger GFF files",
+      "inputs": [],
+      "position": {
+        "top": 515.421875,
+        "left": 248.984375
+      },
+      "annotation": "",
+      "content_id": null,
+      "type": "data_collection_input"
+    },
+    "2": {
+      "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/bedtools/bedtools_sortbed/2.27.1",
+      "tool_version": "2.27.1",
+      "outputs": [
+        {
+          "type": "input",
+          "name": "output"
+        }
+      ],
+      "workflow_outputs": [],
+      "input_connections": {
+        "input": {
+          "output_name": "output",
+          "id": 1
+        }
+      },
+      "tool_state": "{\"__page__\": null, \"option\": \"\\\"\\\"\", \"__rerun_remap_job_id__\": null, \"input\": \"{\\\"__class__\\\": \\\"ConnectedValue\\\"}\", \"chromInfo\": \"\\\"/data/users/mvandenb/gx124/data/gx/tool-data/dm6/len/dm6.len\\\"\", \"input|__identifier__\": \"\\\"rover\\\"\"}",
+      "id": 2,
+      "tool_shed_repository": {
+        "owner": "iuc",
+        "changeset_revision": "87ee588b3d45",
+        "name": "bedtools",
+        "tool_shed": "toolshed.g2.bx.psu.edu"
+      },
+      "uuid": "670d8612-cf64-4b52-b6ed-6aeb89ecc286",
+      "errors": null,
+      "name": "bedtools SortBED",
+      "post_job_actions": {},
+      "label": null,
+      "inputs": [],
+      "position": {
+        "top": 373,
+        "left": 484.984375
+      },
+      "annotation": "",
+      "content_id": "toolshed.g2.bx.psu.edu/repos/iuc/bedtools/bedtools_sortbed/2.27.1",
+      "type": "tool"
+    },
+    "3": {
+      "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/bedtools/bedtools_slopbed/2.27.1",
+      "tool_version": "2.27.1",
+      "outputs": [
+        {
+          "type": "bed",
+          "name": "output"
+        }
+      ],
+      "workflow_outputs": [],
+      "input_connections": {
+        "inputA": {
+          "output_name": "output",
+          "id": 2
+        }
+      },
+      "tool_state": "{\"__page__\": null, \"addition\": \"{\\\"__current_case__\\\": 0, \\\"addition_select\\\": \\\"b\\\", \\\"b\\\": \\\"10\\\"}\", \"__rerun_remap_job_id__\": null, \"genome_file_opts\": \"{\\\"__current_case__\\\": 0, \\\"genome\\\": \\\"dm6\\\", \\\"genome_file_opts_selector\\\": \\\"loc\\\"}\", \"pct\": \"\\\"false\\\"\", \"header\": \"\\\"false\\\"\", \"inputA\": \"{\\\"__class__\\\": \\\"ConnectedValue\\\"}\", \"genome\": \"{\\\"values\\\": [{\\\"id\\\": 31608, \\\"src\\\": \\\"hda\\\"}]}\", \"chromInfo\": \"\\\"/data/users/mvandenb/gx124/data/gx/tool-data/dm6/len/dm6.len\\\"\", \"strand\": \"\\\"false\\\"\"}",
+      "id": 3,
+      "tool_shed_repository": {
+        "owner": "iuc",
+        "changeset_revision": "87ee588b3d45",
+        "name": "bedtools",
+        "tool_shed": "toolshed.g2.bx.psu.edu"
+      },
+      "uuid": "bb61d136-d9d8-4456-9ad8-1c6d3237a65c",
+      "errors": null,
+      "name": "bedtools SlopBed",
+      "post_job_actions": {},
+      "label": null,
+      "inputs": [],
+      "position": {
+        "top": 373,
+        "left": 747.421875
+      },
+      "annotation": "",
+      "content_id": "toolshed.g2.bx.psu.edu/repos/iuc/bedtools/bedtools_slopbed/2.27.1",
+      "type": "tool"
+    },
+    "4": {
+      "tool_id": "toolshed.g2.bx.psu.edu/repos/bgruening/split_file_on_column/tp_split_on_column/0.2",
+      "tool_version": "0.2",
+      "outputs": [
+        {
+          "type": "input",
+          "name": "split_output"
+        }
+      ],
+      "workflow_outputs": [],
+      "input_connections": {
+        "infile": {
+          "output_name": "output",
+          "id": 3
+        }
+      },
+      "tool_state": "{\"column\": \"\\\"4\\\"\", \"__page__\": null, \"__rerun_remap_job_id__\": null, \"infile\": \"{\\\"__class__\\\": \\\"ConnectedValue\\\"}\"}",
+      "id": 4,
+      "tool_shed_repository": {
+        "owner": "bgruening",
+        "changeset_revision": "b60f2452580e",
+        "name": "split_file_on_column",
+        "tool_shed": "toolshed.g2.bx.psu.edu"
+      },
+      "uuid": "f551cd9b-f6ee-4a11-8d65-10fe86fc2f06",
+      "errors": null,
+      "name": "Split file",
+      "post_job_actions": {},
+      "label": null,
+      "inputs": [],
+      "position": {
+        "top": 373,
+        "left": 953.015625
+      },
+      "annotation": "",
+      "content_id": "toolshed.g2.bx.psu.edu/repos/bgruening/split_file_on_column/tp_split_on_column/0.2",
+      "type": "tool"
+    },
+    "5": {
+      "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/bedtools/bedtools_mergebed/2.27.1",
+      "tool_version": "2.27.1",
+      "outputs": [
+        {
+          "type": "bed",
+          "name": "output"
+        }
+      ],
+      "workflow_outputs": [],
+      "input_connections": {
+        "input": {
+          "output_name": "split_output",
+          "id": 4
+        }
+      },
+      "tool_state": "{\"distance\": \"\\\"0\\\"\", \"__page__\": null, \"chromInfo\": \"\\\"/data/users/mvandenb/gx124/data/gx/tool-data/dm6/len/dm6.len\\\"\", \"__rerun_remap_job_id__\": null, \"header\": \"\\\"false\\\"\", \"input\": \"{\\\"__class__\\\": \\\"ConnectedValue\\\"}\", \"c_and_o_argument_repeat\": \"[]\", \"input|__identifier__\": \"\\\"rover\\\"\", \"strand\": \"\\\"\\\"\"}",
+      "id": 5,
+      "tool_shed_repository": {
+        "owner": "iuc",
+        "changeset_revision": "87ee588b3d45",
+        "name": "bedtools",
+        "tool_shed": "toolshed.g2.bx.psu.edu"
+      },
+      "uuid": "5d4838fc-5edf-4529-af1f-9b91a4e4c1a0",
+      "errors": null,
+      "name": "bedtools MergeBED",
+      "post_job_actions": {},
+      "label": null,
+      "inputs": [],
+      "position": {
+        "top": 373,
+        "left": 1168.25
+      },
+      "annotation": "",
+      "content_id": "toolshed.g2.bx.psu.edu/repos/iuc/bedtools/bedtools_mergebed/2.27.1",
+      "type": "tool"
+    },
+    "6": {
+      "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/bedtools/bedtools_getfastabed/2.27.1",
+      "tool_version": "2.27.1",
+      "outputs": [
+        {
+          "type": "fasta",
+          "name": "output"
+        }
+      ],
+      "workflow_outputs": [],
+      "input_connections": {
+        "input": {
+          "output_name": "output",
+          "id": 5
+        },
+        "fasta_source|fasta": {
+          "output_name": "output",
+          "id": 0
+        }
+      },
+      "tool_state": "{\"__page__\": null, \"name\": \"\\\"false\\\"\", \"__rerun_remap_job_id__\": null, \"fasta_source\": \"{\\\"__current_case__\\\": 0, \\\"fasta\\\": {\\\"__class__\\\": \\\"ConnectedValue\\\"}, \\\"fasta_source_selector\\\": \\\"history\\\"}\", \"tab\": \"\\\"false\\\"\", \"input\": \"{\\\"__class__\\\": \\\"ConnectedValue\\\"}\", \"chromInfo\": \"\\\"/data/users/mvandenb/gx124/data/gx/tool-data/dm6/len/dm6.len\\\"\", \"input|__identifier__\": \"\\\"rover\\\"\", \"strand\": \"\\\"false\\\"\", \"split\": \"\\\"false\\\"\"}",
+      "id": 6,
+      "tool_shed_repository": {
+        "owner": "iuc",
+        "changeset_revision": "87ee588b3d45",
+        "name": "bedtools",
+        "tool_shed": "toolshed.g2.bx.psu.edu"
+      },
+      "uuid": "67495f46-98ec-405a-90a3-bfc84c3bbcd0",
+      "errors": null,
+      "name": "bedtools GetFastaBed",
+      "post_job_actions": {},
+      "label": null,
+      "inputs": [],
+      "position": {
+        "top": 373,
+        "left": 1430.671875
+      },
+      "annotation": "",
+      "content_id": "toolshed.g2.bx.psu.edu/repos/iuc/bedtools/bedtools_getfastabed/2.27.1",
+      "type": "tool"
+    },
+    "7": {
+      "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/meme_meme/meme_meme/4.12.0.0",
+      "tool_version": "4.12.0.0",
+      "outputs": [
+        {
+          "type": "html",
+          "name": "html_outfile"
+        },
+        {
+          "type": "txt",
+          "name": "txt_outfile"
+        },
+        {
+          "type": "memexml",
+          "name": "xml_outfile"
+        }
+      ],
+      "workflow_outputs": [],
+      "input_connections": {
+        "input1": {
+          "output_name": "output",
+          "id": 6
+        }
+      },
+      "tool_state": "{\"__page__\": null, \"__rerun_remap_job_id__\": null, \"input1\": \"{\\\"__class__\\\": \\\"RuntimeValue\\\"}\", \"non_commercial_use\": \"\\\"true\\\"\", \"options_type\": \"{\\\"__current_case__\\\": 1, \\\"alphabet_type\\\": {\\\"__current_case__\\\": 1, \\\"alphabet_type_selector\\\": \\\"dna\\\", \\\"pal\\\": \\\"true\\\", \\\"prior_type\\\": {\\\"__current_case__\\\": 0, \\\"plib\\\": {\\\"__class__\\\": \\\"RuntimeValue\\\"}, \\\"prior_b\\\": \\\"0.01\\\", \\\"prior_type_selector\\\": \\\"dirichlet\\\"}, \\\"revcomp\\\": \\\"true\\\", \\\"spmap_type\\\": {\\\"__current_case__\\\": 0, \\\"spfuzz\\\": \\\"0.5\\\", \\\"spmap_type_selector\\\": \\\"uni\\\"}}, \\\"bfile\\\": {\\\"__class__\\\": \\\"RuntimeValue\\\"}, \\\"branching_type\\\": {\\\"__current_case__\\\": 0, \\\"branching_type_selector\\\": \\\"no_x_branch\\\"}, \\\"distance\\\": \\\"0.001\\\", \\\"evt\\\": \\\"100000.0\\\", \\\"maxiter\\\": \\\"50\\\", \\\"mod_type\\\": {\\\"__current_case__\\\": 1, \\\"mod_type_selector\\\": \\\"zoops\\\", \\\"motif_occurrence_type\\\": {\\\"__current_case__\\\": 0, \\\"motif_occurrence_type_selector\\\": \\\"default\\\"}}, \\\"motif_trim_type\\\": {\\\"__current_case__\\\": 1, \\\"motif_trim_type_selector\\\": \\\"trim\\\", \\\"noendgaps\\\": \\\"false\\\", \\\"wg\\\": \\\"11\\\", \\\"ws\\\": \\\"1\\\"}, \\\"motif_width_type\\\": {\\\"__current_case__\\\": 1, \\\"maxw\\\": \\\"50\\\", \\\"minw\\\": \\\"8\\\", \\\"motif_width_type_selector\\\": \\\"range\\\"}, \\\"nmotifs\\\": \\\"1\\\", \\\"options_type_selector\\\": \\\"advanced\\\", \\\"pspfile\\\": {\\\"__class__\\\": \\\"RuntimeValue\\\"}, \\\"sf\\\": \\\"Galaxy FASTA Input\\\", \\\"wnsites\\\": \\\"0.8\\\"}\"}",
+      "id": 7,
+      "tool_shed_repository": {
+        "owner": "iuc",
+        "changeset_revision": "57e5d9382f36",
+        "name": "meme_meme",
+        "tool_shed": "toolshed.g2.bx.psu.edu"
+      },
+      "uuid": "65f1b879-31e0-4769-94fa-f86365ecff55",
+      "errors": null,
+      "name": "MEME",
+      "post_job_actions": {},
+      "label": null,
+      "inputs": [
+        {
+          "name": "input1",
+          "description": "runtime parameter for tool MEME"
+        },
+        {
+          "name": "options_type",
+          "description": "runtime parameter for tool MEME"
+        },
+        {
+          "name": "options_type",
+          "description": "runtime parameter for tool MEME"
+        }
+      ],
+      "position": {
+        "top": 366,
+        "left": 1669.484375
+      },
+      "annotation": "",
+      "content_id": "toolshed.g2.bx.psu.edu/repos/iuc/meme_meme/meme_meme/4.12.0.0",
+      "type": "tool"
+    }
+  },
+  "annotation": "",
+  "a_galaxy_workflow": "true"
+}

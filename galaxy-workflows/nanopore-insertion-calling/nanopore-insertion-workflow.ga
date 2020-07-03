@@ -1,0 +1,233 @@
+{
+  "uuid": "63c08d21-b71c-48c8-9e11-a18f4f5906a3",
+  "tags": [],
+  "format-version": "0.1",
+  "name": "readtagger nanopore",
+  "version": 5,
+  "steps": {
+    "0": {
+      "tool_id": null,
+      "tool_version": null,
+      "outputs": [],
+      "workflow_outputs": [
+        {
+          "output_name": "output",
+          "uuid": "ff77a2e4-c814-49e5-9979-1e1189e2ae8b",
+          "label": null
+        }
+      ],
+      "input_connections": {},
+      "tool_state": "{\"collection_type\": \"list\"}",
+      "id": 0,
+      "uuid": "560bc8a3-e675-4c20-aa4c-caf225afb745",
+      "errors": null,
+      "name": "Input dataset collection",
+      "label": null,
+      "inputs": [],
+      "position": {
+        "top": 301.97265625,
+        "left": 200
+      },
+      "annotation": "",
+      "content_id": null,
+      "type": "data_collection_input"
+    },
+    "1": {
+      "tool_id": "toolshed.g2.bx.psu.edu/repos/mvdbeek/bam_readtagger/normalize_readsizes/0.5.21",
+      "tool_version": "0.5.21",
+      "outputs": [
+        {
+          "type": "input",
+          "name": "output"
+        }
+      ],
+      "workflow_outputs": [
+        {
+          "output_name": "output",
+          "uuid": "9bc0d1bf-0708-4182-80fc-0ec4bafdb99c",
+          "label": null
+        }
+      ],
+      "input_connections": {
+        "input": {
+          "output_name": "output",
+          "id": 0
+        }
+      },
+      "tool_state": "{\"input\": \"{\\\"__class__\\\": \\\"RuntimeValue\\\"}\", \"__rerun_remap_job_id__\": null, \"__page__\": null}",
+      "id": 1,
+      "tool_shed_repository": {
+        "owner": "mvdbeek",
+        "changeset_revision": "6c15dd4415ea",
+        "name": "bam_readtagger",
+        "tool_shed": "toolshed.g2.bx.psu.edu"
+      },
+      "uuid": "2964c96a-694f-4e4f-90b7-562fcd472549",
+      "errors": null,
+      "name": "Normalize readsizes",
+      "post_job_actions": {},
+      "label": null,
+      "inputs": [
+        {
+          "name": "input",
+          "description": "runtime parameter for tool Normalize readsizes"
+        }
+      ],
+      "position": {
+        "top": 421.97265625,
+        "left": 426.5234375
+      },
+      "annotation": "",
+      "content_id": "toolshed.g2.bx.psu.edu/repos/mvdbeek/bam_readtagger/normalize_readsizes/0.5.21",
+      "type": "tool"
+    },
+    "2": {
+      "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/minimap2/minimap2/2.17",
+      "tool_version": "2.17",
+      "outputs": [
+        {
+          "type": "bam",
+          "name": "alignment_output"
+        }
+      ],
+      "workflow_outputs": [
+        {
+          "output_name": "alignment_output",
+          "uuid": "66967816-13c1-47ad-b7c7-b3d9065ece2a",
+          "label": null
+        }
+      ],
+      "input_connections": {
+        "fastq_input|fastq_input1": {
+          "output_name": "output",
+          "id": 1
+        }
+      },
+      "tool_state": "{\"alignment_options\": \"{\\\"-O2\\\": \\\"\\\", \\\"A\\\": \\\"\\\", \\\"B\\\": \\\"\\\", \\\"E\\\": \\\"\\\", \\\"E2\\\": \\\"\\\", \\\"O\\\": \\\"\\\", \\\"s\\\": \\\"\\\", \\\"u\\\": null, \\\"z\\\": \\\"\\\"}\", \"analysis_type_selector\": \"\\\"map-pb\\\"\", \"__page__\": null, \"__rerun_remap_job_id__\": null, \"io_options\": \"{\\\"K\\\": \\\"\\\", \\\"L\\\": \\\"false\\\", \\\"Q\\\": \\\"false\\\", \\\"Y\\\": \\\"true\\\", \\\"cs\\\": null, \\\"eqx\\\": \\\"false\\\", \\\"output_format\\\": \\\"BAM\\\"}\", \"mapping_options\": \"{\\\"F\\\": \\\"\\\", \\\"G\\\": \\\"\\\", \\\"N\\\": \\\"\\\", \\\"X\\\": \\\"false\\\", \\\"f\\\": \\\"\\\", \\\"g\\\": \\\"\\\", \\\"m\\\": \\\"\\\", \\\"min_occ_floor\\\": \\\"\\\", \\\"n\\\": \\\"\\\", \\\"p\\\": \\\"\\\", \\\"r\\\": \\\"\\\"}\", \"fastq_input\": \"{\\\"__current_case__\\\": 1, \\\"fastq_input1\\\": {\\\"__class__\\\": \\\"ConnectedValue\\\"}, \\\"fastq_input_selector\\\": \\\"single\\\"}\", \"reference_source\": \"{\\\"__current_case__\\\": 0, \\\"ref_file\\\": \\\"dm6\\\", \\\"reference_source_selector\\\": \\\"cached\\\"}\", \"indexing_options\": \"{\\\"H\\\": \\\"false\\\", \\\"I\\\": \\\"\\\", \\\"k\\\": \\\"\\\", \\\"w\\\": \\\"\\\"}\"}",
+      "id": 2,
+      "tool_shed_repository": {
+        "owner": "iuc",
+        "changeset_revision": "3f4d6399997b",
+        "name": "minimap2",
+        "tool_shed": "toolshed.g2.bx.psu.edu"
+      },
+      "uuid": "5e2f7092-6584-4703-bac1-41b987de67fe",
+      "errors": null,
+      "name": "Map with minimap2",
+      "post_job_actions": {},
+      "label": null,
+      "inputs": [],
+      "position": {
+        "top": 333.984375,
+        "left": 685
+      },
+      "annotation": "",
+      "content_id": "toolshed.g2.bx.psu.edu/repos/iuc/minimap2/minimap2/2.17",
+      "type": "tool"
+    },
+    "3": {
+      "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/samtools_view/samtools_view/1.9",
+      "tool_version": "1.9",
+      "outputs": [
+        {
+          "type": "input",
+          "name": "outputsam"
+        }
+      ],
+      "workflow_outputs": [
+        {
+          "output_name": "outputsam",
+          "uuid": "0990fa39-a827-4446-b673-e3c288f03899",
+          "label": null
+        }
+      ],
+      "input_connections": {
+        "input": {
+          "output_name": "alignment_output",
+          "id": 2
+        }
+      },
+      "tool_state": "{\"__page__\": null, \"__rerun_remap_job_id__\": null, \"cond_subsample\": \"{\\\"__current_case__\\\": 2, \\\"select_subsample\\\": \\\"no\\\"}\", \"cond_filter\": \"{\\\"__current_case__\\\": 0, \\\"cigarcons\\\": \\\"\\\", \\\"cond_region\\\": {\\\"__current_case__\\\": 0, \\\"select_region\\\": \\\"no\\\"}, \\\"cond_rg\\\": {\\\"__current_case__\\\": 0, \\\"select_rg\\\": \\\"no\\\"}, \\\"exclusive_filter\\\": null, \\\"exclusive_filter_all\\\": null, \\\"inclusive_filter\\\": null, \\\"library\\\": \\\"\\\", \\\"quality\\\": \\\"40\\\", \\\"readtags\\\": [], \\\"select_filter\\\": \\\"yes\\\"}\", \"outtype\": \"\\\"bam\\\"\", \"addref_cond\": \"{\\\"__current_case__\\\": 0, \\\"addref_select\\\": \\\"no\\\"}\", \"input\": \"{\\\"__class__\\\": \\\"ConnectedValue\\\"}\", \"adv_output\": \"{\\\"collapsecigar\\\": \\\"false\\\", \\\"header\\\": \\\"-h\\\", \\\"outputpassing\\\": \\\"false\\\"}\"}",
+      "id": 3,
+      "tool_shed_repository": {
+        "owner": "iuc",
+        "changeset_revision": "fdc58a0cc1d4",
+        "name": "samtools_view",
+        "tool_shed": "toolshed.g2.bx.psu.edu"
+      },
+      "uuid": "ceec4d92-2dfd-4111-9e14-3d0df6046a6b",
+      "errors": null,
+      "name": "Samtools view",
+      "post_job_actions": {},
+      "label": null,
+      "inputs": [],
+      "position": {
+        "top": 213.984375,
+        "left": 944.51171875
+      },
+      "annotation": "",
+      "content_id": "toolshed.g2.bx.psu.edu/repos/iuc/samtools_view/samtools_view/1.9",
+      "type": "tool"
+    },
+    "4": {
+      "tool_id": "toolshed.g2.bx.psu.edu/repos/mvdbeek/bam_readtagger/extract_variants/0.5.21",
+      "tool_version": "0.5.21",
+      "outputs": [
+        {
+          "type": "input",
+          "name": "output_alignment"
+        },
+        {
+          "type": "tabular",
+          "name": "output_tabular"
+        }
+      ],
+      "workflow_outputs": [
+        {
+          "output_name": "output_alignment",
+          "uuid": "02cae033-aa6e-4401-a7f0-f4dfcb3b2f5b",
+          "label": null
+        },
+        {
+          "output_name": "output_tabular",
+          "uuid": "4d6933a4-9111-4802-81ba-8934427217bb",
+          "label": null
+        }
+      ],
+      "input_connections": {
+        "input": {
+          "output_name": "outputsam",
+          "id": 3
+        }
+      },
+      "tool_state": "{\"__page__\": null, \"input\": \"{\\\"__class__\\\": \\\"RuntimeValue\\\"}\", \"__rerun_remap_job_id__\": null, \"insert_reference\": \"\\\"cbergman_transposons_11_2017\\\"\"}",
+      "id": 4,
+      "tool_shed_repository": {
+        "owner": "mvdbeek",
+        "changeset_revision": "6c15dd4415ea",
+        "name": "bam_readtagger",
+        "tool_shed": "toolshed.g2.bx.psu.edu"
+      },
+      "uuid": "cb53316f-5047-4565-beab-81437414210b",
+      "errors": null,
+      "name": "Extract variant fragments",
+      "post_job_actions": {},
+      "label": null,
+      "inputs": [
+        {
+          "name": "input",
+          "description": "runtime parameter for tool Extract variant fragments"
+        }
+      ],
+      "position": {
+        "top": 336.9921875,
+        "left": 1040.01953125
+      },
+      "annotation": "",
+      "content_id": "toolshed.g2.bx.psu.edu/repos/mvdbeek/bam_readtagger/extract_variants/0.5.21",
+      "type": "tool"
+    }
+  },
+  "annotation": "",
+  "a_galaxy_workflow": "true"
+}
