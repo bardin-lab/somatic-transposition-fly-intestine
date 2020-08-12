@@ -1,7 +1,8 @@
 name: Test notebooks
-on: {push, pull-request}
+on: [push, pull_request]
 jobs:
   test-notebook:
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - name: Setup conda
