@@ -1,0 +1,5 @@
+.bam
+.bai
+.pytest_cache
+.ipynb_checkpoints
+.DS_Store

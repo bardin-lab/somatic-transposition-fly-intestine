@@ -1,0 +1,18 @@
+name: Test notebooks
+on: {push, pull-request}
+jobs:
+  test-notebook:
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup conda
+        uses: s-weigand/setup-conda@v1
+        with:
+          conda-channels: bioconda, conda-forge
+      - name: Conda environment creation
+        run: |
+          conda env create -f requirements.yml
+        working-directory: notebooks
+      - name: Run notebooks
+        run: |
+          source activate somatic-transposition-fly-intestine && make run_notebooks
+        working-directory: notebooks

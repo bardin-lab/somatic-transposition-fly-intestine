@@ -1,0 +1,1050 @@
+Dataset	Organism	Technique	Target Element	Assay Factor	Conditions	PI	ID
+ACF1;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	ACF1	Late Embryonic stage	Karpen, G.	5056
+ASH-1;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	ASH-1	Larvae 3rd instar	Karpen, G.	3279
+ASH-1;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	ASH-1	Late Embryonic stage	Karpen, G.	2984
+ASH-1;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	ASH-1	Late Embryonic stage	Karpen, G.	3744
+BAB-1;Embryos 0-12 hr;Embryo;ChIP-chip	D. melanogaster	ChIP-chip	Transcriptional Factor	BAB-1	Embryos 0-12 hr	White, K.	628
+BEAF-32;CG10159-RNAi;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	BEAF-32	Larvae 3rd instar	Karpen, G.	3663
+BEAF-32;CG6384-RNAi;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	BEAF-32	Larvae 3rd instar	Karpen, G.	3664
+BEAF-32;Embryos 0-12 hr;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	BEAF-32	Embryos 0-12 hr	White, K.	21
+BEAF-32;Fly-LacZ-RNAi;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	BEAF-32	Larvae 3rd instar	Karpen, G.	3665
+BEAF-32;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	BEAF-32	Larvae 3rd instar	Karpen, G.	921
+BEAF-32;Oregon-R;Embryos 2-4 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	BEAF-32	Embryos 2-4 hr OR	Karpen, G.	5130
+BEAF-32;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	BEAF-32	Late Embryonic stage	Karpen, G.	274
+BEAF-32;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	BEAF-32	Late Embryonic stage	Karpen, G.	922
+BEAF-32;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	BEAF-32	Late Embryonic stage	Karpen, G.	3745
+BEAF32A and BEAF42B;Oregon-R;Embryos 14-16 hr OR;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	BEAF32A and BEAF42B	Embryos 14-16 hr OR	Karpen, G.	3954
+bonus;Embryos 16-24 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	bonus	Embryos 16-24 hr	White, K.	3393
+brahma;Y cn bw sp;Pupae;ChIP-chip	D. melanogaster	ChIP-chip	Transcriptional Factor	brahma	Pupae	White, K.	602
+Brakeless;Embryos 0-12 hr;Embryo;ChIP-chip	D. melanogaster	ChIP-chip	Transcriptional Factor	Brakeless	Embryos 0-12 hr	White, K.	609
+Brakeless;Embryos 0-4 hr;ChIP-chip	D. melanogaster	ChIP-chip	Transcriptional Factor	Brakeless	Embryos 0-4 hr	White, K.	2569
+broad;White prepupae (WPP);ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	broad	White prepupae (WPP)	White, K.	3806
+cabut;Embryos 16-24 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	cabut	Embryos 16-24 hr	White, K.	3825
+Caudal;7T-CAD;Adult Female 3 days;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	Caudal	Adult Female 3 days	White, K.	3231
+Caudal;7T-CAD;Adult Female;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	Caudal	Adult Female	White, K.	2625
+Caudal;7T-CAD;Embryos 0-4 hr;ChIP-chip	D. melanogaster	ChIP-chip	Transcriptional Factor	Caudal	Embryos 0-4 hr	White, K.	902
+Caudal;7T-CAD;Embryos 0-4 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	Caudal	Embryos 0-4 hr	White, K.	2626
+Caudal;7T-CAD;Embryos 4-8 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	Caudal	Embryos 4-8 hr	White, K.	2637
+Caudal;7T-CAD;Larvae L3 stage;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	Caudal	Larvae L3 stage	White, K.	3403
+Caudal;Embryos 0-4 hr;ChIP-chip	D. melanogaster	ChIP-chip	Transcriptional Factor	Caudal	Embryos 0-4 hr	White, K.	2570
+CG10630;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	CG10630	Late Embryonic stage	Karpen, G.	4176
+CG16778;Embryos 0-8 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	CG16778	Embryos 0-8 hr	White, K.	4078
+CG8478;Embryos 8-16 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	CG8478	Embryos 8-16 hr	White, K.	3240
+CG8478;White prepupae (WPP);ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	CG8478	White prepupae (WPP)	White, K.	4080
+chinmo;Embryos 0-12 hr;ChIP-chip	D. melanogaster	ChIP-chip	Transcriptional Factor	chinmo	Embryos 0-12 hr	White, K.	608
+Chriz;CME-W1-Cl.8+;Larvae 3rd instar;Dorsal mesothoracic disc;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	Chriz	Larvae 3rd instar	Karpen, G.	276
+Chriz;Kc167;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	Chriz	Late Embryonic stage	Karpen, G.	277
+Chriz;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	Chriz	Larvae 3rd instar	Karpen, G.	275
+Chriz;Oregon-R;Embryos 14-16 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	Chriz	Embryos 14-16 hr OR	Karpen, G.	2648
+Chriz;Oregon-R;Embryos 14-16 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	Chriz	Embryos 14-16 hr OR	Karpen, G.	3746
+Chriz;Oregon-R;Embryos 14-16 hr OR;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	Chriz	Embryos 14-16 hr OR	Karpen, G.	5068
+Chriz;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	Chriz	Late Embryonic stage	Karpen, G.	278
+Chriz;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	Chriz	Late Embryonic stage	Karpen, G.	279
+cnc;Adult Female;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	cnc	Adult Female	White, K.	4082
+cnc;Embryos 0-12 hr;Embryo;ChIP-chip	D. melanogaster	ChIP-chip	Transcriptional Factor	cnc	Embryos 0-12 hr	White, K.	627
+cnc;Embryos 16-24 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	cnc	Embryos 16-24 hr	White, K.	4081
+CP190;CG10159-RNAi;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	CP190	Larvae 3rd instar	Karpen, G.	3666
+CP190;CG32491-RNAi;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	CP190	Larvae 3rd instar	Karpen, G.	3669
+CP190;CG6384-RNAi;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	CP190	Larvae 3rd instar	Karpen, G.	3747
+CP190;CG8573-RNAi;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	CP190	Larvae 3rd instar	Karpen, G.	3670
+CP190;CG8591-RNAi;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	CP190	Larvae 3rd instar	Karpen, G.	3667
+CP190;Embryos 0-12 hr;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	CP190	Embryos 0-12 hr	White, K.	22
+CP190;Fly-LacZ-RNAi;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	CP190	Larvae 3rd instar	Karpen, G.	3668
+CP190;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	CP190	Larvae 3rd instar	Karpen, G.	924
+CP190;Oregon-R;Embryos 14-16 hr OR;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	CP190	Embryos 14-16 hr OR	Karpen, G.	3959
+CP190;Oregon-R;Embryos 2-4 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	CP190	Embryos 2-4 hr OR	Karpen, G.	5131
+CP190;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	CP190	Late Embryonic stage	Karpen, G.	280
+CP190;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	CP190	Late Embryonic stage	Karpen, G.	925
+CP190;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	CP190	Late Embryonic stage	Karpen, G.	3748
+CtBP;Embryos 0-12 hr;Embryo;ChIP-chip	D. melanogaster	ChIP-chip	Transcriptional Factor	CtBP	Embryos 0-12 hr	White, K.	607
+CTCF;CG6384-RNAi;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	CTCF	Larvae 3rd instar	Karpen, G.	3671
+CTCF;CG8573-RNAi;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	CTCF	Larvae 3rd instar	Karpen, G.	3674
+CTCF;CG8591-RNAi;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	CTCF	Larvae 3rd instar	Karpen, G.	3672
+CTCF;Embryos 0-12 hr;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	CTCF	Embryos 0-12 hr	White, K.	769
+CTCF;Embryos 0-12 hr;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	CTCF	Embryos 0-12 hr	White, K.	770
+CTCF;Fly-LacZ-RNAi;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	CTCF	Larvae 3rd instar	Karpen, G.	3673
+CTCF;Kc167;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	CTCF	Late Embryonic stage	White, K.	908
+CTCF;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	CTCF	Larvae 3rd instar	Karpen, G.	282
+CTCF;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	CTCF	Larvae 3rd instar	Karpen, G.	3280
+CTCF;Oregon-R;Embryos 14-16 hr OR;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	CTCF	Embryos 14-16 hr OR	Karpen, G.	5069
+CTCF;Oregon-R;Embryos 2-4 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	CTCF	Embryos 2-4 hr OR	Karpen, G.	5057
+CTCF;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	CTCF	Late Embryonic stage	Karpen, G.andWhite, K.	283
+CTCF;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	CTCF	Late Embryonic stage	Karpen, G.andWhite, K.	913
+CTCF;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	CTCF	Late Embryonic stage	Karpen, G.andWhite, K.	3281
+CTCF;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	CTCF	Late Embryonic stage	Karpen, G.andWhite, K.	3749
+CTCF;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	CTCF	Late Embryonic stage	White, K.	2638
+CTCF;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	CTCF	Late Embryonic stage	White, K.	2639
+Dichaete;Embryos 0-12 hr;Embryo;ChIP-chip	D. melanogaster	ChIP-chip	Transcriptional Factor	Dichaete	Embryos 0-12 hr	White, K.	626
+Dichaete;Embryos 0-8 hr;ChIP-chip	D. melanogaster	ChIP-chip	Transcriptional Factor	Dichaete	Embryos 0-8 hr	White, K.	2571
+Dichaete;Embryos 0-8 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	Dichaete	Embryos 0-8 hr	White, K.	3395
+Disco;Embryos 0-8 hr;ChIP-chip	D. melanogaster	ChIP-chip	Transcriptional Factor	Disco	Embryos 0-8 hr	White, K.	2572
+Disco;Embryos 0-8 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	Disco	Embryos 0-8 hr	White, K.	3235
+DLL;Embryos 0-12 hr;Embryo;ChIP-chip	D. melanogaster	ChIP-chip	Transcriptional Factor	DLL	Embryos 0-12 hr	White, K.	606
+DLL;White prepupae (WPP);ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	DLL	White prepupae (WPP)	White, K.	4974
+dm;Larvae L3 stage;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	dm	Larvae L3 stage	White, K.	5008
+dMi-2;Oregon-R;Embryos 14-16 hr OR;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	dMi-2	Embryos 14-16 hr OR	Karpen, G.	5070
+dMi-2;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	dMi-2	Late Embryonic stage	Karpen, G.	926
+dMi-2;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	dMi-2	Late Embryonic stage	Karpen, G.	3675
+dMi-2;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	dMi-2	Late Embryonic stage	Karpen, G.	3676
+dmTopo II;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	dmTopo II	Larvae 3rd instar	Karpen, G.	5058
+dmTopo II;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	dmTopo II	Late Embryonic stage	Karpen, G.	3945
+dRING;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	dRING	Larvae 3rd instar	Karpen, G.	927
+dRING;Oregon-R;Embryos 14-16 hr OR;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	dRING	Embryos 14-16 hr OR	Karpen, G.	5071
+dRING;Oregon-R;Embryos 2-4 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	dRING	Embryos 2-4 hr OR	Karpen, G.	5255
+dRING;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	dRING	Late Embryonic stage	Karpen, G.	928
+dRING;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	dRING	Late Embryonic stage	Karpen, G.	3750
+dSFMBT;Kc167;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	dSFMBT	Late Embryonic stage	Karpen, G.	5132
+dSFMBT;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	dSFMBT	Larvae 3rd instar	Karpen, G.	2986
+dSFMBT;Oregon-R;Embryos 2-4 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	dSFMBT	Embryos 2-4 hr OR	Karpen, G.	5256
+dSFMBT;Oregon-R;Larvae 3rd instar;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	dSFMBT	Larvae 3rd instar	Karpen, G.	5072
+dSFMBT;Oregon-R;Tissue:Heads-OR:GK:1;Mixed Adult;Heads OR;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	dSFMBT	Mixed Adult	Karpen, G.	5577
+dSFMBT;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	dSFMBT	Late Embryonic stage	Karpen, G.	3751
+eGFP;10T-DFD-GFP;Embryos 16-24 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	eGFP	Embryos 16-24 hr	White, K.	3229
+eGFP;10T-DFD-GFP;Larvae L3 stage;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	eGFP	Larvae L3 stage	White, K.	3230
+eGFP;13T exd-GFP;Embryos 0-8 hr;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	eGFP	Embryos 0-8 hr	White, K.	3183
+eGFP;15T-hairy-GFP;Embryos 8-16 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	eGFP	Embryos 8-16 hr	White, K.	3402
+eGFP;3T EN-GFP;Embryos 0-12 hr;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	eGFP	Embryos 0-12 hr	White, K.	3184
+eGFP;3T EN-GFP;Embryos 12-24 hr;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	eGFP	Embryos 12-24 hr	White, K.	3185
+eGFP;5T-eve-GFP;Embryos 8-16 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	eGFP	Embryos 8-16 hr	White, K.	3401
+eGFP;8T tll-GFP;Embryos 0-4 hr;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	eGFP	Embryos 0-4 hr	White, K.	3186
+eGFP;EcR-GFP;Larvae L3 stage;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	eGFP	Larvae L3 stage	White, K.	2640
+eGFP;EcR-GFP;White prepupae (WPP) 10-11 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	eGFP	White prepupae (WPP) 10-11 hr	White, K.	2641
+eGFP;EcR-GFP;White prepupae (WPP) 30-33 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	eGFP	White prepupae (WPP) 30-33 hr	White, K.	2642
+eGFP;Embryos 0-4 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	eGFP	Embryos 0-4 hr	White, K.	3234
+eGFP;Embryos 0-8 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	eGFP	Embryos 0-8 hr	White, K.	3236
+eGFP;Embryos 1-6 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	eGFP	Embryos 1-6 hr	White, K.	3239
+eGFP;Embryos 8-16 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	eGFP	Embryos 8-16 hr	White, K.	3241
+eGFP;R13-YFP;Embryos 1-6 hr;ChIP-chip	D. melanogaster	ChIP-chip	Transcriptional Factor	eGFP	Embryos 1-6 hr	White, K.	2603
+eGFP;R13-YFP;Embryos 1-6 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	eGFP	Embryos 1-6 hr	White, K.	3400
+eGFP;White prepupae (WPP) + 4-5 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	eGFP	White prepupae (WPP) + 4-5 hr	White, K.	3398
+Eip74EF;Eip74EF-GFP;Embryos 8-16 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	Eip74EF	Embryos 8-16 hr	White, K.	4976
+ENGRAILED;Embryos 0-12 hr;Embryo;ChIP-chip	D. melanogaster	ChIP-chip	Transcriptional Factor	ENGRAILED	Embryos 0-12 hr	White, K.	625
+ENGRAILED;Embryos 7-24 hr;ChIP-chip	D. melanogaster	ChIP-chip	Transcriptional Factor	ENGRAILED	Embryos 7-24 hr	White, K.	611
+Enhancer-of-zeste;Embryos 8-16 hr;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	Enhancer-of-zeste	Embryos 8-16 hr	White, K.	2585
+Enhancer-of-zeste;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	Enhancer-of-zeste	Larvae 3rd instar	Karpen, G.	2650
+Enhancer-of-zeste;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	Enhancer-of-zeste	Larvae 3rd instar	Karpen, G.	2987
+Enhancer-of-zeste;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	Enhancer-of-zeste	Late Embryonic stage	Karpen, G.	284
+Enhancer-of-zeste;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	Enhancer-of-zeste	Late Embryonic stage	Karpen, G.	2988
+Enhancer-of-zeste;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	Enhancer-of-zeste	Late Embryonic stage	Karpen, G.	3752
+exd;13T exd-GFP;Embryos 16-24 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	exd	Embryos 16-24 hr	White, K.	3824
+Fer3;Embryos 16-24 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	Fer3	Embryos 16-24 hr	White, K.	3826
+fru;Embryos 0-8 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	fru	Embryos 0-8 hr	White, K.	4089
+FTZ-F1;Embryos 0-12 hr;Embryo;ChIP-chip	D. melanogaster	ChIP-chip	Transcriptional Factor	FTZ-F1	Embryos 0-12 hr	White, K.	624
+GAF;D.pseudoobscura wild-type;Embryos 0-4 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	GAF	Embryos 0-4 hr	White, K.	3809
+GAF;Embryos 0-12 hr;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	GAF	Embryos 0-12 hr	White, K.	23
+GAF;Embryos 16-24 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	GAF	Embryos 16-24 hr	White, K.	3238
+GAF;Embryos 8-16 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional FactorandNon TF Chromatin binding factor	GAF	Embryos 8-16 hr	White, K.	3397
+GAF;Embryos 8-16 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional FactorandNon TF Chromatin binding factor	GAF	Embryos 8-16 hr	White, K.	5028
+GAF;FlyStrain;Embryos 0-4 hr;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	GAF	Embryos 0-4 hr	White, K.	3814
+GAF;Kc167;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Transcriptional Factor	GAF	Late Embryonic stage	White, K.	2568
+GAF;Kc167;Late Embryonic stage;Embryo-derived cell-line;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	GAF	Late Embryonic stage	White, K.	3245
+GAF;Larvae L3 stage;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	GAF	Larvae L3 stage	White, K.	3830
+GAF;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	GAF	Larvae 3rd instar	Karpen, G.	2651
+GAF;Oregon-R;Embryos 14-16 hr OR;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	GAF	Embryos 14-16 hr OR	Karpen, G.	4119
+GAF;Oregon-R;Embryos 2-4 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	GAF	Embryos 2-4 hr OR	Karpen, G.	6387
+GAF;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	GAF	Late Embryonic stage	Karpen, G.	285
+GAF;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	GAF	Late Embryonic stage	Karpen, G.	3753
+GATAe;Embryos 0-8 hr;ChIP-chip	D. melanogaster	ChIP-chip	Transcriptional Factor	GATAe	Embryos 0-8 hr	White, K.	2573
+GROUCHO;Embryos 0-12 hr;ChIP-chip	D. melanogaster	ChIP-chip	Transcriptional Factor	GROUCHO	Embryos 0-12 hr	White, K.	597
+GROUCHO;Embryos 0-12 hr;Embryo;ChIP-chip	D. melanogaster	ChIP-chip	Transcriptional Factor	GROUCHO	Embryos 0-12 hr	White, K.	623
+GROUCHO;White prepupae (WPP);ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	GROUCHO	White prepupae (WPP)	White, K.	4981
+GSBN;Embryos 7-24 hr;ChIP-chip	D. melanogaster	ChIP-chip	Transcriptional Factor	GSBN	Embryos 7-24 hr	White, K.	610
+H1;CME-W1-Cl.8+;Larvae 3rd instar;Dorsal mesothoracic disc;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H1	Larvae 3rd instar	Karpen, G.	5133
+H1;Kc167;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H1	Late Embryonic stage	Karpen, G.	5134
+H1;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H1	Larvae 3rd instar	Karpen, G.	3299
+H1;Oregon-R;Embryos 14-16 hr OR;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	H1	Embryos 14-16 hr OR	Karpen, G.	5257
+H1;Oregon-R;Larvae 3rd instar;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H1	Larvae 3rd instar	Karpen, G.	5073
+H1;Oregon-R;Tissue:Heads-OR:GK:1;Mixed Adult;Heads OR;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H1	Mixed Adult	Karpen, G.	5074
+H1;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H1	Late Embryonic stage	Karpen, G.	3300
+H2A;Salt 15 mM;1-2 hours;soluble fraction;Fly biotin-tagged H2A;Late Embryonic stage;Embryo-derived cell-line;DNA-tiling-array	D. melanogaster	DNA-tiling-array	Chromatin Structure	H2A	Late Embryonic stageSalt 15 mM	Henikoff, S.	2505
+H2A;Salt 80 mM;1 – 2 hours;soluble fraction;Fly biotin-tagged H2A;Late Embryonic stage;Embryo-derived cell-line;DNA-tiling-array	D. melanogaster	DNA-tiling-array	Chromatin Structure	H2A	Late Embryonic stageSalt 80 mM	Henikoff, S.	2518
+H2Av;CG5499-RNAi-2;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H2Av	Late Embryonic stage	Karpen, G.	5595
+H2Av;Fly-GFP-RNAi-2;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H2Av	Late Embryonic stage	Karpen, G.	5596
+H2Av;Kc167;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H2Av	Late Embryonic stage	Karpen, G.	3282
+H2Av;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H2Av	Larvae 3rd instar	Karpen, G.	6073
+H2Av;Oregon-R;Embryos 14-16 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H2Av	Embryos 14-16 hr OR	Karpen, G.	2989
+H2Av;Oregon-R;Embryos 14-16 hr OR;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H2Av	Embryos 14-16 hr OR	Karpen, G.	5075
+H2Av;Oregon-R;Embryos 2-4 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H2Av	Embryos 2-4 hr OR	Karpen, G.	2990
+H2Av;Oregon-R;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H2Av	Larvae 3rd instar	Karpen, G.	3678
+H2Av;Oregon-R;Larvae 3rd instar;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H2Av	Larvae 3rd instar	Karpen, G.	4953
+H2Av;Oregon-R;Tissue:Heads-OR:GK:1;Mixed Adult;Heads OR;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H2Av	Mixed Adult	Karpen, G.	5258
+H2Av;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H2Av	Late Embryonic stage	Karpen, G.	2991
+H2Av;Salt 15 mM;1 – 2 hours;soluble fraction;Fly biotin-tagged H2Av;Late Embryonic stage;Embryo-derived cell-line;DNA-tiling-array	D. melanogaster	DNA-tiling-array	Chromatin Structure	H2Av	Late Embryonic stageSalt 15 mM	Henikoff, S.	2529
+H2Av;Salt 15 mM;1-2 hours;soluble fraction;Fly biotin-tagged H2Av;Late Embryonic stage;Embryo-derived cell-line;DNA-tiling-array	D. melanogaster	DNA-tiling-array	Chromatin Structure	H2Av	Late Embryonic stageSalt 15 mM	Henikoff, S.	2504
+H2Av;Salt 15 mM;1-2 hours;soluble fraction;Fly biotin-tagged H2Av;Late Embryonic stage;Embryo-derived cell-line;DNA-tiling-array	D. melanogaster	DNA-tiling-array	Chromatin Structure	H2Av	Late Embryonic stageSalt 15 mM	Henikoff, S.	2506
+H2Av;Salt 150 mM;1-2 hours;soluble fraction;Fly biotin-tagged H2Av;Late Embryonic stage;Embryo-derived cell-line;DNA-tiling-array	D. melanogaster	DNA-tiling-array	Chromatin Structure	H2Av	Late Embryonic stageSalt 150 mM	Henikoff, S.	2503
+H2Av;Salt 150-600 mM;1 – 2 hours;soluble fraction;Fly biotin-tagged H2Av;Late Embryonic stage;Embryo-derived cell-line;DNA-tiling-array	D. melanogaster	DNA-tiling-array	Chromatin Structure	H2Av	Late Embryonic stageSalt 150-600 mM	Henikoff, S.	2525
+H2Av;Salt 600 mM;1 – 2 hours;precipitate;Fly biotin-tagged H2Av;Late Embryonic stage;Embryo-derived cell-line;DNA-tiling-array	D. melanogaster	DNA-tiling-array	Chromatin Structure	H2Av	Late Embryonic stageSalt 600 mM	Henikoff, S.	2502
+H2Av;Salt 80 mM;1 – 2 hours;soluble fraction;Fly biotin-tagged H2Av;Late Embryonic stage;Embryo-derived cell-line;DNA-tiling-array	D. melanogaster	DNA-tiling-array	Chromatin Structure	H2Av	Late Embryonic stageSalt 80 mM	Henikoff, S.	2519
+H2Av;Salt 80-150 mM;1.5 hours;soluble fraction;Fly biotin-tagged H2Av;Late Embryonic stage;Embryo-derived cell-line;DNA-tiling-array	D. melanogaster	DNA-tiling-array	Chromatin Structure	H2Av	Late Embryonic stageSalt 80-150 mM	Henikoff, S.	2521
+H2Av;Salt 80-600 mM;1 – 2 hours;soluble fraction;Fly biotin-tagged H2Av;Late Embryonic stage;Embryo-derived cell-line;DNA-tiling-array	D. melanogaster	DNA-tiling-array	Chromatin Structure	H2Av	Late Embryonic stageSalt 80-600 mM	Henikoff, S.	2524
+H2BK5ac;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H2BK5ac	Late Embryonic stage	Karpen, G.	3283
+H2Bubi;CME-W1-Cl.8+;Larvae 3rd instar;Dorsal mesothoracic disc;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H2Bubi	Larvae 3rd instar	Karpen, G.	2994
+H2Bubi;Kc167;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H2Bubi	Late Embryonic stage	Karpen, G.	289
+H2Bubi;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H2Bubi	Larvae 3rd instar	Karpen, G.	288
+H2Bubi;Oregon-R;Embryos 14-16 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H2Bubi	Embryos 14-16 hr OR	Karpen, G.	2992
+H2Bubi;Oregon-R;Embryos 14-16 hr OR;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H2Bubi	Embryos 14-16 hr OR	Karpen, G.	5076
+H2Bubi;Oregon-R;Embryos 2-4 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H2Bubi	Embryos 2-4 hr OR	Karpen, G.	2993
+H2Bubi;Oregon-R;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H2Bubi	Larvae 3rd instar	Karpen, G.	3284
+H2Bubi;Oregon-R;Larvae 3rd instar;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H2Bubi	Larvae 3rd instar	Karpen, G.	5077
+H2Bubi;Oregon-R;Tissue:Heads-OR:GK:1;Mixed Adult;Heads OR;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H2Bubi	Mixed Adult	Karpen, G.	5078
+H2Bubi;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H2Bubi	Late Embryonic stage	Karpen, G.	290
+H3.3A;Salt 15 mM;1 – 2 hours;soluble fraction;Fly biotin-tagged H3.3;Late Embryonic stage;Embryo-derived cell-line;DNA-tiling-array	D. melanogaster	DNA-tiling-array	Chromatin Structure	H3.3A	Late Embryonic stageSalt 15 mM	Henikoff, S.	2528
+H3.3A;Salt 80 mM;1 – 2 hours;soluble fraction;Fly biotin-tagged H3.3;Late Embryonic stage;Embryo-derived cell-line;DNA-tiling-array	D. melanogaster	DNA-tiling-array	Chromatin Structure	H3.3A	Late Embryonic stageSalt 80 mM	Henikoff, S.	2520
+H3.3A;Salt 80-600 mM;1 – 2 hours;soluble fraction;Fly biotin-tagged H3.3;Late Embryonic stage;Embryo-derived cell-line;DNA-tiling-array	D. melanogaster	DNA-tiling-array	Chromatin Structure	H3.3A	Late Embryonic stageSalt 80-600 mM	Henikoff, S.	2523
+H3;Kc167;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3	Late Embryonic stage	Karpen, G.	4179
+H3;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3	Larvae 3rd instar	Karpen, G.	3302
+H3;Oregon-R;Embryos 14-16 hr OR;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3	Embryos 14-16 hr OR	Karpen, G.	5079
+H3;Oregon-R;Embryos 2-4 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3	Embryos 2-4 hr OR	Karpen, G.	4177
+H3;Oregon-R;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3	Larvae 3rd instar	Karpen, G.	4178
+H3;Oregon-R;Larvae 3rd instar;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3	Larvae 3rd instar	Karpen, G.	5080
+H3;Oregon-R;Mixed Adult;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3	Mixed Adult	Karpen, G.	4180
+H3;Oregon-R;Tissue:Heads-OR:GK:1;Mixed Adult;Heads OR;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3	Mixed Adult	Karpen, G.	5081
+H3;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3	Late Embryonic stage	Karpen, G.	3301
+H3;Salt 150-600 mM;1 – 2 hours;soluble fraction;Fly biotin-tagged H3;Late Embryonic stage;Embryo-derived cell-line;DNA-tiling-array	D. melanogaster	DNA-tiling-array	Chromatin Structure	H3	Late Embryonic stageSalt 150-600 mM	Henikoff, S.	2526
+H3K18ac;CME-W1-Cl.8+;Larvae 3rd instar;Dorsal mesothoracic disc;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K18ac	Larvae 3rd instar	Karpen, G.	930
+H3K18ac;Kc167;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K18ac	Late Embryonic stage	Karpen, G.	2996
+H3K18ac;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K18ac	Larvae 3rd instar	Karpen, G.	291
+H3K18ac;Oregon-R;Embryos 14-16 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K18ac	Embryos 14-16 hr OR	Karpen, G.	3754
+H3K18ac;Oregon-R;Embryos 14-16 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K18ac	Embryos 14-16 hr OR	Karpen, G.	3886
+H3K18ac;Oregon-R;Embryos 14-16 hr OR;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K18ac	Embryos 14-16 hr OR	Karpen, G.	5082
+H3K18ac;Oregon-R;Embryos 2-4 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K18ac	Embryos 2-4 hr OR	Karpen, G.	2652
+H3K18ac;Oregon-R;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K18ac	Larvae 3rd instar	Karpen, G.	2995
+H3K18ac;Oregon-R;Tissue:Heads-OR:GK:1;Mixed Adult;Heads OR;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K18ac	Mixed Adult	Karpen, G.	4946
+H3K18ac;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K18ac	Late Embryonic stage	Karpen, G.	292
+H3K23ac;Kc167;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K23ac	Late Embryonic stage	Karpen, G.	2998
+H3K23ac;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K23ac	Larvae 3rd instar	Karpen, G.	293
+H3K23ac;Oregon-R;Embryos 14-16 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K23ac	Embryos 14-16 hr OR	Karpen, G.	2997
+H3K23ac;Oregon-R;Embryos 14-16 hr OR;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K23ac	Embryos 14-16 hr OR	Karpen, G.	5083
+H3K23ac;Oregon-R;Embryos 2-4 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K23ac	Embryos 2-4 hr OR	Karpen, G.	4181
+H3K23ac;Oregon-R;Embryos 2-4 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K23ac	Embryos 2-4 hr OR	Karpen, G.	4957
+H3K23ac;Oregon-R;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K23ac	Larvae 3rd instar	Karpen, G.	3887
+H3K23ac;Oregon-R;Larvae 3rd instar;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K23ac	Larvae 3rd instar	Karpen, G.	4951
+H3K23ac;Oregon-R;Tissue:Heads-OR:GK:1;Mixed Adult;Heads OR;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K23ac	Mixed Adult	Karpen, G.	3756
+H3K23ac;Oregon-R;Tissue:Heads-OR:GK:1;Mixed Adult;Heads OR;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K23ac	Mixed Adult	Karpen, G.	4960
+H3K23ac;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K23ac	Late Embryonic stage	Karpen, G.	294
+H3K23ac;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K23ac	Late Embryonic stage	Karpen, G.	3755
+H3K27ac;Adult Male;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K27ac	Adult Male	White, K.	873
+H3K27ac;Adult Male;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K27ac	Adult Male	White, K.	874
+H3K27ac;Embryos 4-8 hr;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K27ac	Embryos 4-8 hr	White, K.	404
+H3K27ac;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K27ac	Larvae 3rd instar	Karpen, G.	295
+H3K27ac;Oregon-R;Embryos 14-16 hr OR;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K27ac	Embryos 14-16 hr OR	Karpen, G.	4120
+H3K27ac;Oregon-R;Larvae 3rd instar;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K27ac	Larvae 3rd instar	Karpen, G.	5084
+H3K27ac;Oregon-R;Tissue:Heads-OR:GK:1;Mixed Adult;Heads OR;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K27ac	Mixed Adult	Karpen, G.	5578
+H3K27ac;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K27ac	Late Embryonic stage	Karpen, G.	296
+H3K27ac;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K27ac	Late Embryonic stage	Karpen, G.	3757
+H3K27ac;Y cn bw sp;Adult Female;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K27ac	Adult Female	White, K.	844
+H3K27ac;Y cn bw sp;Adult Male;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K27ac	Adult Male	White, K.	845
+H3K27ac;Y cn bw sp;Embryos 0-4 hr;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K27ac	Embryos 0-4 hr	White, K.	424
+H3K27ac;Y cn bw sp;Embryos 0-4 hr;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K27ac	Embryos 0-4 hr	White, K.	970
+H3K27ac;Y cn bw sp;Embryos 0-4 hr;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K27ac	Embryos 0-4 hr	White, K.	834
+H3K27ac;Y cn bw sp;Embryos 12-16 hr;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K27ac	Embryos 12-16 hr	White, K.	419
+H3K27ac;Y cn bw sp;Embryos 12-16 hr;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K27ac	Embryos 12-16 hr	White, K.	837
+H3K27ac;Y cn bw sp;Embryos 16-20 hr;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K27ac	Embryos 16-20 hr	White, K.	414
+H3K27ac;Y cn bw sp;Embryos 16-20 hr;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K27ac	Embryos 16-20 hr	White, K.	838
+H3K27ac;Y cn bw sp;Embryos 20-24 hr;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K27ac	Embryos 20-24 hr	White, K.	409
+H3K27ac;Y cn bw sp;Embryos 20-24 hr;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K27ac	Embryos 20-24 hr	White, K.	839
+H3K27ac;Y cn bw sp;Embryos 4-8 hr;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K27ac	Embryos 4-8 hr	White, K.	835
+H3K27ac;Y cn bw sp;Embryos 8-12 hr;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K27ac	Embryos 8-12 hr	White, K.	872
+H3K27ac;Y cn bw sp;Embryos 8-12 hr;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K27ac	Embryos 8-12 hr	White, K.	836
+H3K27ac;Y cn bw sp;Larvae L1 stage;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K27ac	Larvae L1 stage	White, K.	399
+H3K27ac;Y cn bw sp;Larvae L1 stage;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K27ac	Larvae L1 stage	White, K.	840
+H3K27ac;Y cn bw sp;Larvae L2 stage;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K27ac	Larvae L2 stage	White, K.	394
+H3K27ac;Y cn bw sp;Larvae L2 stage;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K27ac	Larvae L2 stage	White, K.	841
+H3K27ac;Y cn bw sp;Larvae L2 stage;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K27ac	Larvae L2 stage	White, K.	895
+H3K27ac;Y cn bw sp;Larvae L3 stage;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K27ac	Larvae L3 stage	White, K.	389
+H3K27ac;Y cn bw sp;Larvae L3 stage;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K27ac	Larvae L3 stage	White, K.	842
+H3K27ac;Y cn bw sp;Pupae;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K27ac	Pupae	White, K.	384
+H3K27ac;Y cn bw sp;Pupae;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K27ac	Pupae	White, K.	843
+H3K27me1;Kc167;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K27me1	Late Embryonic stage	Karpen, G.	3942
+H3K27me1;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K27me1	Larvae 3rd instar	Karpen, G.	3941
+H3K27me1;Oregon-R;Larvae 3rd instar;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K27me1	Larvae 3rd instar	Karpen, G.	5085
+H3K27me1;Oregon-R;Tissue:Heads-OR:GK:1;Mixed Adult;Heads OR;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K27me1	Mixed Adult	Karpen, G.	5086
+H3K27me1;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K27me1	Late Embryonic stage	Karpen, G.	3943
+H3K27me2;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K27me2	Larvae 3rd instar	Karpen, G.	2999
+H3K27me2;Oregon-R;Embryos 14-16 hr OR;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K27me2	Embryos 14-16 hr OR	Karpen, G.	5087
+H3K27me2;Oregon-R;Larvae 3rd instar;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K27me2	Larvae 3rd instar	Karpen, G.	5088
+H3K27me2;Oregon-R;Tissue:Heads-OR:GK:1;Mixed Adult;Heads OR;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K27me2	Mixed Adult	Karpen, G.	5582
+H3K27me2;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K27me2	Late Embryonic stage	Karpen, G.	3000
+H3K27me2;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K27me2	Late Embryonic stage	Karpen, G.	3758
+H3K27me3;Adult Female;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K27me3	Adult Female	White, K.	346
+H3K27me3;Adult Male;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K27me3	Adult Male	White, K.	869
+H3K27me3;CG10159-RNAi;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	H3K27me3	Larvae 3rd instar	Karpen, G.	3679
+H3K27me3;CG6384-RNAi;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	H3K27me3	Larvae 3rd instar	Karpen, G.	3680
+H3K27me3;CG8573-RNAi;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	H3K27me3	Larvae 3rd instar	Karpen, G.	3683
+H3K27me3;CG8591-RNAi;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	H3K27me3	Larvae 3rd instar	Karpen, G.	3681
+H3K27me3;D.pseudoobscura wild-type;Embryos 0-4 hr;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K27me3	Embryos 0-4 hr	White, K.	3807
+H3K27me3;D.pseudoobscura wild-type;Larvae L3 stage;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K27me3	Larvae L3 stage	White, K.	3810
+H3K27me3;Embryos 0-12 hr;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K27me3	Embryos 0-12 hr	White, K.	919
+H3K27me3;Embryos 12-16 hr;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K27me3	Embryos 12-16 hr	White, K.	767
+H3K27me3;Embryos 16-20 hr;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K27me3	Embryos 16-20 hr	White, K.	376
+H3K27me3;Embryos 20-24 hr;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K27me3	Embryos 20-24 hr	White, K.	370
+H3K27me3;Embryos 4-8 hr;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K27me3	Embryos 4-8 hr	White, K.	768
+H3K27me3;Embryos 8-12 hr;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K27me3	Embryos 8-12 hr	White, K.	868
+H3K27me3;Fly-LacZ-RNAi;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	H3K27me3	Larvae 3rd instar	Karpen, G.	3682
+H3K27me3;FlyStrain;Embryos 0-4 hr;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K27me3	Embryos 0-4 hr	White, K.	3811
+H3K27me3;FlyStrain;Larvae L3 stage;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	H3K27me3	Larvae L3 stage	White, K.	3815
+H3K27me3;Kc167;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K27me3	Late Embryonic stage	Karpen, G.	5136
+H3K27me3;Larvae L1 stage;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K27me3	Larvae L1 stage	White, K.	373
+H3K27me3;Larvae L2 stage;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K27me3	Larvae L2 stage	White, K.	371
+H3K27me3;Larvae L3 stage;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K27me3	Larvae L3 stage	White, K.	359
+H3K27me3;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K27me3	Larvae 3rd instar	Karpen, G.	297
+H3K27me3;Oregon-R;Embryos 14-16 hr OR;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K27me3	Embryos 14-16 hr OR	Karpen, G.	3955
+H3K27me3;Oregon-R;Embryos 2-4 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K27me3	Embryos 2-4 hr OR	Karpen, G.	5135
+H3K27me3;Oregon-R;Larvae 3rd instar;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K27me3	Larvae 3rd instar	Karpen, G.	5089
+H3K27me3;Oregon-R;Tissue:Heads-OR:GK:1;Mixed Adult;Heads OR;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K27me3	Mixed Adult	Karpen, G.	5583
+H3K27me3;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K27me3	Late Embryonic stage	Karpen, G.	298
+H3K27me3;White prepupae (WPP);ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K27me3	White prepupae (WPP)	White, K.	3829
+H3K27me3;Y cn bw sp;Adult Male;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K27me3	Adult Male	White, K.	372
+H3K27me3;Y cn bw sp;Adult Male;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K27me3	Adult Male	White, K.	820
+H3K27me3;Y cn bw sp;Embryos 0-4 hr;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K27me3	Embryos 0-4 hr	White, K.	867
+H3K27me3;Y cn bw sp;Embryos 0-4 hr;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K27me3	Embryos 0-4 hr	White, K.	810
+H3K27me3;Y cn bw sp;Embryos 12-16 hr;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K27me3	Embryos 12-16 hr	White, K.	813
+H3K27me3;Y cn bw sp;Embryos 16-20 hr;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K27me3	Embryos 16-20 hr	White, K.	814
+H3K27me3;Y cn bw sp;Embryos 20-24 hr;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K27me3	Embryos 20-24 hr	White, K.	815
+H3K27me3;Y cn bw sp;Embryos 4-8 hr;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K27me3	Embryos 4-8 hr	White, K.	811
+H3K27me3;Y cn bw sp;Embryos 8-12 hr;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K27me3	Embryos 8-12 hr	White, K.	812
+H3K27me3;Y cn bw sp;Larvae L1 stage;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K27me3	Larvae L1 stage	White, K.	816
+H3K27me3;Y cn bw sp;Larvae L2 stage;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K27me3	Larvae L2 stage	White, K.	817
+H3K27me3;Y cn bw sp;Larvae L3 stage;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K27me3	Larvae L3 stage	White, K.	818
+H3K27me3;Y cn bw sp;Pupae;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K27me3	Pupae	White, K.	819
+H3K36me1;CME-W1-Cl.8+;Larvae 3rd instar;Dorsal mesothoracic disc;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K36me1	Larvae 3rd instar	Karpen, G.	3002
+H3K36me1;Kc167;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K36me1	Late Embryonic stage	Karpen, G.	3003
+H3K36me1;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K36me1	Larvae 3rd instar	Karpen, G.	299
+H3K36me1;Oregon-R;Embryos 14-16 hr OR;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K36me1	Embryos 14-16 hr OR	Karpen, G.	4196
+H3K36me1;Oregon-R;Embryos 2-4 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K36me1	Embryos 2-4 hr OR	Karpen, G.	3001
+H3K36me1;Oregon-R;Larvae 3rd instar;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K36me1	Larvae 3rd instar	Karpen, G.	4942
+H3K36me1;Oregon-R;Tissue:Heads-OR:GK:1;Mixed Adult;Heads OR;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K36me1	Mixed Adult	Karpen, G.	5090
+H3K36me1;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K36me1	Late Embryonic stage	Karpen, G.	3170
+H3K36me2;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K36me2	Larvae 3rd instar	Karpen, G.	6389
+H3K36me2;Oregon-R;Embryos 14-16 hr OR;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K36me2	Embryos 14-16 hr OR	Karpen, G.	6388
+H3K36me2;Oregon-R;Tissue:Heads-OR:GK:1;Mixed Adult;Heads OR;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K36me2	Mixed Adult	Karpen, G.	6390
+H3K36me3;CME-W1-Cl.8+;Larvae 3rd instar;Dorsal mesothoracic disc;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K36me3	Larvae 3rd instar	Karpen, G.	3004
+H3K36me3;EGG mutant;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K36me3	Larvae 3rd instar	Karpen, G.	3684
+H3K36me3;Embryos 0-12 hr;Embryo;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K36me3	Embryos 0-12 hr	White, K.	620
+H3K36me3;G9a mutant ;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K36me3	Larvae 3rd instar	Karpen, G.	5615
+H3K36me3;HP1a mutant;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K36me3	Larvae 3rd instar	Karpen, G.	3759
+H3K36me3;HP1b mutant;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K36me3	Larvae 3rd instar	Karpen, G.	5605
+H3K36me3;HP1c mutant;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K36me3	Larvae 3rd instar	Karpen, G.	3685
+H3K36me3;Kc167;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K36me3	Late Embryonic stage	Karpen, G.	302
+H3K36me3;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K36me3	Larvae 3rd instar	Karpen, G.	301
+H3K36me3;Oregon-R;Embryos 14-16 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K36me3	Embryos 14-16 hr OR	Karpen, G.	931
+H3K36me3;Oregon-R;Embryos 14-16 hr OR;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K36me3	Embryos 14-16 hr OR	Karpen, G.	4950
+H3K36me3;Oregon-R;Embryos 2-4 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K36me3	Embryos 2-4 hr OR	Karpen, G.	932
+H3K36me3;Oregon-R;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K36me3	Larvae 3rd instar	Karpen, G.	3687
+H3K36me3;Oregon-R;Larvae 3rd instar;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K36me3	Larvae 3rd instar	Karpen, G.	4941
+H3K36me3;Oregon-R;Tissue:Heads-OR:GK:1;Mixed Adult;Heads OR;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K36me3	Mixed Adult	Karpen, G.	5091
+H3K36me3;POF mutant;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K36me3	Larvae 3rd instar	Karpen, G.	3686
+H3K36me3;S2-DRSC;Ab:H3K36me3:KW:1;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	H3K36me3	Late Embryonic stage	White, K.	3189
+H3K36me3;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K36me3	Late Embryonic stage	Karpen, G.	303
+H3K36me3;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K36me3	Late Embryonic stage	White, K.	4715
+H3K36me3;Su(var) 3-9 06 17 mutant;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K36me3	Larvae 3rd instar	Karpen, G.	3888
+H3K4me1;3.6;Y cn bw sp;Adult Female;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K4me1	Adult Female	White, K.	787
+H3K4me1;37.3;Y cn bw sp;Embryos 20-24 hr;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K4me1	Embryos 20-24 hr	White, K.	782
+H3K4me1;Adult Female;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K4me1	Adult Female	White, K.	432
+H3K4me1;Adult Male;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K4me1	Adult Male	White, K.	428
+H3K4me1;Embryos 0-4 hr;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K4me1	Embryos 0-4 hr	White, K.	423
+H3K4me1;Embryos 12-16 hr;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K4me1	Embryos 12-16 hr	White, K.	418
+H3K4me1;Embryos 16-20 hr;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K4me1	Embryos 16-20 hr	White, K.	413
+H3K4me1;Embryos 20-24 hr;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K4me1	Embryos 20-24 hr	White, K.	408
+H3K4me1;Embryos 4-8 hr;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K4me1	Embryos 4-8 hr	White, K.	403
+H3K4me1;Embryos 8-12 hr;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K4me1	Embryos 8-12 hr	White, K.	864
+H3K4me1;Kc167;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K4me1	Late Embryonic stage	Karpen, G.	5138
+H3K4me1;Larvae L3 stage;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K4me1	Larvae L3 stage	White, K.	4986
+H3K4me1;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K4me1	Larvae 3rd instar	Karpen, G.	2653
+H3K4me1;Oregon-R;Embryos 14-16 hr OR;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K4me1	Embryos 14-16 hr OR	Karpen, G.	4121
+H3K4me1;Oregon-R;Embryos 14-16 hr OR;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K4me1	Embryos 14-16 hr OR	Karpen, G.	5092
+H3K4me1;Oregon-R;Embryos 2-4 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K4me1	Embryos 2-4 hr OR	Karpen, G.	5137
+H3K4me1;Oregon-R;Larvae 3rd instar;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K4me1	Larvae 3rd instar	Karpen, G.	5093
+H3K4me1;Oregon-R;Tissue:Heads-OR:GK:1;Mixed Adult;Heads OR;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K4me1	Mixed Adult	Karpen, G.	5094
+H3K4me1;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K4me1	Late Embryonic stage	Karpen, G.	304
+H3K4me1;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K4me1	Late Embryonic stage	Karpen, G.	3760
+H3K4me1;Y cn bw sp;Adult Male;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K4me1	Adult Male	White, K.	788
+H3K4me1;Y cn bw sp;Embryos 0-4 hr;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K4me1	Embryos 0-4 hr	White, K.	777
+H3K4me1;Y cn bw sp;Embryos 12-16 hr;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K4me1	Embryos 12-16 hr	White, K.	780
+H3K4me1;Y cn bw sp;Embryos 16-20 hr;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K4me1	Embryos 16-20 hr	White, K.	781
+H3K4me1;Y cn bw sp;Embryos 4-8 hr;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K4me1	Embryos 4-8 hr	White, K.	778
+H3K4me1;Y cn bw sp;Embryos 8-12 hr;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K4me1	Embryos 8-12 hr	White, K.	779
+H3K4me1;Y cn bw sp;Larvae L1 stage;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K4me1	Larvae L1 stage	White, K.	398
+H3K4me1;Y cn bw sp;Larvae L1 stage;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K4me1	Larvae L1 stage	White, K.	783
+H3K4me1;Y cn bw sp;Larvae L2 stage;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K4me1	Larvae L2 stage	White, K.	393
+H3K4me1;Y cn bw sp;Larvae L2 stage;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K4me1	Larvae L2 stage	White, K.	784
+H3K4me1;Y cn bw sp;Larvae L3 stage;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K4me1	Larvae L3 stage	White, K.	388
+H3K4me1;Y cn bw sp;Larvae L3 stage;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K4me1	Larvae L3 stage	White, K.	785
+H3K4me1;Y cn bw sp;Pupae;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K4me1	Pupae	White, K.	383
+H3K4me1;Y cn bw sp;Pupae;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K4me1	Pupae	White, K.	786
+H3K4me2;Kc167;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K4me2	Late Embryonic stage	Karpen, G.	4935
+H3K4me2;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K4me2	Larvae 3rd instar	Karpen, G.	2654
+H3K4me2;Oregon-R;Embryos 14-16 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K4me2	Embryos 14-16 hr OR	Karpen, G.	2656
+H3K4me2;Oregon-R;Embryos 2-4 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K4me2	Embryos 2-4 hr OR	Karpen, G.	5139
+H3K4me2;Oregon-R;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K4me2	Larvae 3rd instar	Karpen, G.	2657
+H3K4me2;Oregon-R;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K4me2	Larvae 3rd instar	Karpen, G.	3688
+H3K4me2;Oregon-R;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K4me2	Larvae 3rd instar	Karpen, G.	3689
+H3K4me2;Oregon-R;Larvae 3rd instar;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K4me2	Larvae 3rd instar	Karpen, G.	4959
+H3K4me2;Oregon-R;Tissue:Heads-OR:GK:1;Mixed Adult;Heads OR;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K4me2	Mixed Adult	Karpen, G.	954
+H3K4me2;Oregon-R;Tissue:Heads-OR:GK:1;Mixed Adult;Heads OR;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K4me2	Mixed Adult	Karpen, G.	5095
+H3K4me2;Oregon-R;Tissue:Ovary:GK:1;Adult Female;Ovary;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K4me2	Adult Female	Karpen, G.	4125
+H3K4me2;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K4me2	Late Embryonic stage	Karpen, G.	965
+H3K4me2;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K4me2	Late Embryonic stage	Karpen, G.	2655
+H3K4me2;Su(var)3-9 mutant;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K4me2	Larvae 3rd instar	Karpen, G.	3690
+H3K4me3;Adult Female;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K4me3	Adult Female	White, K.	431
+H3K4me3;Adult Male;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K4me3	Adult Male	White, K.	427
+H3K4me3;CG8573-RNAi;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	H3K4me3	Larvae 3rd instar	Karpen, G.	3691
+H3K4me3;CG8591-RNAi;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	H3K4me3	Larvae 3rd instar	Karpen, G.	3537
+H3K4me3;CG8591-RNAi;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;integrated-gene-model	D. melanogaster	integrated-gene-model	Non TF Chromatin binding factor	H3K4me3	Larvae 3rd instar	Karpen, G.	3583
+H3K4me3;Embryos 0-12 hr;Embryo;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K4me3	Embryos 0-12 hr	White, K.	622
+H3K4me3;Embryos 0-4 hr;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K4me3	Embryos 0-4 hr	White, K.	771
+H3K4me3;Embryos 12-16 hr;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K4me3	Embryos 12-16 hr	White, K.	417
+H3K4me3;Embryos 16-20 hr;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K4me3	Embryos 16-20 hr	White, K.	412
+H3K4me3;Embryos 20-24 hr;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K4me3	Embryos 20-24 hr	White, K.	407
+H3K4me3;Embryos 4-8 hr;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K4me3	Embryos 4-8 hr	White, K.	402
+H3K4me3;Embryos 8-12 hr;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K4me3	Embryos 8-12 hr	White, K.	865
+H3K4me3;Embryos 8-16 hr;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K4me3	Embryos 8-16 hr	White, K.	4987
+H3K4me3;Kc167;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K4me3	Late Embryonic stage	White, K.andKarpen, G.	912
+H3K4me3;Kc167;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K4me3	Late Embryonic stage	White, K.andKarpen, G.	5141
+H3K4me3;Kc167;Late Embryonic stage;Embryo-derived cell-line;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K4me3	Late Embryonic stage	White, K.	3244
+H3K4me3;Larvae L1 stage;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K4me3	Larvae L1 stage	White, K.	397
+H3K4me3;Larvae L2 stage;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K4me3	Larvae L2 stage	White, K.	392
+H3K4me3;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K4me3	Late Embryonic stage	Karpen, G.	305
+H3K4me3;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K4me3	Larvae 3rd instar	Karpen, G.	967
+H3K4me3;Oregon-R;Embryos 14-16 hr OR;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K4me3	Embryos 14-16 hr OR	Karpen, G.	5096
+H3K4me3;Oregon-R;Embryos 2-4 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K4me3	Embryos 2-4 hr OR	Karpen, G.	966
+H3K4me3;Oregon-R;Embryos 2-4 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K4me3	Embryos 2-4 hr OR	Karpen, G.	5140
+H3K4me3;Oregon-R;Larvae 3rd instar;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K4me3	Larvae 3rd instar	Karpen, G.	5097
+H3K4me3;Oregon-R;Tissue:Heads-OR:GK:1;Mixed Adult;Heads OR;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K4me3	Mixed Adult	Karpen, G.	5098
+H3K4me3;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K4me3	Late Embryonic stage	White, K.andKarpen, G.	914
+H3K4me3;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K4me3	Late Embryonic stage	White, K.andKarpen, G.	3761
+H3K4me3;White prepupae (WPP);ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K4me3	White prepupae (WPP)	White, K.	4117
+H3K4me3;Y cn bw sp;Adult Female;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K4me3	Adult Female	White, K.	799
+H3K4me3;Y cn bw sp;Adult Male;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K4me3	Adult Male	White, K.	800
+H3K4me3;Y cn bw sp;Embryos 0-4 hr;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K4me3	Embryos 0-4 hr	White, K.	422
+H3K4me3;Y cn bw sp;Embryos 0-4 hr;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K4me3	Embryos 0-4 hr	White, K.	789
+H3K4me3;Y cn bw sp;Embryos 12-16 hr;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K4me3	Embryos 12-16 hr	White, K.	792
+H3K4me3;Y cn bw sp;Embryos 16-20 hr;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K4me3	Embryos 16-20 hr	White, K.	793
+H3K4me3;Y cn bw sp;Embryos 20-24 hr;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K4me3	Embryos 20-24 hr	White, K.	794
+H3K4me3;Y cn bw sp;Embryos 4-8 hr;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K4me3	Embryos 4-8 hr	White, K.	790
+H3K4me3;Y cn bw sp;Embryos 8-12 hr;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K4me3	Embryos 8-12 hr	White, K.	791
+H3K4me3;Y cn bw sp;Larvae L1 stage;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K4me3	Larvae L1 stage	White, K.	795
+H3K4me3;Y cn bw sp;Larvae L2 stage;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K4me3	Larvae L2 stage	White, K.	796
+H3K4me3;Y cn bw sp;Larvae L3 stage;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K4me3	Larvae L3 stage	White, K.	387
+H3K4me3;Y cn bw sp;Larvae L3 stage;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K4me3	Larvae L3 stage	White, K.	797
+H3K4me3;Y cn bw sp;Pupae;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K4me3	Pupae	White, K.	382
+H3K4me3;Y cn bw sp;Pupae;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K4me3	Pupae	White, K.	798
+H3K79me1;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K79me1	Larvae 3rd instar	Karpen, G.	3005
+H3K79me1;Oregon-R;Embryos 14-16 hr OR;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K79me1	Embryos 14-16 hr OR	Karpen, G.	4122
+H3K79me1;Oregon-R;Embryos 2-4 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K79me1	Embryos 2-4 hr OR	Karpen, G.	5142
+H3K79me1;Oregon-R;Larvae 3rd instar;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K79me1	Larvae 3rd instar	Karpen, G.	5099
+H3K79me1;Oregon-R;Tissue:Heads-OR:GK:1;Mixed Adult;Heads OR;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K79me1	Mixed Adult	Karpen, G.	5584
+H3K79me1;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K79me1	Late Embryonic stage	Karpen, G.	963
+H3K79me1;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K79me1	Late Embryonic stage	Karpen, G.	2658
+H3K79me1;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K79me1	Late Embryonic stage	Karpen, G.	3762
+H3K79me2;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K79me2	Larvae 3rd instar	Karpen, G.	306
+H3K79me2;Oregon-R;Embryos 14-16 hr OR;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K79me2	Embryos 14-16 hr OR	Karpen, G.	4945
+H3K79me2;Oregon-R;Embryos 2-4 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K79me2	Embryos 2-4 hr OR	Karpen, G.	4955
+H3K79me2;Oregon-R;Larvae 3rd instar;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K79me2	Larvae 3rd instar	Karpen, G.	5100
+H3K79me2;Oregon-R;Tissue:Heads-OR:GK:1;Mixed Adult;Heads OR;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K79me2	Mixed Adult	Karpen, G.	5585
+H3K79me2;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K79me2	Late Embryonic stage	Karpen, G.	307
+H3K79me2;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K79me2	Late Embryonic stage	Karpen, G.	3763
+H3K79me3;Kc167;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K79me3	Late Embryonic stage	Karpen, G.	4947
+H3K79me3;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K79me3	Larvae 3rd instar	Karpen, G.	4197
+H3K79me3;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K79me3	Larvae 3rd instar	Karpen, G.	4934
+H3K79me3;Oregon-R;Embryos 14-16 hr OR;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K79me3	Embryos 14-16 hr OR	Karpen, G.	5589
+H3K79me3;Oregon-R;Embryos 2-4 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K79me3	Embryos 2-4 hr OR	Karpen, G.	4956
+H3K79me3;Oregon-R;Larvae 3rd instar;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K79me3	Larvae 3rd instar	Karpen, G.	5101
+H3K79me3;Oregon-R;Tissue:Heads-OR:GK:1;Mixed Adult;Heads OR;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K79me3	Mixed Adult	Karpen, G.	5586
+H3K79me3;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K79me3	Late Embryonic stage	Karpen, G.	5143
+H3K9ac;36.6;Y cn bw sp;Embryos 12-16 hr;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K9ac	Embryos 12-16 hr	White, K.	824
+H3K9ac;5.3;Y cn bw sp;Adult Female;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K9ac	Adult Female	White, K.	831
+H3K9ac;Adult Female;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9ac	Adult Female	White, K.	430
+H3K9ac;Adult Male;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9ac	Adult Male	White, K.	426
+H3K9ac;Adult Male;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9ac	Adult Male	White, K.	871
+H3K9ac;CME-W1-Cl.8+;Larvae 3rd instar;Dorsal mesothoracic disc;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9ac	Larvae 3rd instar	Karpen, G.	964
+H3K9ac;Embryos 12-16 hr;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9ac	Embryos 12-16 hr	White, K.	416
+H3K9ac;Kc167;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9ac	Late Embryonic stage	Karpen, G.	3007
+H3K9ac;Larvae L1 stage;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9ac	Larvae L1 stage	White, K.	396
+H3K9ac;Larvae L2 stage;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9ac	Larvae L2 stage	White, K.	391
+H3K9ac;Oregon-R;Embryos 14-16 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9ac	Embryos 14-16 hr OR	Karpen, G.	3764
+H3K9ac;Oregon-R;Embryos 2-4 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9ac	Embryos 2-4 hr OR	Karpen, G.	6072
+H3K9ac;Oregon-R;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9ac	Larvae 3rd instar	Karpen, G.	3006
+H3K9ac;Oregon-R;Larvae 3rd instar;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K9ac	Larvae 3rd instar	Karpen, G.	5102
+H3K9ac;Oregon-R;Tissue:Heads-OR:GK:1;Mixed Adult;Heads OR;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9ac	Mixed Adult	Karpen, G.	3766
+H3K9ac;Oregon-R;Tissue:Heads-OR:GK:1;Mixed Adult;Heads OR;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K9ac	Mixed Adult	Karpen, G.	4949
+H3K9ac;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9ac	Late Embryonic stage	Karpen, G.	309
+H3K9ac;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9ac	Late Embryonic stage	Karpen, G.	3765
+H3K9ac;Y cn bw sp;Adult Female;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9ac	Adult Female	White, K.	581
+H3K9ac;Y cn bw sp;Adult Male;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K9ac	Adult Male	White, K.	832
+H3K9ac;Y cn bw sp;Embryos 0-4 hr;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9ac	Embryos 0-4 hr	White, K.	421
+H3K9ac;Y cn bw sp;Embryos 0-4 hr;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K9ac	Embryos 0-4 hr	White, K.	821
+H3K9ac;Y cn bw sp;Embryos 16-20 hr;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9ac	Embryos 16-20 hr	White, K.	411
+H3K9ac;Y cn bw sp;Embryos 16-20 hr;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K9ac	Embryos 16-20 hr	White, K.	825
+H3K9ac;Y cn bw sp;Embryos 20-24 hr;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9ac	Embryos 20-24 hr	White, K.	406
+H3K9ac;Y cn bw sp;Embryos 20-24 hr;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K9ac	Embryos 20-24 hr	White, K.	826
+H3K9ac;Y cn bw sp;Embryos 4-8 hr;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9ac	Embryos 4-8 hr	White, K.	401
+H3K9ac;Y cn bw sp;Embryos 4-8 hr;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K9ac	Embryos 4-8 hr	White, K.	822
+H3K9ac;Y cn bw sp;Embryos 8-12 hr;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9ac	Embryos 8-12 hr	White, K.	870
+H3K9ac;Y cn bw sp;Embryos 8-12 hr;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K9ac	Embryos 8-12 hr	White, K.	823
+H3K9ac;Y cn bw sp;Larvae L1 stage;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K9ac	Larvae L1 stage	White, K.	827
+H3K9ac;Y cn bw sp;Larvae L2 stage;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K9ac	Larvae L2 stage	White, K.	828
+H3K9ac;Y cn bw sp;Larvae L3 stage;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9ac	Larvae L3 stage	White, K.	386
+H3K9ac;Y cn bw sp;Larvae L3 stage;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K9ac	Larvae L3 stage	White, K.	829
+H3K9ac;Y cn bw sp;Pupae;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9ac	Pupae	White, K.	381
+H3K9ac;Y cn bw sp;Pupae;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K9ac	Pupae	White, K.	830
+H3K9acS10P;CME-W1-Cl.8+;Larvae 3rd instar;Dorsal mesothoracic disc;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9acS10P	Larvae 3rd instar	Karpen, G.	3010
+H3K9acS10P;Kc167;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9acS10P	Late Embryonic stage	Karpen, G.	3009
+H3K9acS10P;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9acS10P	Larvae 3rd instar	Karpen, G.	2659
+H3K9acS10P;Oregon-R;Embryos 14-16 hr OR;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K9acS10P	Embryos 14-16 hr OR	Karpen, G.	5103
+H3K9acS10P;Oregon-R;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9acS10P	Larvae 3rd instar	Karpen, G.	3008
+H3K9acS10P;Oregon-R;Larvae 3rd instar;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K9acS10P	Larvae 3rd instar	Karpen, G.	5104
+H3K9acS10P;Oregon-R;Tissue:Heads-OR:GK:1;Mixed Adult;Heads OR;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9acS10P	Mixed Adult	Karpen, G.	3767
+H3K9acS10P;Oregon-R;Tissue:Heads-OR:GK:1;Mixed Adult;Heads OR;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K9acS10P	Mixed Adult	Karpen, G.	5588
+H3K9acS10P;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9acS10P	Late Embryonic stage	Karpen, G.	2660
+H3K9me1;Oregon-R;Embryos 14-16 hr OR;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K9me1	Embryos 14-16 hr OR	Karpen, G.	4123
+H3K9me1;Oregon-R;Larvae 3rd instar;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K9me1	Larvae 3rd instar	Karpen, G.	5105
+H3K9me1;Oregon-R;Tissue:Heads-OR:GK:1;Mixed Adult;Heads OR;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K9me1	Mixed Adult	Karpen, G.	5106
+H3K9me1;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me1	Late Embryonic stage	Karpen, G.	3768
+H3K9me1;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me1	Late Embryonic stage	Karpen, G.	3769
+H3K9me1;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me1	Late Embryonic stage	Karpen, G.	3770
+H3K9me1;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me1	Late Embryonic stage	Karpen, G.	4182
+H3K9me1;Su(var) 3-9 06 17 mutant;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me1	Larvae 3rd instar	Karpen, G.	4124
+H3K9me2;CME-W1-Cl.8+;Larvae 3rd instar;Dorsal mesothoracic disc;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me2	Larvae 3rd instar	Karpen, G.	937
+H3K9me2;EGG mutant;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me2	Larvae 3rd instar	Karpen, G.	3692
+H3K9me2;G9a mutant ;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me2	Larvae 3rd instar	Karpen, G.	5618
+H3K9me2;HP1a mutant;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me2	Larvae 3rd instar	Karpen, G.	3771
+H3K9me2;HP1b mutant;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me2	Larvae 3rd instar	Karpen, G.	5613
+H3K9me2;Kc167;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me2	Late Embryonic stage	Karpen, G.	938
+H3K9me2;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me2	Larvae 3rd instar	Karpen, G.	310
+H3K9me2;mt2 mutant;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me2	Larvae 3rd instar	Karpen, G.	3693
+H3K9me2;Oregon-R;Embryos 14-16 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me2	Embryos 14-16 hr OR	Karpen, G.	2661
+H3K9me2;Oregon-R;Embryos 14-16 hr OR;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K9me2	Embryos 14-16 hr OR	Karpen, G.	4940
+H3K9me2;Oregon-R;Embryos 2-4 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me2	Embryos 2-4 hr OR	Karpen, G.	2662
+H3K9me2;Oregon-R;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me2	Larvae 3rd instar	Karpen, G.	956
+H3K9me2;Oregon-R;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me2	Larvae 3rd instar	Karpen, G.	3694
+H3K9me2;Oregon-R;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me2	Larvae 3rd instar	Karpen, G.	3772
+H3K9me2;Oregon-R;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me2	Larvae 3rd instar	Karpen, G.	3890
+H3K9me2;Oregon-R;Larvae 3rd instar;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K9me2	Larvae 3rd instar	Karpen, G.	4958
+H3K9me2;Oregon-R;Tissue:Heads-OR:GK:1;Mixed Adult;Heads OR;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me2	Mixed Adult	Karpen, G.	3773
+H3K9me2;Oregon-R;Tissue:Heads-OR:GK:1;Mixed Adult;Heads OR;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me2	Mixed Adult	Karpen, G.	5059
+H3K9me2;Oregon-R;Tissue:Heads-OR:GK:1;Mixed Adult;Heads OR;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K9me2	Mixed Adult	Karpen, G.	5259
+H3K9me2;Oregon-R;Tissue:Ovary:GK:1;Adult Female;Ovary;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me2	Adult Female	Karpen, G.	3946
+H3K9me2;PIWI2 mutant;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me2	Larvae 3rd instar	Karpen, G.	4198
+H3K9me2;POF mutant;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me2	Larvae 3rd instar	Karpen, G.	4201
+H3K9me2;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me2	Late Embryonic stage	Karpen, G.	311
+H3K9me2;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me2	Late Embryonic stage	Karpen, G.	3011
+H3K9me2;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K9me2	Late Embryonic stage	Karpen, G.	3953
+H3K9me2;Sexed Female Jil mutant-heterozygous;Larvae 3rd instar Sexed Female;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me2	Larvae 3rd instar Sexed Female	Karpen, G.	5621
+H3K9me2;Sexed Female Jil mutant;Larvae 3rd instar Sexed Female;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me2	Larvae 3rd instar Sexed Female	Karpen, G.	5617
+H3K9me2;Sexed male Jil mutant-heterozygous;Larvae 3rd instar Sexed Male;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me2	Larvae 3rd instar Sexed Male	Karpen, G.	5602
+H3K9me2;Sexed male Jil mutant;Larvae 3rd instar Sexed Male;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me2	Larvae 3rd instar Sexed Male	Karpen, G.	5612
+H3K9me2;Su(var) 3-9 06 17 mutant;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me2	Larvae 3rd instar	Karpen, G.	3889
+H3K9me2;Su(var)3-9 mutant;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me2	Larvae 3rd instar	Karpen, G.	3695
+H3K9me3;Adult Male;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me3	Adult Male	White, K.	425
+H3K9me3;CME-W1-Cl.8+;Larvae 3rd instar;Dorsal mesothoracic disc;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me3	Larvae 3rd instar	Karpen, G.	940
+H3K9me3;EGG mutant;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me3	Larvae 3rd instar	Karpen, G.	3774
+H3K9me3;Embryos 0-12 hr;Embryo;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me3	Embryos 0-12 hr	White, K.	621
+H3K9me3;Embryos 20-24 hr;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me3	Embryos 20-24 hr	White, K.	377
+H3K9me3;Embryos 4-8 hr;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me3	Embryos 4-8 hr	White, K.	764
+H3K9me3;Embryos 8-12 hr;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me3	Embryos 8-12 hr	White, K.	866
+H3K9me3;G9a mutant ;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me3	Larvae 3rd instar	Karpen, G.	5611
+H3K9me3;HP1a mutant;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me3	Larvae 3rd instar	Karpen, G.	3775
+H3K9me3;Kc167;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me3	Late Embryonic stage	Karpen, G.	3013
+H3K9me3;Larvae L1 stage;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me3	Larvae L1 stage	White, K.	374
+H3K9me3;Larvae L2 stage;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me3	Larvae L2 stage	White, K.	375
+H3K9me3;Larvae L3 stage;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me3	Larvae L3 stage	White, K.	358
+H3K9me3;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me3	Larvae 3rd instar	Karpen, G.	312
+H3K9me3;Oregon-R;Embryos 14-16 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me3	Embryos 14-16 hr OR	Karpen, G.	2663
+H3K9me3;Oregon-R;Embryos 14-16 hr OR;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K9me3	Embryos 14-16 hr OR	Karpen, G.	4939
+H3K9me3;Oregon-R;Embryos 2-4 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me3	Embryos 2-4 hr OR	Karpen, G.	3012
+H3K9me3;Oregon-R;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me3	Larvae 3rd instar	Karpen, G.	958
+H3K9me3;Oregon-R;Larvae 3rd instar;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K9me3	Larvae 3rd instar	Karpen, G.	4952
+H3K9me3;Oregon-R;Tissue:Heads-OR:GK:1;Mixed Adult;Heads OR;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me3	Mixed Adult	Karpen, G.	2664
+H3K9me3;Oregon-R;Tissue:Heads-OR:GK:1;Mixed Adult;Heads OR;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K9me3	Mixed Adult	Karpen, G.	4933
+H3K9me3;POF mutant;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me3	Larvae 3rd instar	Karpen, G.	4202
+H3K9me3;Pupae;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me3	Pupae	White, K.	765
+H3K9me3;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me3	Late Embryonic stage	Karpen, G.	313
+H3K9me3;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me3	Late Embryonic stage	Karpen, G.	4183
+H3K9me3;Sexed Female Jil mutant-heterozygous;Larvae 3rd instar Sexed Female;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me3	Larvae 3rd instar Sexed Female	Karpen, G.	5608
+H3K9me3;Sexed Female Jil mutant;Larvae 3rd instar Sexed Female;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me3	Larvae 3rd instar Sexed Female	Karpen, G.	5609
+H3K9me3;Sexed male Jil mutant-heterozygous;Larvae 3rd instar Sexed Male;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me3	Larvae 3rd instar Sexed Male	Karpen, G.	5601
+H3K9me3;Sexed male Jil mutant;Larvae 3rd instar Sexed Male;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me3	Larvae 3rd instar Sexed Male	Karpen, G.	5623
+H3K9me3;Su(var) 3-9 06 17 mutant;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me3	Larvae 3rd instar	Karpen, G.	3891
+H3K9me3;Su(var)3-9 mutant;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me3	Larvae 3rd instar	Karpen, G.	3696
+H3K9me3;Y cn bw sp;Adult Female;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me3	Adult Female	White, K.	429
+H3K9me3;Y cn bw sp;Embryos 0-4 hr;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me3	Embryos 0-4 hr	White, K.	420
+H3K9me3;Y cn bw sp;Embryos 0-4 hr;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me3	Embryos 0-4 hr	White, K.	971
+H3K9me3;Y cn bw sp;Embryos 0-4 hr;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K9me3	Embryos 0-4 hr	White, K.	801
+H3K9me3;Y cn bw sp;Embryos 12-16 hr;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me3	Embryos 12-16 hr	White, K.	415
+H3K9me3;Y cn bw sp;Embryos 12-16 hr;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K9me3	Embryos 12-16 hr	White, K.	804
+H3K9me3;Y cn bw sp;Embryos 16-20 hr;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H3K9me3	Embryos 16-20 hr	White, K.	410
+H3K9me3;Y cn bw sp;Embryos 16-20 hr;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K9me3	Embryos 16-20 hr	White, K.	805
+H3K9me3;Y cn bw sp;Embryos 20-24 hr;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K9me3	Embryos 20-24 hr	White, K.	806
+H3K9me3;Y cn bw sp;Embryos 4-8 hr;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K9me3	Embryos 4-8 hr	White, K.	802
+H3K9me3;Y cn bw sp;Embryos 8-12 hr;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K9me3	Embryos 8-12 hr	White, K.	803
+H3K9me3;Y cn bw sp;Larvae L1 stage;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K9me3	Larvae L1 stage	White, K.	807
+H3K9me3;Y cn bw sp;Larvae L2 stage;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K9me3	Larvae L2 stage	White, K.	808
+H3K9me3;Y cn bw sp;Pupae;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H3K9me3	Pupae	White, K.	809
+H4;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H4	Larvae 3rd instar	Karpen, G.	3303
+H4;Oregon-R;Embryos 14-16 hr OR;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H4	Embryos 14-16 hr OR	Karpen, G.	5107
+H4;Oregon-R;Embryos 2-4 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H4	Embryos 2-4 hr OR	Karpen, G.	4954
+H4;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H4	Late Embryonic stage	Karpen, G.	3304
+H4acTetra;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H4acTetra	Late Embryonic stage	Karpen, G.	201
+H4K12ac;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H4K12ac	Late Embryonic stage	Karpen, G.	5144
+H4K16ac;CME-W1-Cl.8+;Larvae 3rd instar;Dorsal mesothoracic disc;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H4K16ac	Larvae 3rd instar	Karpen, G.	317
+H4K16ac;Kc167;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H4K16ac	Late Embryonic stage	Karpen, G.	318
+H4K16ac;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H4K16ac	Larvae 3rd instar	Karpen, G.	316
+H4K16ac;Oregon-R;Embryos 14-16 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H4K16ac	Embryos 14-16 hr OR	Karpen, G.	3697
+H4K16ac;Oregon-R;Embryos 14-16 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H4K16ac	Embryos 14-16 hr OR	Karpen, G.	3698
+H4K16ac;Oregon-R;Embryos 14-16 hr OR;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H4K16ac	Embryos 14-16 hr OR	Karpen, G.	4938
+H4K16ac;Oregon-R;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H4K16ac	Larvae 3rd instar	Karpen, G.	3776
+H4K16ac;Oregon-R;Larvae 3rd instar;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H4K16ac	Larvae 3rd instar	Karpen, G.	5260
+H4K16ac;Oregon-R;Tissue:Heads-OR:GK:1;Mixed Adult;Heads OR;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H4K16ac	Mixed Adult	Karpen, G.	5108
+H4K16ac;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H4K16ac	Late Embryonic stage	Karpen, G.	319
+H4K16ac;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H4K16ac	Late Embryonic stage	Karpen, G.	320
+H4K16ac;Sexed Female Jil mutant;Larvae 3rd instar Sexed Female;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H4K16ac	Larvae 3rd instar Sexed Female	Karpen, G.	5619
+H4K16ac;Sexed male Jil mutant-heterozygous;Larvae 3rd instar Sexed Male;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H4K16ac	Larvae 3rd instar Sexed Male	Karpen, G.	5622
+H4K16ac;Sexed male Jil mutant;Larvae 3rd instar Sexed Male;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H4K16ac	Larvae 3rd instar Sexed Male	Karpen, G.	5620
+H4K20me1;Kc167;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H4K20me1	Late Embryonic stage	Karpen, G.	3287
+H4K20me1;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H4K20me1	Larvae 3rd instar	Karpen, G.	3286
+H4K20me1;Oregon-R;Embryos 14-16 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H4K20me1	Embryos 14-16 hr OR	Karpen, G.	3285
+H4K20me1;Oregon-R;Embryos 14-16 hr OR;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H4K20me1	Embryos 14-16 hr OR	Karpen, G.	5109
+H4K20me1;Oregon-R;Embryos 2-4 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H4K20me1	Embryos 2-4 hr OR	Karpen, G.	5261
+H4K20me1;Oregon-R;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H4K20me1	Larvae 3rd instar	Karpen, G.	3699
+H4K20me1;Oregon-R;Larvae 3rd instar;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H4K20me1	Larvae 3rd instar	Karpen, G.	4948
+H4K20me1;Oregon-R;Tissue:Heads-OR:GK:1;Mixed Adult;Heads OR;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H4K20me1	Mixed Adult	Karpen, G.	4937
+H4K20me1;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H4K20me1	Late Embryonic stage	Karpen, G.	3014
+H4K5ac;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H4K5ac	Late Embryonic stage	Karpen, G.	321
+H4K8ac;CME-W1-Cl.8+;Larvae 3rd instar;Dorsal mesothoracic disc;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H4K8ac	Larvae 3rd instar	Karpen, G.	3288
+H4K8ac;Kc167;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H4K8ac	Late Embryonic stage	Karpen, G.	3289
+H4K8ac;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H4K8ac	Larvae 3rd instar	Karpen, G.	5060
+H4K8ac;Oregon-R;Larvae 3rd instar;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H4K8ac	Larvae 3rd instar	Karpen, G.	5262
+H4K8ac;Oregon-R;Tissue:Heads-OR:GK:1;Mixed Adult;Heads OR;ChIP-seq	D. melanogaster	ChIP-seq	Histone Modification	H4K8ac	Mixed Adult	Karpen, G.	5581
+H4K8ac;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	H4K8ac	Late Embryonic stage	Karpen, G.	322
+hairy;Embryos 0-8 hr;ChIP-chip	D. melanogaster	ChIP-chip	Transcriptional Factor	hairy	Embryos 0-8 hr	White, K.	2574
+hairy;Embryos 0-8 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	hairy	Embryos 0-8 hr	White, K.	4982
+hairy;Embryos 8-16 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	hairy	Embryos 8-16 hr	White, K.	3827
+HDAC11;Y cn bw sp;Embryos 0-12 hr;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HDAC11	Embryos 0-12 hr	White, K.	2558
+HDAC11;Y cn bw sp;Embryos 0-12 hr;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HDAC11	Embryos 0-12 hr	White, K.	2567
+HDAC11;Y cn bw sp;Embryos 0-12 hr;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	HDAC11	Embryos 0-12 hr	White, K.	2629
+HDAC11;Y cn bw sp;Embryos 0-12 hr;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	HDAC11	Embryos 0-12 hr	White, K.	2630
+HDAC1;Y cn bw sp;Embryos 0-12 hr;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HDAC1	Embryos 0-12 hr	White, K.	2559
+HDAC1;Y cn bw sp;Embryos 0-12 hr;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HDAC1	Embryos 0-12 hr	White, K.	2560
+HDAC1;Y cn bw sp;Embryos 0-12 hr;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	HDAC1	Embryos 0-12 hr	White, K.	2635
+HDAC1;Y cn bw sp;Embryos 0-12 hr;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	HDAC1	Embryos 0-12 hr	White, K.	2636
+HDAC3;Y cn bw sp;Embryos 0-12 hr;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HDAC3	Embryos 0-12 hr	White, K.	2561
+HDAC3;Y cn bw sp;Embryos 0-12 hr;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HDAC3	Embryos 0-12 hr	White, K.	2562
+HDAC3;Y cn bw sp;Embryos 0-12 hr;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	HDAC3	Embryos 0-12 hr	White, K.	2633
+HDAC3;Y cn bw sp;Embryos 0-12 hr;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	HDAC3	Embryos 0-12 hr	White, K.	2634
+HDAC4a;Y cn bw sp;Embryos 0-12 hr;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HDAC4a	Embryos 0-12 hr	White, K.	2563
+HDAC4a;Y cn bw sp;Embryos 0-12 hr;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HDAC4a	Embryos 0-12 hr	White, K.	2564
+HDAC4a;Y cn bw sp;Embryos 0-12 hr;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	HDAC4a	Embryos 0-12 hr	White, K.	2627
+HDAC4a;Y cn bw sp;Embryos 0-12 hr;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	HDAC4a	Embryos 0-12 hr	White, K.	2628
+HDAC6;Y cn bw sp;Embryos 0-12 hr;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HDAC6	Embryos 0-12 hr	White, K.	2565
+HDAC6;Y cn bw sp;Embryos 0-12 hr;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HDAC6	Embryos 0-12 hr	White, K.	2566
+HDAC6;Y cn bw sp;Embryos 0-12 hr;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	HDAC6	Embryos 0-12 hr	White, K.	2631
+HDAC6;Y cn bw sp;Embryos 0-12 hr;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	HDAC6	Embryos 0-12 hr	White, K.	2632
+HP1;Embryos 16-24 hr;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP1	Embryos 16-24 hr	White, K.	3187
+HP1;Embryos 16-24 hr;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP1	Embryos 16-24 hr	White, K.	3188
+HP1;Embryos 16-24 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	HP1	Embryos 16-24 hr	White, K.	3391
+HP1;Embryos 16-24 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	HP1	Embryos 16-24 hr	White, K.	3392
+HP1;Embryos 8-16 hr;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	HP1	Embryos 8-16 hr	White, K.	4091
+HP1a;Ago2 414;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP1a	Larvae 3rd instar	Karpen, G.	5263
+HP1a;CG8409-RNAi;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP1a	Late Embryonic stage	Karpen, G.	3893
+HP1a;CME-W1-Cl.8+;Larvae 3rd instar;Dorsal mesothoracic disc;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP1a	Larvae 3rd instar	Karpen, G.	2667
+HP1a;EGG mutant;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP1a	Larvae 3rd instar	Karpen, G.	3702
+HP1a;Fly-GFP-RNAi;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP1a	Late Embryonic stage	Karpen, G.	3707
+HP1a;G9a mutant ;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP1a	Larvae 3rd instar	Karpen, G.	5572
+HP1a;HP1a mutant;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP1a	Larvae 3rd instar	Karpen, G.	4203
+HP1a;HP1b mutant;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP1a	Larvae 3rd instar	Karpen, G.	5607
+HP1a;HP1c mutant;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP1a	Larvae 3rd instar	Karpen, G.	6075
+HP1a;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP1a	Larvae 3rd instar	Karpen, G.	2666
+HP1a;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP1a	Larvae 3rd instar	Karpen, G.	4126
+HP1a;mt2 mutant;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP1a	Larvae 3rd instar	Karpen, G.	3703
+HP1a;Oregon-R;Embryos 14-16 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP1a	Embryos 14-16 hr OR	Karpen, G.	3024
+HP1a;Oregon-R;Embryos 14-16 hr OR;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	HP1a	Embryos 14-16 hr OR	Karpen, G.	3956
+HP1a;Oregon-R;Embryos 2-4 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP1a	Embryos 2-4 hr OR	Karpen, G.	2665
+HP1a;Oregon-R;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP1a	Larvae 3rd instar	Karpen, G.	955
+HP1a;Oregon-R;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP1a	Larvae 3rd instar	Karpen, G.	3704
+HP1a;Oregon-R;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP1a	Larvae 3rd instar	Karpen, G.	3705
+HP1a;Oregon-R;Larvae 3rd instar;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	HP1a	Larvae 3rd instar	Karpen, G.	4936
+HP1a;Oregon-R;Tissue:Heads-OR:GK:1;Mixed Adult;Heads OR;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP1a	Mixed Adult	Karpen, G.	957
+HP1a;Oregon-R;Tissue:Heads-OR:GK:1;Mixed Adult;Heads OR;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	HP1a	Mixed Adult	Karpen, G.	5592
+HP1a;Oregon-R;Tissue:Ovary:GK:1;Adult Female;Ovary;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP1a	Adult Female	Karpen, G.	3947
+HP1a;PIWI2 mutant;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP1a	Larvae 3rd instar	Karpen, G.	5061
+HP1a;POF mutant;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP1a	Larvae 3rd instar	Karpen, G.	3780
+HP1a;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone ModificationandNon TF Chromatin binding factor	HP1a	Late Embryonic stage	Karpen, G.	323
+HP1a;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone ModificationandNon TF Chromatin binding factor	HP1a	Late Embryonic stage	Karpen, G.	2668
+HP1a;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone ModificationandNon TF Chromatin binding factor	HP1a	Late Embryonic stage	Karpen, G.	3700
+HP1a;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone ModificationandNon TF Chromatin binding factor	HP1a	Late Embryonic stage	Karpen, G.	3777
+HP1a;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone ModificationandNon TF Chromatin binding factor	HP1a	Late Embryonic stage	Karpen, G.	6074
+HP1a;Su(var) 3-9 06 17 mutant;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP1a	Larvae 3rd instar	Karpen, G.	3892
+HP1a;Su(var)3-9 mutant;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP1a	Larvae 3rd instar	Karpen, G.	3706
+HP1b;CME-W1-Cl.8+;Larvae 3rd instar;Dorsal mesothoracic disc;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP1b	Larvae 3rd instar	Karpen, G.	3017
+HP1b;HP1b mutant;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP1b	Larvae 3rd instar	Karpen, G.	5573
+HP1b;HP1b mutant;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP1b	Larvae 3rd instar	Karpen, G.	5604
+HP1b;HP1c mutant;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP1b	Larvae 3rd instar	Karpen, G.	4184
+HP1b;Kc167;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP1b	Late Embryonic stage	Karpen, G.	3019
+HP1b;Kc167;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP1b	Late Embryonic stage	Karpen, G.	4127
+HP1b;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP1b	Larvae 3rd instar	Karpen, G.	3016
+HP1b;Oregon-R;Embryos 14-16 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP1b	Embryos 14-16 hr OR	Karpen, G.	3015
+HP1b;Oregon-R;Embryos 14-16 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP1b	Embryos 14-16 hr OR	Karpen, G.	3290
+HP1b;Oregon-R;Embryos 14-16 hr OR;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	HP1b	Embryos 14-16 hr OR	Karpen, G.	5111
+HP1b;Oregon-R;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	HP1b	Larvae 3rd instar	Karpen, G.	3018
+HP1b;Oregon-R;Larvae 3rd instar;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	HP1b	Larvae 3rd instar	Karpen, G.	5110
+HP1b;Oregon-R;Tissue:Heads-OR:GK:1;Mixed Adult;Heads OR;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP1b	Mixed Adult	Karpen, G.	3778
+HP1b;Oregon-R;Tissue:Heads-OR:GK:1;Mixed Adult;Heads OR;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	HP1b	Mixed Adult	Karpen, G.	5590
+HP1b;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP1b	Late Embryonic stage	Karpen, G.	941
+HP1b;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP1b	Late Embryonic stage	Karpen, G.	3020
+HP1c;CME-W1-Cl.8+;Larvae 3rd instar;Dorsal mesothoracic disc;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP1c	Larvae 3rd instar	Karpen, G.	2669
+HP1c;HP1a mutant;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP1c	Larvae 3rd instar	Karpen, G.	3701
+HP1c;Kc167;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP1c	Late Embryonic stage	Karpen, G.	2670
+HP1c;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP1c	Larvae 3rd instar	Karpen, G.	942
+HP1c;Oregon-R;Embryos 14-16 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP1c	Embryos 14-16 hr OR	Karpen, G.	3021
+HP1c;Oregon-R;Embryos 14-16 hr OR;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	HP1c	Embryos 14-16 hr OR	Karpen, G.	5587
+HP1c;Oregon-R;Embryos 2-4 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP1c	Embryos 2-4 hr OR	Karpen, G.	3022
+HP1c;Oregon-R;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	HP1c	Larvae 3rd instar	Karpen, G.	3023
+HP1c;Oregon-R;Larvae 3rd instar;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	HP1c	Larvae 3rd instar	Karpen, G.	5112
+HP1c;Oregon-R;Tissue:Heads-OR:GK:1;Mixed Adult;Heads OR;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP1c	Mixed Adult	Karpen, G.	3779
+HP1c;Oregon-R;Tissue:Heads-OR:GK:1;Mixed Adult;Heads OR;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	HP1c	Mixed Adult	Karpen, G.	5591
+HP1c;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP1c	Late Embryonic stage	Karpen, G.	943
+HP1c;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP1c	Late Embryonic stage	Karpen, G.	3291
+HP2;CME-W1-Cl.8+;Larvae 3rd instar;Dorsal mesothoracic disc;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP2	Larvae 3rd instar	Karpen, G.	3027
+HP2;Kc167;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP2	Late Embryonic stage	Karpen, G.	3029
+HP2;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP2	Larvae 3rd instar	Karpen, G.	3026
+HP2;Oregon-R;Embryos 14-16 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP2	Embryos 14-16 hr OR	Karpen, G.	3025
+HP2;Oregon-R;Embryos 14-16 hr OR;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	HP2	Embryos 14-16 hr OR	Karpen, G.	5264
+HP2;Oregon-R;Embryos 2-4 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	HP2	Embryos 2-4 hr OR	Karpen, G.	3944
+HP2;Oregon-R;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	HP2	Larvae 3rd instar	Karpen, G.	3028
+HP2;Oregon-R;Larvae 3rd instar;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	HP2	Larvae 3rd instar	Karpen, G.	5113
+HP2;Oregon-R;Tissue:Heads-OR:GK:1;Mixed Adult;Heads OR;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP2	Mixed Adult	Karpen, G.	3781
+HP2;Oregon-R;Tissue:Heads-OR:GK:1;Mixed Adult;Heads OR;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	HP2	Mixed Adult	Karpen, G.	5593
+HP2;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP2	Late Embryonic stage	Karpen, G.	944
+HP4;CG8044-RNAi;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;integrated-gene-model	D. melanogaster	integrated-gene-model	Non TF Chromatin binding factor	HP4	Late Embryonic stage	Karpen, G.	5600
+HP4;Kc167;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP4	Late Embryonic stage	Karpen, G.	4186
+HP4;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP4	Larvae 3rd instar	Karpen, G.	4185
+HP4;Oregon-R;Embryos 14-16 hr OR;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	HP4	Embryos 14-16 hr OR	Karpen, G.	4944
+HP4;Oregon-R;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP4	Larvae 3rd instar	Karpen, G.	3782
+HP4;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	HP4	Late Embryonic stage	Karpen, G.	3948
+Hr39;Embryos 16-24 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	Hr39	Embryos 16-24 hr	White, K.	3390
+Hr46;Hr46-GFP;Embryos 0-8 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	Hr46	Embryos 0-8 hr	White, K.	5023
+Hr78;Hr78-GFP;Embryos 8-16 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	Hr78	Embryos 8-16 hr	White, K.	4998
+hth;Embryos 0-8 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	hth	Embryos 0-8 hr	White, K.	4070
+Huckebein;Embryos 0-8 hr;ChIP-chip	D. melanogaster	ChIP-chip	Transcriptional Factor	Huckebein	Embryos 0-8 hr	White, K.	2575
+Huckebein;Embryos 8-16 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	Huckebein	Embryos 8-16 hr	White, K.	3242
+Invected;Embryos 0-12 hr;Embryo;ChIP-chip	D. melanogaster	ChIP-chip	Transcriptional Factor	Invected	Embryos 0-12 hr	White, K.	605
+Invected;INV-GFP;Embryos 0-12 hr;ChIP-chip	D. melanogaster	ChIP-chip	Transcriptional Factor	Invected	Embryos 0-12 hr	White, K.	619
+ISWI;Kc167;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	ISWI	Late Embryonic stage	Karpen, G.	3031
+ISWI;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	ISWI	Larvae 3rd instar	Karpen, G.	3030
+ISWI;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	ISWI	Late Embryonic stage	Karpen, G.	3032
+ISWI;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	ISWI	Late Embryonic stage	Karpen, G.	5062
+JHDM1;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	JHDM1	Larvae 3rd instar	Karpen, G.	5145
+JHDM1;Oregon-R;Embryos 14-16 hr OR;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	JHDM1	Embryos 14-16 hr OR	Karpen, G.	5114
+JHDM1;Oregon-R;Tissue:Heads-OR:GK:1;Mixed Adult;Heads OR;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	JHDM1	Mixed Adult	Karpen, G.	5575
+JHDM1;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	JHDM1	Late Embryonic stage	Karpen, G.	3708
+JHDM1;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	JHDM1	Late Embryonic stage	Karpen, G.	4714
+JIL-1;CME-W1-Cl.8+;Larvae 3rd instar;Dorsal mesothoracic disc;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	JIL-1	Larvae 3rd instar	Karpen, G.	3036
+JIL-1;Kc167;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	JIL-1	Late Embryonic stage	Karpen, G.	3037
+JIL-1;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	JIL-1	Larvae 3rd instar	Karpen, G.	3035
+JIL-1;Oregon-R;Embryos 14-16 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	JIL-1	Embryos 14-16 hr OR	Karpen, G.	3034
+JIL-1;Oregon-R;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	JIL-1	Larvae 3rd instar	Karpen, G.	3292
+JIL-1;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	JIL-1	Late Embryonic stage	Karpen, G.	945
+JIL-1;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	JIL-1	Late Embryonic stage	Karpen, G.	3038
+JMJD2A/KDM4A;Oregon-R;Larvae 3rd instar;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	JMJD2A/KDM4A	Larvae 3rd instar	Karpen, G.	5115
+JMJD2A/KDM4A;Oregon-R;Tissue:Heads-OR:GK:1;Mixed Adult;Heads OR;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	JMJD2A/KDM4A	Mixed Adult	Karpen, G.	5594
+JMJD2A/KDM4A;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	JMJD2A/KDM4A	Late Embryonic stage	Karpen, G.	3783
+JMJD2A/KDM4A;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	JMJD2A/KDM4A	Late Embryonic stage	Karpen, G.	3784
+Jumeau;Embryos 0-8 hr;ChIP-chip	D. melanogaster	ChIP-chip	Transcriptional Factor	Jumeau	Embryos 0-8 hr	White, K.	2576
+KNI;Embryos 8-16 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	KNI	Embryos 8-16 hr	White, K.	3243
+KNOT;Embryos 0-12 hr;Embryo;ChIP-chip	D. melanogaster	ChIP-chip	Transcriptional Factor	KNOT	Embryos 0-12 hr	White, K.	618
+Kruppel;Embryos 16-24 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	Kruppel	Embryos 16-24 hr	White, K.	3394
+Kruppel;FlyStrain;Embryos 0-4 hr;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	Kruppel	Embryos 0-4 hr	White, K.	3812
+Kruppel;Y cn bw sp;Embryos 0-8 hr;ChIP-chip	D. melanogaster	ChIP-chip	Transcriptional Factor	Kruppel	Embryos 0-8 hr	White, K.	898
+lola;lola-RJ-GFP;Embryos 0-12 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	lola	Embryos 0-12 hr	White, K.	5004
+lola;lola-RJ-GFP;Embryos 12-24 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	lola	Embryos 12-24 hr	White, K.	5005
+LSD1;Oregon-R;Embryos 14-16 hr OR;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	LSD1	Embryos 14-16 hr OR	Karpen, G.	5116
+LSD1;Oregon-R;Larvae 3rd instar;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	LSD1	Larvae 3rd instar	Karpen, G.	5597
+LSD1;Oregon-R;Tissue:Heads-OR:GK:1;Mixed Adult;Heads OR;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	LSD1	Mixed Adult	Karpen, G.	5574
+LSD1;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	LSD1	Late Embryonic stage	Karpen, G.	3785
+LSD1;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	LSD1	Late Embryonic stage	Karpen, G.	3786
+LSD1;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	LSD1	Late Embryonic stage	Karpen, G.	3949
+MBD-R2;Oregon-R;Embryos 14-16 hr OR;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	MBD-R2	Embryos 14-16 hr OR	Karpen, G.	5117
+MBD-R2;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	MBD-R2	Late Embryonic stage	Karpen, G.	946
+MBD-R2;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	MBD-R2	Late Embryonic stage	Karpen, G.	3039
+MBD-R2;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	MBD-R2	Late Embryonic stage	Karpen, G.	3787
+MCM2-7;36 base pair;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-seq	D. melanogaster	ChIP-seq	DNA Replication	MCM2-7	Late Embryonic stage	MacAlpine, D.	2979
+MCM2-7;Kc167;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	DNA Replication	MCM2-7	Late Embryonic stage	MacAlpine, D.	675
+MCM2-7;Kc167;Late Embryonic stage;Embryo-derived cell-line;ChIP-seq	D. melanogaster	ChIP-seq	DNA Replication	MCM2-7	Late Embryonic stage	MacAlpine, D.	2783
+MLE;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	MLE	Late Embryonic stage	Karpen, G.	3040
+MLE;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	MLE	Late Embryonic stage	Karpen, G.	3788
+mod(mdg4);Embryos 0-12 hr;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	mod(mdg4)	Embryos 0-12 hr	White, K.	24
+mod(mdg4);Embryos 8-16 hr;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	mod(mdg4)	Embryos 8-16 hr	White, K.	2602
+mod(mdg4);Larvae L3 stage;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	mod(mdg4)	Larvae L3 stage	White, K.	4094
+mod(mdg4);ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	mod(mdg4)	Larvae 3rd instar	Karpen, G.	324
+mod(mdg4);S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	mod(mdg4)	Late Embryonic stage	Karpen, G.	2674
+mod(mdg4);S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	mod(mdg4)	Late Embryonic stage	Karpen, G.	3789
+MOF;CME-W1-Cl.8+;Larvae 3rd instar;Dorsal mesothoracic disc;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	MOF	Larvae 3rd instar	Karpen, G.	3042
+MOF;Kc167;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	MOF	Late Embryonic stage	Karpen, G.	3043
+MOF;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	MOF	Larvae 3rd instar	Karpen, G.	3041
+MOF;Oregon-R;Embryos 14-16 hr OR;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	MOF	Embryos 14-16 hr OR	Karpen, G.	5118
+MOF;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	MOF	Late Embryonic stage	Karpen, G.	3044
+MRG15;Kc167;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	MRG15	Late Embryonic stage	Karpen, G.	3046
+MRG15;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	MRG15	Larvae 3rd instar	Karpen, G.	3045
+MRG15;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	MRG15	Late Embryonic stage	Karpen, G.	3047
+MRG15;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	MRG15	Late Embryonic stage	Karpen, G.	3950
+MSL-1;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	MSL-1	Late Embryonic stage	Karpen, G.	3293
+nejire;103.1;Y cn bw sp;Embryos 0-4 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	nejire	Embryos 0-4 hr	White, K.	854
+nejire;36.2;Y cn bw sp;Embryos 20-24 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	nejire	Embryos 20-24 hr	White, K.	858
+nejire;Adult Female;ChIP-chip	D. melanogaster	ChIP-chip	Transcriptional Factor	nejire	Adult Female	White, K.	881
+nejire;Adult Male;ChIP-chip	D. melanogaster	ChIP-chip	Transcriptional Factor	nejire	Adult Male	White, K.	882
+nejire;Embryos 0-4 hr;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	nejire	Embryos 0-4 hr	White, K.	875
+nejire;Embryos 0-4 hr;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	nejire	Embryos 0-4 hr	White, K.	900
+nejire;Embryos 0-4 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	nejire	Embryos 0-4 hr	White, K.	3233
+nejire;Embryos 16-20 hr;ChIP-chip	D. melanogaster	ChIP-chip	Transcriptional Factor	nejire	Embryos 16-20 hr	White, K.	877
+nejire;Embryos 20-24 hr;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	nejire	Embryos 20-24 hr	White, K.	643
+nejire;Embryos 4-8 hr;ChIP-chip	D. melanogaster	ChIP-chip	Transcriptional Factor	nejire	Embryos 4-8 hr	White, K.	876
+nejire;Larvae L1 stage;ChIP-chip	D. melanogaster	ChIP-chip	Transcriptional Factor	nejire	Larvae L1 stage	White, K.	878
+nejire;Larvae L3 stage;ChIP-chip	D. melanogaster	ChIP-chip	Transcriptional Factor	nejire	Larvae L3 stage	White, K.	879
+nejire;Pupae;ChIP-chip	D. melanogaster	ChIP-chip	Transcriptional Factor	nejire	Pupae	White, K.	880
+nejire;Y cn bw sp;Adult Female;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	nejire	Adult Female	White, K.	862
+nejire;Y cn bw sp;Adult Male;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	nejire	Adult Male	White, K.	863
+nejire;Y cn bw sp;Embryos 12-16 hr;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	nejire	Embryos 12-16 hr	White, K.	905
+nejire;Y cn bw sp;Embryos 12-16 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	nejire	Embryos 12-16 hr	White, K.	856
+nejire;Y cn bw sp;Embryos 16-20 hr;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factorandTranscriptional Factor	nejire	Embryos 16-20 hr	White, K.	849
+nejire;Y cn bw sp;Embryos 16-20 hr;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factorandTranscriptional Factor	nejire	Embryos 16-20 hr	White, K.	857
+nejire;Y cn bw sp;Embryos 4-8 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	nejire	Embryos 4-8 hr	White, K.	855
+nejire;Y cn bw sp;Embryos 8-12 hr;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	nejire	Embryos 8-12 hr	White, K.	903
+nejire;Y cn bw sp;Embryos 8-12 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	nejire	Embryos 8-12 hr	White, K.	985
+nejire;Y cn bw sp;Larvae L1 stage;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	nejire	Larvae L1 stage	White, K.	859
+nejire;Y cn bw sp;Larvae L3 stage;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	nejire	Larvae L3 stage	White, K.	860
+nejire;Y cn bw sp;Pupae;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	nejire	Pupae	White, K.	861
+Nucleosome;Salt 150 mM;1-2 hours;soluble fraction;B3;Embryonic stage 3 hr;DNA-tiling-array	D. melanogaster	DNA-tiling-array	Chromatin Structure	Nucleosome	Embryonic stage 3 hrSalt 150 mM	Henikoff, S.	2507
+Nucleosome;Salt 150 mM;1-2 hours;soluble fraction;B3;Extended germ band stage;DNA-tiling-array	D. melanogaster	DNA-tiling-array	Chromatin Structure	Nucleosome	Extended germ band stageSalt 150 mM	Henikoff, S.	2510
+Nucleosome;Salt 150 mM;1-2 hours;soluble fraction;ML-DmD16-c3;Larvae 3rd instar;Dorsal mesothoracic disc;DNA-tiling-array	D. melanogaster	DNA-tiling-array	Chromatin Structure	Nucleosome	Larvae 3rd instarSalt 150 mM	Henikoff, S.	2514
+Nucleosome;Salt 150-600 mM;1 – 2 hours;soluble fraction;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;DNA-tiling-array	D. melanogaster	DNA-tiling-array	Chromatin Structure	Nucleosome	Late Embryonic stageSalt 150-600 mM	Henikoff, S.	2527
+Nucleosome;Salt 600 mM;1 to 2 hours;precipitate;Kc167;Late Embryonic stage;Embryo-derived cell-line;DNA-tiling-array	D. melanogaster	DNA-tiling-array	Chromatin Structure	Nucleosome	Late Embryonic stageSalt 600 mM	Henikoff, S.	2757
+Nucleosome;Salt 600 mM;1 to 2 hours;precipitate;Kc167;Late Embryonic stage;Embryo-derived cell-line;DNA-tiling-array	D. melanogaster	DNA-tiling-array	Chromatin Structure	Nucleosome	Late Embryonic stageSalt 600 mM	Henikoff, S.	2760
+Nucleosome;Salt 600 mM;1 to 2 hours;soluble fraction;Kc167;Late Embryonic stage;Embryo-derived cell-line;DNA-tiling-array	D. melanogaster	DNA-tiling-array	Chromatin Structure	Nucleosome	Late Embryonic stageSalt 600 mM	Henikoff, S.	2756
+Nucleosome;Salt 600 mM;1 to 2 hours;soluble fraction;Kc167;Late Embryonic stage;Embryo-derived cell-line;DNA-tiling-array	D. melanogaster	DNA-tiling-array	Chromatin Structure	Nucleosome	Late Embryonic stageSalt 600 mM	Henikoff, S.	2759
+Nucleosome;Salt 600 mM;1-2 hours;precipitate;B3;Embryonic stage 3 hr;DNA-tiling-array	D. melanogaster	DNA-tiling-array	Chromatin Structure	Nucleosome	Embryonic stage 3 hrSalt 600 mM	Henikoff, S.	2509
+Nucleosome;Salt 600 mM;1-2 hours;precipitate;B3;Extended germ band stage;DNA-tiling-array	D. melanogaster	DNA-tiling-array	Chromatin Structure	Nucleosome	Extended germ band stageSalt 600 mM	Henikoff, S.	2512
+Nucleosome;Salt 600 mM;1-2 hours;precipitate;ML-DmD16-c3;Larvae 3rd instar;Dorsal mesothoracic disc;DNA-tiling-array	D. melanogaster	DNA-tiling-array	Chromatin Structure	Nucleosome	Larvae 3rd instarSalt 600 mM	Henikoff, S.	2516
+Nucleosome;Salt 600 mM;1-2 hours;soluble fraction;B3;Embryonic stage 3 hr;DNA-tiling-array	D. melanogaster	DNA-tiling-array	Chromatin Structure	Nucleosome	Embryonic stage 3 hrSalt 600 mM	Henikoff, S.	2508
+Nucleosome;Salt 600 mM;1-2 hours;soluble fraction;B3;Extended germ band stage;DNA-tiling-array	D. melanogaster	DNA-tiling-array	Chromatin Structure	Nucleosome	Extended germ band stageSalt 600 mM	Henikoff, S.	2511
+Nucleosome;Salt 600 mM;1-2 hours;soluble fraction;ML-DmD16-c3;Larvae 3rd instar;Dorsal mesothoracic disc;DNA-tiling-array	D. melanogaster	DNA-tiling-array	Chromatin Structure	Nucleosome	Larvae 3rd instarSalt 600 mM	Henikoff, S.	2515
+Nucleosome;Salt 80 mM;1 – 2 hours;soluble fraction;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;DNA-tiling-array	D. melanogaster	DNA-tiling-array	Chromatin Structure	Nucleosome	Late Embryonic stageSalt 80 mM	Henikoff, S.	2517
+Nucleosome;Salt 80 mM;1-2 hours;soluble fraction;ML-DmD16-c3;Larvae 3rd instar;Dorsal mesothoracic disc;DNA-tiling-array	D. melanogaster	DNA-tiling-array	Chromatin Structure	Nucleosome	Larvae 3rd instarSalt 80 mM	Henikoff, S.	2513
+Nucleosome;Salt 80-150 mM;3 hours;soluble fraction;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;DNA-tiling-array	D. melanogaster	DNA-tiling-array	Chromatin Structure	Nucleosome	Late Embryonic stageSalt 80-150 mM	Henikoff, S.	2522
+NURF301;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	NURF301	Larvae 3rd instar	Karpen, G.	5063
+NURF301;Oregon-R;Embryos 14-16 hr OR;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	NURF301	Embryos 14-16 hr OR	Karpen, G.	5119
+NURF301;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	NURF301	Late Embryonic stage	Karpen, G.	947
+NURF301;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	NURF301	Late Embryonic stage	Karpen, G.	3048
+NURF301;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	NURF301	Late Embryonic stage	Karpen, G.	3790
+ORC2;36 base pair;CME-W1-Cl.8+;Larvae 3rd instar;Dorsal mesothoracic disc;ChIP-seq	D. melanogaster	ChIP-seq	DNA Replication	ORC2	Larvae 3rd instar	MacAlpine, D.	4351
+ORC2;36 base pair;DevStage:Mixed Embryos 0-24h:SC:1;Embryos mixed stages 0-24 hr;ChIP-seq	D. melanogaster	ChIP-seq	DNA Replication	ORC2	Embryos mixed stages 0-24 hr	MacAlpine, D.	3247
+ORC2;36 base pair;DevStageFly:Embryo 0-2h:SC:1;Embryos 0-2 hr;ChIP-seq	D. melanogaster	ChIP-seq	DNA Replication	ORC2	Embryos 0-2 hr	MacAlpine, D.	3628
+ORC2;36 base pair;Oregon-R;Embryos 4-7 hr;ChIP-seq	D. melanogaster	ChIP-seq	DNA Replication	ORC2	Embryos 4-7 hr	MacAlpine, D.	4192
+ORC2;FlyStrain:SuUR---Orr-Weaver:DM:1;SuUR - Orr-Weaver;L3 stage wandering stage larvae;36 base pair;Salivary glands;ChIP-seq	D. melanogaster	ChIP-seq	DNA Replication	ORC2	L3 stage wandering stage larvae	MacAlpine, D.	3253
+ORC2;Kc167;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	DNA Replication	ORC2	Late Embryonic stage	MacAlpine, D.	674
+ORC2;Kc167;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	DNA Replication	ORC2	Late Embryonic stage	MacAlpine, D.	3441
+ORC2;Kc167;Late Embryonic stage;Embryo-derived cell-line;ChIP-seq	D. melanogaster	ChIP-seq	DNA Replication	ORC2	Late Embryonic stage	MacAlpine, D.	2755
+ORC2;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-seq	D. melanogaster	ChIP-seq	DNA Replication	ORC2	Larvae 3rd instar	MacAlpine, D.	2754
+ORC2;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	DNA Replication	ORC2	Late Embryonic stage	MacAlpine, D.	3388
+ORC2;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-seq	D. melanogaster	ChIP-seq	DNA Replication	ORC2	Late Embryonic stage	MacAlpine, D.	2753
+pangolin;Embryos 0-8 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	pangolin	Embryos 0-8 hr	White, K.	4074
+pangolin;Embryos 16-24 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	pangolin	Embryos 16-24 hr	White, K.	4107
+Pc;HP1b mutant;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	Pc	Larvae 3rd instar	Karpen, G.	5603
+Pc;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	Pc	Larvae 3rd instar	Karpen, G.	325
+Pc;Oregon-R;Embryos 14-16 hr OR;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	Pc	Embryos 14-16 hr OR	Karpen, G.	3957
+Pc;Oregon-R;Embryos 2-4 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	Pc	Embryos 2-4 hr OR	Karpen, G.	5064
+Pc;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	Pc	Late Embryonic stage	Karpen, G.	326
+Pc;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	Pc	Late Embryonic stage	Karpen, G.	3791
+PCL;Embryos 0-8 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	PCL	Embryos 0-8 hr	White, K.	3237
+PCL;FlyStrain;Embryos 0-4 hr;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	PCL	Embryos 0-4 hr	White, K.	3813
+PCL;FlyStrain;Larvae L3 stage;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	PCL	Larvae L3 stage	White, K.	3816
+PCL;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	PCL	Larvae 3rd instar	Karpen, G.	948
+PCL;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	PCL	Late Embryonic stage	Karpen, G.	3049
+PCL;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	PCL	Late Embryonic stage	Karpen, G.	3792
+Pho;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	Pho	Late Embryonic stage	Karpen, G.	3894
+PIWI;CME-W1-Cl.8+;Larvae 3rd instar;Dorsal mesothoracic disc;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	PIWI	Larvae 3rd instar	Karpen, G.	3050
+PIWI;Kc167;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	PIWI	Late Embryonic stage	Karpen, G.	949
+PIWI;Oregon-R;Larvae 3rd instar Sexed Female;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	PIWI	Larvae 3rd instar Sexed Female	Karpen, G.	4199
+PIWI;Oregon-R;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	PIWI	Larvae 3rd instar	Karpen, G.	3051
+PIWI;PIWI2 mutant;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	PIWI	Larvae 3rd instar	Karpen, G.	3951
+POF;EGG mutant;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	POF	Larvae 3rd instar	Karpen, G.	3793
+POF;HP1a mutant;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	POF	Larvae 3rd instar	Karpen, G.	3896
+POF;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	POF	Larvae 3rd instar	Karpen, G.	3052
+POF;Oregon-R;Embryos 14-16 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	POF	Embryos 14-16 hr OR	Karpen, G.	3895
+POF;Oregon-R;Embryos 14-16 hr OR;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	POF	Embryos 14-16 hr OR	Karpen, G.	5120
+POF;Oregon-R;Embryos 2-4 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	POF	Embryos 2-4 hr OR	Karpen, G.	3952
+POF;Oregon-R;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Histone ModificationandNon TF Chromatin binding factor	POF	Larvae 3rd instar	Karpen, G.	3053
+POF;Oregon-R;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Histone ModificationandNon TF Chromatin binding factor	POF	Larvae 3rd instar	Karpen, G.	3709
+POF;Oregon-R;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Histone ModificationandNon TF Chromatin binding factor	POF	Larvae 3rd instar	Karpen, G.	3795
+POF;Oregon-R;Larvae 3rd instar;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	POF	Larvae 3rd instar	Karpen, G.	5121
+POF;Oregon-R;Tissue:Heads-OR:GK:1;Mixed Adult;Heads OR;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	POF	Mixed Adult	Karpen, G.	3796
+POF;Oregon-R;Tissue:Heads-OR:GK:1;Mixed Adult;Heads OR;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	POF	Mixed Adult	Karpen, G.	5598
+POF;POF mutant;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	POF	Larvae 3rd instar	Karpen, G.	3794
+POF;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	POF	Late Embryonic stage	Karpen, G.	3294
+POF;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	POF	Late Embryonic stage	Karpen, G.	3710
+POF;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	POF	Late Embryonic stage	Karpen, G.	3897
+PR-Set7;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	PR-Set7	Larvae 3rd instar	Karpen, G.	5065
+PR-Set7;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	PR-Set7	Late Embryonic stage	Karpen, G.	3054
+prd;Embryos 0-12 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	prd	Embryos 0-12 hr	White, K.	4095
+prd;Embryos 0-12 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	prd	Embryos 0-12 hr	White, K.	4096
+Psc;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	Psc	Larvae 3rd instar	Karpen, G.	3055
+Psc;Oregon-R;Embryos 14-16 hr OR;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	Psc	Embryos 14-16 hr OR	Karpen, G.	3960
+Psc;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	Psc	Late Embryonic stage	Karpen, G.	3056
+Psc;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	Psc	Late Embryonic stage	Karpen, G.	3797
+psq;D.pseudoobscura wild-type;Embryos 0-4 hr;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	psq	Embryos 0-4 hr	White, K.	3808
+psq;White prepupae (WPP);ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	psq	White prepupae (WPP)	White, K.	4098
+Replication-Copy-Number;CME-W1-Cl.8+;Larvae 3rd instar;Dorsal mesothoracic disc;CNV-seq	D. melanogaster	CNV-seq	Copy Number Variation	Replication-Copy-Number	Larvae 3rd instar	MacAlpine, D.	3201
+Replication-Copy-Number;CME-W1-Cl.8+;Larvae 3rd instar;Dorsal mesothoracic disc;CNV-seq	D. melanogaster	CNV-seq	Copy Number Variation	Replication-Copy-Number	Larvae 3rd instar	MacAlpine, D.	5525
+Replication-Copy-Number;Embryos 0-4 hr;Larval salivary gland;CGH	D. melanogaster	CGH	Copy Number Variation	Replication-Copy-Number	Embryos 0-4 hr	MacAlpine, D.	2544
+Replication-Copy-Number;Kc167;Late Embryonic stage;Embryo-derived cell-line;CNV-seq	D. melanogaster	CNV-seq	Copy Number Variation	Replication-Copy-Number	Late Embryonic stage	MacAlpine, D.	2552
+Replication-Copy-Number;Kc167;Late Embryonic stage;Embryo-derived cell-line;CNV-seq	D. melanogaster	CNV-seq	Copy Number Variation	Replication-Copy-Number	Late Embryonic stage	MacAlpine, D.	5523
+Replication-Copy-Number;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;CNV-seq	D. melanogaster	CNV-seq	Copy Number Variation	Replication-Copy-Number	Larvae 3rd instar	MacAlpine, D.	2553
+Replication-Copy-Number;Oregon-R Orr-Weaver;Adult Female, eclosion + 1 days;Oocyte associated follicle cell;CGH	D. melanogaster	CGH	Copy Number Variation	Replication-Copy-Number	Adult Female, eclosion + 1 days	MacAlpine, D.	2385
+Replication-Copy-Number;Oregon-R Orr-Weaver;Embryos 0-4 hr;Larval salivary gland;CGH	D. melanogaster	CGH	Copy Number Variation	Replication-Copy-Number	Embryos 0-4 hr	MacAlpine, D.	2545
+Replication-Copy-Number;Oregon-R;Adult Female, eclosion + 1 days;Oocyte associated follicle cell;CGH	D. melanogaster	CGH	Copy Number Variation	Replication-Copy-Number	Adult Female, eclosion + 1 days	MacAlpine, D.	2384
+Replication-Copy-Number;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;CNV-seq	D. melanogaster	CNV-seq	Copy Number Variation	Replication-Copy-Number	Late Embryonic stage	MacAlpine, D.	2551
+Replication-Copy-Number;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;CNV-seq	D. melanogaster	CNV-seq	Copy Number Variation	Replication-Copy-Number	Late Embryonic stage	MacAlpine, D.	5524
+Replication-Copy-Number;S2-DRSC;w1118;Embryos 0-4 hr;Embryo-derived cell-line;CGH	D. melanogaster	CGH	Copy Number Variation	Replication-Copy-Number	Embryos 0-4 hr	MacAlpine, D.	725
+Replication-Origin;Kc167;Late Embryonic stage;Embryo-derived cell-line;DNA-tiling-array	D. melanogaster	DNA-tiling-array	DNA Replication	Replication-Origin	Late Embryonic stage	MacAlpine, D.	709
+Replication-Origin;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;DNA-tiling-array	D. melanogaster	DNA-tiling-array	DNA Replication	Replication-Origin	Larvae 3rd instar	MacAlpine, D.	711
+Replication-Origin;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;DNA-tiling-array	D. melanogaster	DNA-tiling-array	DNA Replication	Replication-Origin	Late Embryonic stage	MacAlpine, D.	710
+Replication-Origin;Tissue:fat-body:SC:1;Oregon-R;L3 stage wandering stage larvae;Fat body;ChIP-chip	D. melanogaster	ChIP-chip	DNA Replication	Replication-Origin	L3 stage wandering stage larvae	MacAlpine, D.	4717
+Replication-Origin;Tissue:Midgut:DM:1;Oregon-R;L3 stage wandering stage larvae;Midgut;ChIP-chip	D. melanogaster	ChIP-chip	DNA Replication	Replication-Origin	L3 stage wandering stage larvae	MacAlpine, D.	4718
+Replication-Timing;Kc167;Late Embryonic stage;50 base pair;Embryo-derived cell-line;DNA-seq	D. melanogaster	DNA-seq	DNA Replication	Replication-Timing	Late Embryonic stage	MacAlpine, D.	5526
+Replication-Timing;Kc167;Late Embryonic stage;Embryo-derived cell-line;DNA-tiling-array	D. melanogaster	DNA-tiling-array	DNA Replication	Replication-Timing	Late Embryonic stage	MacAlpine, D.	668
+Replication-Timing;Late Embryonic stage;Embryo-derived cell-line;DNA-seq	D. melanogaster	DNA-seq	DNA Replication	Replication-Timing	Late Embryonic stage	MacAlpine, D.	3630
+Replication-Timing;ML-DmBG3-c2;Larvae 3rd instar;50 base pair;CNS-derived cell-line;DNA-seq	D. melanogaster	DNA-seq	DNA Replication	Replication-Timing	Larvae 3rd instar	MacAlpine, D.	5528
+Replication-Timing;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;DNA-tiling-array	D. melanogaster	DNA-tiling-array	DNA Replication	Replication-Timing	Larvae 3rd instar	MacAlpine, D.	670
+Replication-Timing;S2-DRSC;Late Embryonic stage;50 base pair;Embryo-derived cell-line;DNA-seq	D. melanogaster	DNA-seq	DNA Replication	Replication-Timing	Late Embryonic stage	MacAlpine, D.	5527
+Replication-Timing;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;DNA-tiling-array	D. melanogaster	DNA-tiling-array	DNA Replication	Replication-Timing	Late Embryonic stage	MacAlpine, D.	669
+Rhino;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	Rhino	Late Embryonic stage	Karpen, G.	4187
+RNA polymerase II CTD repeat YSPTSPS (phospho S2);CME-W1-Cl.8+;Larvae 3rd instar;Dorsal mesothoracic disc;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	RNA polymerase II CTD repeat YSPTSPS (phospho S2)	Larvae 3rd instar	Karpen, G.	5576
+RNA polymerase II CTD repeat YSPTSPS (phospho S2);Kc167;Late Embryonic stage;Embryo-derived cell-line;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	RNA polymerase II CTD repeat YSPTSPS (phospho S2)	Late Embryonic stage	Karpen, G.	5570
+RNA polymerase II CTD repeat YSPTSPS (phospho S5);CME-W1-Cl.8+;Larvae 3rd instar;Dorsal mesothoracic disc;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	RNA polymerase II CTD repeat YSPTSPS (phospho S5)	Larvae 3rd instar	Karpen, G.	5579
+RNA polymerase II CTD repeat YSPTSPS (phospho S5);Kc167;Late Embryonic stage;Embryo-derived cell-line;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	RNA polymerase II CTD repeat YSPTSPS (phospho S5)	Late Embryonic stage	Karpen, G.	5571
+RNA polymerase II;16.2;Y cn bw sp;Larvae L2 stage;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	RNA polymerase II	Larvae L2 stage	White, K.	984
+RNA polymerase II;19.9;Y cn bw sp;Embryos 20-24 hr;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	RNA polymerase II	Embryos 20-24 hr	White, K.	850
+RNA polymerase II;36 base pair;DevStage:Embryo 4-7h:SC:1;Embryos 4-7 hr;ChIP-seq	D. melanogaster	ChIP-seq	DNA Replication	RNA polymerase II	Embryos 4-7 hr	MacAlpine, D.	4193
+RNA polymerase II;36 base pair;DevStage:Mixed Embryos 0-24h:SC:1;Embryos mixed stages 0-24 hr;ChIP-seq	D. melanogaster	ChIP-seq	DNA Replication	RNA polymerase II	Embryos mixed stages 0-24 hr	MacAlpine, D.	3251
+RNA polymerase II;36 base pair;DevStageFly:Embryo 0-2h:SC:1;Embryos 0-2 hr;ChIP-seq	D. melanogaster	ChIP-seq	DNA Replication	RNA polymerase II	Embryos 0-2 hr	MacAlpine, D.	3625
+RNA polymerase II;44;Y cn bw sp;Embryos 12-16 hr;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	RNA polymerase II	Embryos 12-16 hr	White, K.	848
+RNA polymerase II;Adult Female;ChIP-chip	D. melanogaster	ChIP-chip	Transcriptional Factor	RNA polymerase II	Adult Female	White, K.	891
+RNA polymerase II;CG12196-RNAi;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	RNA polymerase II	Late Embryonic stage	Karpen, G.	3712
+RNA polymerase II;CME-W1-Cl.8+;Larvae 3rd instar;Dorsal mesothoracic disc;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	RNA polymerase II	Larvae 3rd instar	Karpen, G.	327
+RNA polymerase II;CME-W1-Cl.8+;Larvae 3rd instar;Dorsal mesothoracic disc;ChIP-seq	D. melanogaster	ChIP-seq	DNA ReplicationandNon TF Chromatin binding factor	RNA polymerase II	Larvae 3rd instar	MacAlpine, D.andKarpen, G.	4352
+RNA polymerase II;CME-W1-Cl.8+;Larvae 3rd instar;Dorsal mesothoracic disc;ChIP-seq	D. melanogaster	ChIP-seq	DNA ReplicationandNon TF Chromatin binding factor	RNA polymerase II	Larvae 3rd instar	MacAlpine, D.andKarpen, G.	5580
+RNA polymerase II;Embryos 0-12 hr;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	RNA polymerase II	Embryos 0-12 hr	White, K.	899
+RNA polymerase II;Embryos 0-4 hr;ChIP-chip	D. melanogaster	ChIP-chip	Transcriptional Factor	RNA polymerase II	Embryos 0-4 hr	White, K.	885
+RNA polymerase II;Embryos 16-20 hr;ChIP-chip	D. melanogaster	ChIP-chip	Transcriptional Factor	RNA polymerase II	Embryos 16-20 hr	White, K.	888
+RNA polymerase II;Embryos 4-8 hr;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factorandTranscriptional Factor	RNA polymerase II	Embryos 4-8 hr	White, K.	886
+RNA polymerase II;Embryos 4-8 hr;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factorandTranscriptional Factor	RNA polymerase II	Embryos 4-8 hr	White, K.	887
+RNA polymerase II;Fly-GFP-RNAi;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	RNA polymerase II	Late Embryonic stage	Karpen, G.	3713
+RNA polymerase II;G9a mutant ;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	RNA polymerase II	Larvae 3rd instar	Karpen, G.	5614
+RNA polymerase II;HP1a mutant;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	RNA polymerase II	Larvae 3rd instar	Karpen, G.	3798
+RNA polymerase II;HP1b mutant;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	RNA polymerase II	Larvae 3rd instar	Karpen, G.	5616
+RNA polymerase II;HP1c mutant;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	RNA polymerase II	Larvae 3rd instar	Karpen, G.	3711
+RNA polymerase II;Kc167;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	RNA polymerase II	Late Embryonic stage	Karpen, G.	328
+RNA polymerase II;Kc167;Late Embryonic stage;Embryo-derived cell-line;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	RNA polymerase II	Late Embryonic stage	Karpen, G.	5569
+RNA polymerase II;Larvae L2 stage;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	RNA polymerase II	Larvae L2 stage	White, K.	883
+RNA polymerase II;Larvae L3 stage;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factorandTranscriptional Factor	RNA polymerase II	Larvae L3 stage	White, K.	884
+RNA polymerase II;Larvae L3 stage;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factorandTranscriptional Factor	RNA polymerase II	Larvae L3 stage	White, K.	889
+RNA polymerase II;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	RNA polymerase II	Larvae 3rd instar	Karpen, G.	950
+RNA polymerase II;Oregon-R;Embryos 14-16 hr OR;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	RNA polymerase II	Embryos 14-16 hr OR	Karpen, G.	5122
+RNA polymerase II;Oregon-R;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	RNA polymerase II	Larvae 3rd instar	Karpen, G.	3799
+RNA polymerase II;Oregon-R;Larvae 3rd instar;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	RNA polymerase II	Larvae 3rd instar	Karpen, G.	5123
+RNA polymerase II;Oregon-R;Tissue:Heads-OR:GK:1;Mixed Adult;Heads OR;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	RNA polymerase II	Mixed Adult	Karpen, G.	5124
+RNA polymerase II;POF mutant;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	RNA polymerase II	Larvae 3rd instar	Karpen, G.	4204
+RNA polymerase II;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	RNA polymerase II	Late Embryonic stage	Karpen, G.	329
+RNA polymerase II;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	RNA polymerase II	Late Embryonic stage	Karpen, G.	3295
+RNA polymerase II;Y cn bw sp;Embryos 12-16 hr;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	RNA polymerase II	Embryos 12-16 hr	White, K.	906
+RNA polymerase II;Y cn bw sp;Embryos 4-8 hr;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	RNA polymerase II	Embryos 4-8 hr	White, K.	846
+RNA polymerase II;Y cn bw sp;Embryos 8-12 hr;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	RNA polymerase II	Embryos 8-12 hr	White, K.	847
+RNA polymerase II;Y cn bw sp;Larvae L1 stage;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	RNA polymerase II	Larvae L1 stage	White, K.	851
+RNA polymerase II;Y cn bw sp;Larvae L2 stage;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	RNA polymerase II	Larvae L2 stage	White, K.	904
+RNA polymerase II;Y cn bw sp;Larvae L3 stage;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	RNA polymerase II	Larvae L3 stage	White, K.	852
+RNA polymerase II;Y cn bw sp;Pupae;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	RNA polymerase II	Pupae	White, K.	890
+RNA polymerase II;Y cn bw sp;Pupae;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	RNA polymerase II	Pupae	White, K.	853
+RPD3;Kc167;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	RPD3	Late Embryonic stage	Karpen, G.	3296
+RPD3;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	RPD3	Larvae 3rd instar	Karpen, G.	4188
+RPD3;Oregon-R;Embryos 14-16 hr OR;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	RPD3	Embryos 14-16 hr OR	Karpen, G.	5125
+RPD3;Oregon-R;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	RPD3	Larvae 3rd instar	Karpen, G.	4189
+RPD3;Oregon-R;Larvae 3rd instar;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	RPD3	Larvae 3rd instar	Karpen, G.	5126
+RPD3;Oregon-R;Tissue:Heads-OR:GK:1;Mixed Adult;Heads OR;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	RPD3	Mixed Adult	Karpen, G.	5599
+RPD3;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	RPD3	Late Embryonic stage	Karpen, G.	3057
+RUNT;Embryos 0-12 hr;Embryo;ChIP-chip	D. melanogaster	ChIP-chip	Transcriptional Factor	RUNT	Embryos 0-12 hr	White, K.	617
+scute;Embryos 0-12 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	scute	Embryos 0-12 hr	White, K.	4099
+scute;Embryos 0-8 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	scute	Embryos 0-8 hr	White, K.	4071
+senseless;Embryos 4-8 hr;ChIP-chip	D. melanogaster	ChIP-chip	Transcriptional Factor	senseless	Embryos 4-8 hr	White, K.	978
+senseless;Embryos 4-8 hr;ChIP-chip	D. melanogaster	ChIP-chip	Transcriptional Factor	senseless	Embryos 4-8 hr	White, K.	2577
+senseless;SENS-GFP;Embryos 4-8 hr;ChIP-chip	D. melanogaster	ChIP-chip	Transcriptional Factor	senseless	Embryos 4-8 hr	White, K.	979
+Sin3A;Embryos 0-12 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	Sin3A	Embryos 0-12 hr	White, K.	3232
+Smc3;Oregon-R;Larvae 3rd instar;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	Smc3	Larvae 3rd instar	Karpen, G.	5568
+Smc3;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	Smc3	Late Embryonic stage	Karpen, G.	3800
+Smc3;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	Smc3	Late Embryonic stage	Karpen, G.	4128
+SNR1;Y cn bw sp;Pupae;ChIP-chip	D. melanogaster	ChIP-chip	Transcriptional Factor	SNR1	Pupae	White, K.	601
+SPT16;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	SPT16	Late Embryonic stage	Karpen, G.	3058
+SPT16;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	SPT16	Late Embryonic stage	Karpen, G.	5146
+Stat92E;Embryos 0-12 hr;Embryo;ChIP-chip	D. melanogaster	ChIP-chip	Transcriptional Factor	Stat92E	Embryos 0-12 hr	White, K.	616
+Stat92E;Stat92E-GFP;Embryos 12-24 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	Stat92E	Embryos 12-24 hr	White, K.	5014
+Stat92E;White prepupae (WPP);ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	Stat92E	White prepupae (WPP)	White, K.	4103
+Su(H);Embryos 0-8 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	Su(H)	Embryos 0-8 hr	White, K.	5017
+Su(H);Embryos 16-24 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	Su(H)	Embryos 16-24 hr	White, K.	4069
+Su(Hw);CG32491-RNAi;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	Su(Hw)	Larvae 3rd instar	Karpen, G.	3717
+Su(Hw);CG6384-RNAi;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	Su(Hw)	Larvae 3rd instar	Karpen, G.	3714
+Su(Hw);CG8573-RNAi;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	Su(Hw)	Larvae 3rd instar	Karpen, G.	3718
+Su(Hw);CG8573-RNAi;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;integrated-gene-model	D. melanogaster	integrated-gene-model	Non TF Chromatin binding factor	Su(Hw)	Late Embryonic stage	Karpen, G.	5147
+Su(Hw);CG8591-RNAi;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	Su(Hw)	Larvae 3rd instar	Karpen, G.	3715
+Su(Hw);Embryos 0-12 hr;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	Su(Hw)	Embryos 0-12 hr	White, K.	27
+Su(Hw);Embryos 0-12 hr;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	Su(Hw)	Embryos 0-12 hr	White, K.	901
+Su(Hw);Embryos 16-24 hr;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	Su(Hw)	Embryos 16-24 hr	White, K.	4104
+Su(Hw);Fly-LacZ-RNAi;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	Su(Hw)	Larvae 3rd instar	Karpen, G.	3716
+Su(Hw);Fly-LacZ-RNAi;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	Su(Hw)	Late Embryonic stage	Karpen, G.	3719
+Su(Hw);Kc167;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	Su(Hw)	Late Embryonic stage	Karpen, G.	3801
+Su(Hw);ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	Su(Hw)	Larvae 3rd instar	Karpen, G.	951
+Su(Hw);Oregon-R;Embryos 14-16 hr OR;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	Su(Hw)	Embryos 14-16 hr OR	Karpen, G.	3958
+Su(Hw);Oregon-R;Embryos 2-4 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	Su(Hw)	Embryos 2-4 hr OR	Karpen, G.	5066
+Su(Hw);S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	Su(Hw)	Late Embryonic stage	Karpen, G.	330
+Su(Hw);S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	Su(Hw)	Late Embryonic stage	Karpen, G.	331
+Su(Hw);S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	Su(Hw)	Late Embryonic stage	White, K.	4716
+Su(Hw);White prepupae (WPP);ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	Su(Hw)	White prepupae (WPP)	White, K.	4105
+Su(var)3-7;Kc167;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	Su(var)3-7	Late Embryonic stage	Karpen, G.	3060
+Su(var)3-7;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	Su(var)3-7	Larvae 3rd instar	Karpen, G.	2671
+Su(var)3-7;Oregon-R;Embryos 14-16 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	Su(var)3-7	Embryos 14-16 hr OR	Karpen, G.	3297
+Su(var)3-7;Oregon-R;Embryos 14-16 hr OR;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	Su(var)3-7	Embryos 14-16 hr OR	Karpen, G.	4943
+Su(var)3-7;Oregon-R;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Histone Modification	Su(var)3-7	Larvae 3rd instar	Karpen, G.	3059
+Su(var)3-7;Oregon-R;Larvae 3rd instar;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	Su(var)3-7	Larvae 3rd instar	Karpen, G.	5127
+Su(var)3-7;Oregon-R;Mixed Adult;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	Su(var)3-7	Mixed Adult	Karpen, G.	4200
+Su(var)3-7;Oregon-R;Tissue:Heads-OR:GK:1;Mixed Adult;Heads OR;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	Su(var)3-7	Mixed Adult	Karpen, G.	5606
+Su(var)3-7;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	Su(var)3-7	Late Embryonic stage	Karpen, G.	2672
+Su(var)3-9;EGG mutant;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	Su(var)3-9	Larvae 3rd instar	Karpen, G.	4190
+Su(var)3-9;Embryos 0-12 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	Su(var)3-9	Embryos 0-12 hr	White, K.	3396
+Su(var)3-9;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	Su(var)3-9	Larvae 3rd instar	Karpen, G.	952
+Su(var)3-9;Oregon-R;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	Su(var)3-9	Larvae 3rd instar	Karpen, G.	3898
+Su(var)3-9;Oregon-R;Larvae 3rd instar;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	Su(var)3-9	Larvae 3rd instar	Karpen, G.	5128
+Su(var)3-9;Oregon-R;Tissue:Heads-OR:GK:1;Mixed Adult;Heads OR;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	Su(var)3-9	Mixed Adult	Karpen, G.	3802
+Su(var)3-9;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	Su(var)3-9	Late Embryonic stage	Karpen, G.	2673
+Su(var)3-9;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	Su(var)3-9	Late Embryonic stage	Karpen, G.	3061
+Su(var)3-9;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	Su(var)3-9	Late Embryonic stage	Karpen, G.	3899
+tango;Larvae L3 stage;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	tango	Larvae L3 stage	White, K.	5024
+tango;White prepupae (WPP);ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	tango	White prepupae (WPP)	White, K.	5025
+TRAMTRACK;Embryos 0-12 hr;Embryo;ChIP-chip	D. melanogaster	ChIP-chip	Transcriptional Factor	TRAMTRACK	Embryos 0-12 hr	White, K.	615
+trem;Adult Female;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	trem	Adult Female	White, K.	3399
+UBX;Embryos 0-12 hr;Embryo;ChIP-chip	D. melanogaster	ChIP-chip	Transcriptional Factor	UBX	Embryos 0-12 hr	White, K.	614
+UBX;Embryos 3-8 hr;ChIP-chip	D. melanogaster	ChIP-chip	Transcriptional Factor	UBX	Embryos 3-8 hr	White, K.	603
+UBX;Embryos 3-8 hr;ChIP-chip	D. melanogaster	ChIP-chip	Transcriptional Factor	UBX	Embryos 3-8 hr	White, K.	612
+UBX;Embryos 3-8 hr;ChIP-chip	D. melanogaster	ChIP-chip	Transcriptional Factor	UBX	Embryos 3-8 hr	White, K.	613
+usp;USP-GFP;Embryos 0-12 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	usp	Embryos 0-12 hr	White, K.	4114
+usp;USP-GFP;White prepupae (WPP)+12 hrs;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	usp	White prepupae (WPP)+12 hrs	White, K.	4113
+WDS;Kc167;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	WDS	Late Embryonic stage	Karpen, G.	3062
+WDS;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	WDS	Larvae 3rd instar	Karpen, G.	5148
+WDS;Oregon-R;Larvae 3rd instar;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	WDS	Larvae 3rd instar	Karpen, G.	5067
+WDS;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	WDS	Late Embryonic stage	Karpen, G.	953
+Yki;Embryos 0-4 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	Yki	Embryos 0-4 hr	White, K.	3823
+Yki;Embryos 8-16 hr;ChIP-seq	D. melanogaster	ChIP-seq	Transcriptional Factor	Yki	Embryos 8-16 hr	White, K.	5029
+ZFH1;Embryos 0-12 hr;ChIP-chip	D. melanogaster	ChIP-chip	Transcriptional Factor	ZFH1	Embryos 0-12 hr	White, K.	604
+ZW5;ML-DmBG3-c2;Larvae 3rd instar;CNS-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	ZW5	Larvae 3rd instar	Karpen, G.	3064
+ZW5;Oregon-R;Embryos 14-16 hr OR;ChIP-seq	D. melanogaster	ChIP-seq	Non TF Chromatin binding factor	ZW5	Embryos 14-16 hr OR	Karpen, G.	5129
+ZW5;Oregon-R;Embryos 2-4 hr OR;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	ZW5	Embryos 2-4 hr OR	Karpen, G.	5265
+ZW5;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	ZW5	Late Embryonic stage	Karpen, G.	3803
+ZW5;S2-DRSC;Late Embryonic stage;Embryo-derived cell-line;ChIP-chip	D. melanogaster	ChIP-chip	Non TF Chromatin binding factor	ZW5	Late Embryonic stage	Karpen, G.	3804

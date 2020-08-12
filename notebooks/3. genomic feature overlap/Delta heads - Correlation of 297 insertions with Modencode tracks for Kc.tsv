@@ -1,0 +1,6 @@
+Assay Factor	genotype	Tissue	-log10 p-value	log2_enrichment
+MCM2-7	wt	Kc	0.0	-16.609640474436812
+ORC2	wt	Kc	0.42668423277882567	inf
+PolII	wt	Kc	0.0	-16.609640474436812
+PolII-(phospho-S2)	wt	Kc	0.0	-16.609640474436812
+PolII-(phospho-S5)	wt	Kc	0.0	-16.609640474436812
