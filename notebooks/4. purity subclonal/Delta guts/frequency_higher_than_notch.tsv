@@ -1,5 +1,1 @@
 chrom	source	feature	start	end	score	strand	frame	sample_id	vaf	autosome	notch_vaf	color	order
-3L	findcluster	copia	19088104	19088109	9	+	.	KD-6-tumor	0.3673469387755102	True	0.353823584680256	other	30
-3L	findcluster	17.6	16242776	16242781	12	+	.	KD-6-tumor	0.5454545454545454	True	0.353823584680256	other	31
-2R	findcluster	297	13979531	13979536	11	+	.	KD-8-tumor	0.4782608695652174	True	0.4335580573516804	other	74
-3R	findcluster	roo	20892129	20892136	23	+	.	KD-8-tumor	0.6376811594202898	True	0.4335580573516804	other	75
