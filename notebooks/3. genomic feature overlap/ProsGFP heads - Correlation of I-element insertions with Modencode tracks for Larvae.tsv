@@ -1,12 +1,12 @@
 Assay Factor	genotype	Tissue	-log10 p-value	log2_enrichment
-H1	wt	Larvae	1.3203639296458685	inf
+H1	wt	Larvae	0.0	inf
 H2Av	wt	Larvae	0.0	-16.609640474436812
 H2Bubi	wt	Larvae	0.0	-16.609640474436812
-H3	wt	Larvae	0.6976085733799913	inf
-H3K23ac	wt	Larvae	0.2391863880567102	inf
+H3	wt	Larvae	0.0	inf
+H3K23ac	wt	Larvae	0.0	inf
 H3K27ac	wt	Larvae	0.0	-16.609640474436812
 H3K27me1	wt	Larvae	0.0	-16.609640474436812
-H3K27me2	wt	Larvae	0.6928908629041638	inf
+H3K27me2	wt	Larvae	0.0	inf
 H3K27me3	wt	Larvae	0.0	-16.609640474436812
 H3K36me1	wt	Larvae	0.0	-16.609640474436812
 H3K36me3	wt	Larvae	0.0	-16.609640474436812
@@ -31,11 +31,11 @@ HP2	wt	Larvae	0.0	-16.609640474436812
 KDM4A	wt	Larvae	0.0	-16.609640474436812
 LSD1	wt	Larvae	0.0	-16.609640474436812
 ORC2	wt	Larvae	0.0	-16.609640474436812
-POF	wt	Larvae	0.28128157970343765	inf
+POF	wt	Larvae	0.0	inf
 PolII	wt	Larvae	0.0	-16.609640474436812
 RPD3	wt	Larvae	0.0	-16.609640474436812
 Replication-Origin	wt	Larvae	0.0	-16.609640474436812
 Smc3	wt	Larvae	0.0	-16.609640474436812
 Su(var)3-7	wt	Larvae	0.0	-16.609640474436812
-Su(var)3-9	wt	Larvae	0.27061038047110125	inf
+Su(var)3-9	wt	Larvae	0.0	inf
 dSFMBT	wt	Larvae	0.0	-16.609640474436812

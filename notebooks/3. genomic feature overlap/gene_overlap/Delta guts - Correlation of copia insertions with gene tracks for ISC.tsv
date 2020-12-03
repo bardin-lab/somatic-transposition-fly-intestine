@@ -1,7 +1,7 @@
 Assay Factor	genotype	Tissue	enriched	overlap	-log10 p-value	log2_enrichment
-1K-upstream	wt	ISC	enriched	2.0	0.6150197043486957	1.189040151985969
-3P-UTR	wt	ISC	enriched	1.0	0.23798200599351874	0.2666486349416262
-5P-UTR	wt	ISC	enriched	1.0	0.3795828381562656	0.9575506296516801
+1K-upstream	wt	ISC	enriched	2.0	0.0	1.189040151985969
+3P-UTR	wt	ISC	enriched	1.0	0.0	0.2666486349416262
+5P-UTR	wt	ISC	enriched	1.0	0.0	0.9575506296516801
 CDS	wt	ISC	enriched	2.0	0.0	-0.5755938279508653
 Intergenic	wt	ISC	enriched	4.0	0.0	-0.010119848555902441
 Intronic	wt	ISC	enriched	6.0	0.0	-0.19592991541090488

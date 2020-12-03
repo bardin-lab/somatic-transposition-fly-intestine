@@ -2,7 +2,7 @@ Assay Factor	genotype	Tissue	enriched	overlap	-log10 p-value	log2_enrichment
 Brahma	wt	ISC	enriched	0.0	0.0	-16.609640474436812
 H1	wt	ISC	enriched	0.0	0.0	-16.609640474436812
 HP1	wt	ISC	enriched	0.0	0.0	-16.609640474436812
-Kismet	wt	ISC	enriched	1.0	0.6728863835350315	2.979844266309184
-PolII	wt	ISC	enriched	1.0	0.7555496908645706	3.302905369410575
+Kismet	wt	ISC	enriched	1.0	0.12881833918475583	2.979844266309184
+PolII	wt	ISC	enriched	1.0	0.12881833918475583	3.302905369410575
 Polycomb	wt	ISC	enriched	0.0	0.0	-16.609640474436812
 Trr	wt	ISC	enriched	0.0	0.0	-16.609640474436812
