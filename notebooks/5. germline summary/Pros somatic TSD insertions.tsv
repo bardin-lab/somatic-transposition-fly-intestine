@@ -16,7 +16,7 @@ X	19335823	19335826	rover	True	False	1	{'R13_gut_0'}
 X	19297318	19297323	rover	True	False	1	{'H7_gut_3'}
 X	19249603	19249607	rover	True	False	1	{'R53_gut_2'}
 X	18970118	18970122	rover	True	False	1	{'R29_gut_2'}
-X	18663340	18663350	invader1	True	False	2	{'R42B_head_56', 'R42A_head_56'}
+X	18663340	18663350	invader1	True	False	2	{'R42A_head_56', 'R42B_head_56'}
 X	18294955	18294960	rover	True	False	1	{'R53_gut_4'}
 X	18121886	18121891	rover	True	False	1	{'H7_gut_2'}
 X	18114805	18114810	rover	True	False	1	{'R35_gut_0'}
@@ -108,7 +108,7 @@ X	6370605	6370610	rover	True	False	1	{'R63_gut_1'}
 X	6167607	6167612	rover	True	False	1	{'R5_gut_2'}
 X	5393405	5393409	rover	True	False	1	{'R55_gut_0'}
 X	5239094	5239099	rover	True	False	1	{'R57_gut_5'}
-X	5151981	5151982	rover	True	False	2	{'H7_gut_4', 'R61_gut_4'}
+X	5151981	5151982	rover	True	False	2	{'R61_gut_4', 'H7_gut_4'}
 X	5093606	5093607	rover	True	False	1	{'R33_gut_0'}
 X	4912183	4912187	rover	True	False	1	{'H4_gut_10'}
 X	4676540	4676545	rover	True	False	1	{'H7_gut_19'}
@@ -308,7 +308,7 @@ X	393838	393843	rover	True	False	1	{'H4_gut_5'}
 3R	5308232	5308237	copia	True	False	1	{'R41A_gut_6'}
 3R	5301491	5301496	copia	True	False	1	{'R61_gut_22'}
 3R	5227437	5227442	rover	True	False	1	{'R9_gut_5'}
-3R	5111084	5111089	rover	True	False	2	{'H7_gut_16', 'R49_gut_2'}
+3R	5111084	5111089	rover	True	False	2	{'R49_gut_2', 'H7_gut_16'}
 3R	5054418	5054422	rover	True	False	1	{'R29_gut_0'}
 3R	5033894	5033896	rover	True	False	1	{'H7_gut_2'}
 3R	5032978	5032981	rover	True	False	1	{'R33_gut_0'}
@@ -325,7 +325,7 @@ X	393838	393843	rover	True	False	1	{'H4_gut_5'}
 3L	25187254	25187254	gypsy4	True	False	2	{'R42A_head_116', 'R42B_head_116'}
 3L	24731689	24731694	rover	True	False	1	{'R11_gut_2'}
 3L	24725151	24725155	rover	True	False	1	{'R33_gut_0'}
-3L	24150795	24150816	Quasimodo	True	False	2	{'R42B_head_67', 'R42A_head_67'}
+3L	24150795	24150816	Quasimodo	True	False	2	{'R42A_head_67', 'R42B_head_67'}
 3L	24082447	24082493	gypsy4	True	False	1	{'R60_head_120'}
 3L	23721858	23721863	rover	True	False	1	{'R9_gut_2'}
 3L	23437519	23437539	Cr1a	True	False	1	{'R8_head_487'}
@@ -349,7 +349,7 @@ X	393838	393843	rover	True	False	1	{'H4_gut_5'}
 3L	19940077	19940081	rover	True	False	1	{'H4_gut_2'}
 3L	19648907	19648913	rover	True	False	1	{'R35_gut_0'}
 3L	19647647	19647679	roo	True	False	1	{'R23_gut_0'}
-3L	19257820	19257825	rover	True	False	2	{'R5_gut_1', 'R33_gut_0'}
+3L	19257820	19257825	rover	True	False	2	{'R33_gut_0', 'R5_gut_1'}
 3L	19257705	19257710	copia	True	False	1	{'R41A_gut_1'}
 3L	18997333	18997337	rover	True	False	1	{'R45_gut_2'}
 3L	18995182	18995187	rover	True	False	1	{'R55_gut_5'}
@@ -400,7 +400,7 @@ X	393838	393843	rover	True	False	1	{'H4_gut_5'}
 3L	13106274	13106287	TART-A	True	False	1	{'R12_head_15'}
 3L	12829133	12829155	1731	True	False	1	{'R20_head_33'}
 3L	12459583	12459587	rover	True	False	1	{'R37_gut_3'}
-3L	12410280	12410284	rover	True	False	2	{'R61_gut_16', 'R33_gut_3'}
+3L	12410280	12410284	rover	True	False	2	{'R33_gut_3', 'R61_gut_16'}
 3L	12251039	12251040	rover	True	False	1	{'R33_gut_2'}
 3L	12217847	12217851	rover	True	False	1	{'R59_gut_6'}
 3L	12178764	12178770	rover	True	False	1	{'R9_gut_2'}
@@ -515,7 +515,7 @@ X	393838	393843	rover	True	False	1	{'H4_gut_5'}
 2R	20048037	20048082	Dm88	True	False	1	{'H9_head_22'}
 2R	19981134	19981173	F-element	True	False	1	{'R50_head_288'}
 2R	19807777	19807784	rover	True	False	1	{'R13_gut_1'}
-2R	19670202	19670202	McClintock	True	False	2	{'R42B_head_101', 'R42A_head_101'}
+2R	19670202	19670202	McClintock	True	False	2	{'R42A_head_101', 'R42B_head_101'}
 2R	19192948	19192953	gypsy12	True	False	1	{'R11_gut_2'}
 2R	19192204	19192209	rover	True	False	1	{'R63_gut_0'}
 2R	18764924	18764930	rover	True	False	1	{'R35_gut_3'}
@@ -539,7 +539,7 @@ X	393838	393843	rover	True	False	1	{'H4_gut_5'}
 2R	15529558	15529564	copia	True	False	1	{'R57_gut_1'}
 2R	15172590	15172594	rover	True	False	1	{'R27_gut_0'}
 2R	14983224	14983230	copia	True	False	1	{'R11_gut_16'}
-2R	14919483	14919488	rover	True	False	4	{'R21_gut_4', 'H7_gut_17', 'R17_gut_3', 'H4_gut_9'}
+2R	14919483	14919488	rover	True	False	4	{'R21_gut_4', 'H4_gut_9', 'R17_gut_3', 'H7_gut_17'}
 2R	14520587	14520600	I-element	True	False	1	{'H4_gut_6'}
 2R	14518812	14518823	I-element	True	False	1	{'R57_gut_7'}
 2R	14517525	14517536	I-element	True	False	1	{'R45_gut_0'}
@@ -680,7 +680,7 @@ X	393838	393843	rover	True	False	1	{'H4_gut_5'}
 2L	14222144	14222149	copia	True	False	1	{'R33_gut_2'}
 2L	14222041	14222046	copia	True	False	1	{'R51_gut_0'}
 2L	13917257	13917306	F-element	True	False	1	{'R11_gut_19'}
-2L	13887488	13887492	rover	True	False	2	{'R51_gut_1', 'R23_gut_1'}
+2L	13887488	13887492	rover	True	False	2	{'R23_gut_1', 'R51_gut_1'}
 2L	13807320	13807324	copia	True	False	1	{'R61_gut_13'}
 2L	13760838	13760843	rover	True	False	1	{'R33_gut_5'}
 2L	13615963	13615979	I-element	True	False	1	{'R23_gut_0'}

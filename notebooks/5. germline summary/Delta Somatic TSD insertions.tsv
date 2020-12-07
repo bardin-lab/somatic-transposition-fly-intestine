@@ -66,7 +66,7 @@ X	1184124	1184130	copia	True	False	1	{'KD-8-tumor_22'}
 2R	21139893	21139900	copia	True	False	1	{'BD-10-tumor_15'}
 2R	20646267	20646294	Tabor	True	False	1	{'KD-6-tumor_100'}
 2R	20459725	20459750	mdg1	True	False	1	{'KD-6-tumor_74'}
-2R	20459725	20459750	HMS-Beagle	True	False	2	{'BD-10-tumor_70', 'KD-8-tumor_28'}
+2R	20459725	20459750	HMS-Beagle	True	False	2	{'KD-8-tumor_28', 'BD-10-tumor_70'}
 2R	20316111	20316115	297	True	False	1	{'BD-09-tumor_14'}
 2R	20136548	20136554	copia	True	False	1	{'KD-6-tumor_18'}
 2R	20125213	20125217	copia	True	False	1	{'KD-8-tumor_7'}
